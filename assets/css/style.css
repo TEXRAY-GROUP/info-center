@@ -1,0 +1,293 @@
+/* TEXRAY 綜合資訊中心 — 樣式
+   企業識別三色:暖黃 #ffad00 / 青石藍 #4f6c86 / 深海藍 #2c5566 */
+
+:root {
+  /* 企業識別色(不隨主題改變) */
+  --c-amber: #ffad00;
+  --c-slate: #4f6c86;
+  --c-deep:  #2c5566;
+
+  /* 淺色主題 */
+  --bg:        #f2f5f7;
+  --surface:   #ffffff;
+  --surface-2: #f7f9fa;
+  --text:      #1b2a33;
+  --text-dim:  #5f7482;
+  --border:    #dce3e8;
+  --shadow:    0 1px 2px rgba(44, 85, 102, .06), 0 6px 20px rgba(44, 85, 102, .07);
+  --accent:    var(--c-deep);
+  --up:        #c0392b;   /* 升值/上漲 — 台灣金融慣例紅漲 */
+  --down:      #1e7a5a;   /* 貶值/下跌 — 綠跌 */
+  --chart-line: var(--c-slate);
+  --chart-fill: rgba(79, 108, 134, .14);
+
+  color-scheme: light;
+}
+
+html[data-theme="dark"] {
+  --bg:        #0e1a20;
+  --surface:   #16252d;
+  --surface-2: #1c2f38;
+  --text:      #e7eef2;
+  --text-dim:  #9bb0bd;
+  --border:    #2a3f4b;
+  --shadow:    0 1px 2px rgba(0, 0, 0, .3), 0 6px 22px rgba(0, 0, 0, .28);
+  --accent:    var(--c-amber);
+  --up:        #ff6b5a;
+  --down:      #3fbd8f;
+  --chart-line: var(--c-amber);
+  --chart-fill: rgba(255, 173, 0, .15);
+
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Noto Sans TC", "Microsoft JhengHei", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { width: min(1180px, 100% - 2rem); margin-inline: auto; }
+
+/* ---------- 頁首 ---------- */
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: color-mix(in srgb, var(--surface) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+.header-inner {
+  display: flex; align-items: center; gap: 1rem;
+  min-height: 66px; padding-block: .5rem;
+}
+.brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; color: inherit; }
+.brand-mark { width: 34px; height: 34px; flex: none; }
+/* SVG 元素不吃 HTML 的 hidden 屬性,要明確關掉,否則藏起來仍會佔寬度 */
+.brand-mark[hidden] { display: none; }
+.brand-logo { height: 34px; width: auto; flex: none; display: block; }
+/* logo 為深藍配色,深色底會糊掉 → 加一層白底卡片維持辨識度。
+   若日後提供反白版 logo(assets/img/logo-dark.svg),可改為直接換圖。 */
+html[data-theme="dark"] .brand-logo {
+  background: #fff; border-radius: 6px; padding: 3px 6px; height: 40px;
+}
+.brand-text { display: flex; flex-direction: column; line-height: 1.25; }
+.brand-text strong { font-size: 1.05rem; letter-spacing: .01em; }
+.brand-text small { color: var(--text-dim); font-size: .74rem; }
+
+.block-nav { display: flex; gap: .25rem; margin-left: auto; flex-wrap: wrap; }
+.block-nav a {
+  padding: .35rem .7rem; border-radius: 7px; font-size: .87rem;
+  color: var(--text-dim); text-decoration: none;
+}
+.block-nav a:hover { background: var(--surface-2); color: var(--text); }
+.block-nav a.is-soon { opacity: .5; cursor: default; }
+
+.theme-toggle {
+  flex: none; width: 38px; height: 38px; border-radius: 9px;
+  border: 1px solid var(--border); background: var(--surface);
+  color: var(--text-dim); cursor: pointer; display: grid; place-items: center;
+}
+.theme-toggle:hover { color: var(--text); border-color: var(--c-slate); }
+.theme-toggle svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.7; }
+.icon-moon { display: none; }
+html[data-theme="dark"] .icon-sun  { display: none; }
+html[data-theme="dark"] .icon-moon { display: block; }
+
+/* ---------- 區塊(積木)通用 ---------- */
+main { padding-block: 1.6rem 3rem; }
+.boot-hint { padding: 3rem 0; color: var(--text-dim); text-align: center; }
+
+.block {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  scroll-margin-top: 82px;
+}
+.block-head {
+  display: flex; align-items: baseline; gap: .75rem; flex-wrap: wrap;
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(90deg, color-mix(in srgb, var(--c-deep) 6%, transparent), transparent 55%);
+}
+.block-head h2 { margin: 0; font-size: 1.12rem; letter-spacing: .01em; }
+.block-head h2::before {
+  content: ""; display: inline-block; width: 4px; height: 1em;
+  background: var(--c-amber); border-radius: 2px;
+  margin-right: .55rem; transform: translateY(1px);
+}
+.block-meta { color: var(--text-dim); font-size: .8rem; margin-left: auto; text-align: right; }
+.block-meta a { color: inherit; }
+.block-body { padding: 1.25rem; }
+
+.block.is-soon { border-style: dashed; box-shadow: none; background: transparent; }
+.block.is-soon .block-body { color: var(--text-dim); font-size: .9rem; }
+
+.note {
+  font-size: .8rem; color: var(--text-dim);
+  border-left: 3px solid var(--c-amber);
+  padding: .35rem 0 .35rem .6rem; margin: 1rem 0 0;
+}
+
+/* ---------- 匯率:幣別卡 ---------- */
+.rate-grid {
+  display: grid; gap: .8rem;
+  grid-template-columns: repeat(auto-fill, minmax(178px, 1fr));
+}
+.rate-card {
+  position: relative; text-align: left;
+  padding: .8rem .9rem .6rem;
+  border: 1px solid var(--border); border-radius: 11px;
+  background: var(--surface-2); color: inherit;
+  cursor: pointer; font: inherit;
+  transition: border-color .15s, transform .15s;
+}
+.rate-card:hover { border-color: var(--c-slate); transform: translateY(-1px); }
+.rate-card[aria-pressed="true"] {
+  border-color: var(--c-amber);
+  box-shadow: inset 0 0 0 1px var(--c-amber);
+}
+.rate-card .rc-top { display: flex; align-items: center; gap: .4rem; }
+.rate-card .rc-code {
+  font-size: .72rem; font-weight: 700; letter-spacing: .06em;
+  color: #fff; background: var(--c-slate);
+  padding: .05rem .35rem; border-radius: 4px;
+}
+.rate-card .rc-name { font-size: .85rem; color: var(--text-dim); }
+.rate-card .rc-value {
+  font-size: 1.55rem; font-weight: 650; letter-spacing: -.01em;
+  font-variant-numeric: tabular-nums; margin-top: .25rem;
+}
+.rate-card .rc-label { font-size: .72rem; color: var(--text-dim); }
+.rate-card .rc-label .tag {
+  background: color-mix(in srgb, var(--c-amber) 22%, transparent);
+  color: var(--text); padding: 0 .3rem; border-radius: 3px; margin-left: .25rem;
+}
+.rate-card .rc-change { font-size: .8rem; font-variant-numeric: tabular-nums; margin-top: .1rem; }
+.rate-card .rc-spark { margin-top: .35rem; height: 30px; }
+.up   { color: var(--up); }
+.down { color: var(--down); }
+.flat { color: var(--text-dim); }
+
+/* ---------- 匯率:走勢圖 ---------- */
+.rate-detail {
+  margin-top: 1.25rem; padding-top: 1.1rem;
+  border-top: 1px solid var(--border);
+  display: grid; gap: 1.25rem;
+  grid-template-columns: minmax(0, 1.55fr) minmax(260px, 1fr);
+}
+.detail-head { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; margin-bottom: .5rem; }
+.detail-head h3 { margin: 0; font-size: 1rem; }
+.range-tabs { display: flex; gap: .2rem; margin-left: auto; }
+.range-tabs button {
+  border: 1px solid var(--border); background: var(--surface-2); color: var(--text-dim);
+  font: inherit; font-size: .78rem; padding: .18rem .55rem; border-radius: 6px; cursor: pointer;
+}
+.range-tabs button[aria-pressed="true"] {
+  background: var(--c-deep); border-color: var(--c-deep); color: #fff;
+}
+html[data-theme="dark"] .range-tabs button[aria-pressed="true"] {
+  background: var(--c-amber); border-color: var(--c-amber); color: #10222b;
+}
+.chart-box { position: relative; }
+.chart-box svg { display: block; width: 100%; height: auto; overflow: visible; }
+.chart-tip {
+  position: absolute; pointer-events: none; opacity: 0;
+  background: var(--c-deep); color: #fff; font-size: .76rem;
+  padding: .25rem .5rem; border-radius: 6px; white-space: nowrap;
+  transform: translate(-50%, -140%); transition: opacity .1s;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 四價明細 */
+.price-table { width: 100%; border-collapse: collapse; font-size: .87rem; margin-top: .75rem; }
+.price-table th, .price-table td { padding: .4rem .5rem; border-bottom: 1px solid var(--border); }
+.price-table th { text-align: left; color: var(--text-dim); font-weight: 500; }
+.price-table td { text-align: right; font-variant-numeric: tabular-nums; }
+.price-table .na { color: var(--text-dim); }
+
+/* ---------- 匯率換算工具 ---------- */
+.converter {
+  background: var(--surface-2); border: 1px solid var(--border);
+  border-radius: 11px; padding: .95rem 1rem;
+}
+.converter h3 { margin: 0 0 .7rem; font-size: .95rem; }
+.field { margin-bottom: .6rem; }
+.field label { display: block; font-size: .78rem; color: var(--text-dim); margin-bottom: .2rem; }
+.field input, .field select {
+  width: 100%; font: inherit; font-size: .95rem;
+  padding: .42rem .55rem; border-radius: 8px;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text);
+}
+.field input:focus, .field select:focus { outline: 2px solid var(--c-amber); outline-offset: 1px; }
+.seg { display: flex; gap: .25rem; }
+.seg-3 button { font-size: .74rem; padding: .35rem .15rem; }
+.pair { display: flex; align-items: center; gap: .3rem; }
+.pair select { min-width: 0; }
+.swap {
+  flex: none; width: 30px; height: 30px; border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text-dim);
+  font: inherit; font-size: .95rem; line-height: 1;
+}
+.swap:hover { border-color: var(--c-amber); color: var(--text); }
+.seg button {
+  flex: 1; font: inherit; font-size: .8rem; padding: .35rem .3rem;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text-dim);
+  border-radius: 8px; cursor: pointer;
+}
+.seg button[aria-pressed="true"] { background: var(--c-deep); border-color: var(--c-deep); color: #fff; }
+html[data-theme="dark"] .seg button[aria-pressed="true"] { background: var(--c-amber); border-color: var(--c-amber); color: #10222b; }
+.seg button:disabled { opacity: .4; cursor: not-allowed; }
+.conv-result {
+  margin-top: .8rem; padding-top: .7rem; border-top: 1px dashed var(--border);
+}
+.conv-result .cr-value {
+  font-size: 1.6rem; font-weight: 650; font-variant-numeric: tabular-nums;
+  letter-spacing: -.01em; word-break: break-all;
+}
+.conv-result .cr-why { font-size: .76rem; color: var(--text-dim); margin-top: .2rem; }
+
+/* ---------- 頁尾 ---------- */
+.site-footer {
+  border-top: 1px solid var(--border); padding: 1.4rem 0 2.2rem;
+  color: var(--text-dim); font-size: .8rem;
+}
+.site-footer p { margin: .2rem 0; }
+
+/* ---------- 響應式 ---------- */
+@media (max-width: 860px) {
+  .rate-detail { grid-template-columns: 1fr; }
+}
+@media (max-width: 700px) {
+  .header-inner { flex-wrap: wrap; min-height: 0; gap: .5rem; }
+  /* 導覽改成單行可橫向滑動,避免長標題換行把 sticky 頁首撐得太高 */
+  .block-nav {
+    order: 3; width: 100%; margin-left: 0; flex-wrap: nowrap;
+    overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch;
+  }
+  .block-nav::-webkit-scrollbar { display: none; }
+  .block-nav a { white-space: nowrap; }
+  .theme-toggle { margin-left: auto; }
+  .brand-text strong { font-size: .98rem; }
+  /* 收起副標,讓 logo 與主題鈕能並排在同一行(否則頁首會多疊一列) */
+  .brand-text small { display: none; }
+  .block { scroll-margin-top: 108px; }
+  .rate-grid { grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: .6rem; }
+  .rate-card .rc-value { font-size: 1.35rem; }
+  .block-body { padding: 1rem; }
+  .block-meta { margin-left: 0; text-align: left; width: 100%; }
+}
+
+/* 窄螢幕(iPhone SE 等 320px):再縮小 logo */
+@media (max-width: 400px) {
+  .brand-logo { height: 30px; }
+  html[data-theme="dark"] .brand-logo { height: 34px; }
+}

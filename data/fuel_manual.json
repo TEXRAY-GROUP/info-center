@@ -1,0 +1,9 @@
+{
+ "_說明": "FedEx 官網封鎖程式抓取,燃油附加費由人工維護。每週更新 percent 與 as_of 即可。",
+ "_來源": "https://www.fedex.com/zh-tw/shipping/surcharges.html",
+ "fedex": {
+  "percent": 46,
+  "label": "2026-08-10~2026-08-16",
+  "as_of": "2026-08-14"
+ }
+}

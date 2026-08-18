@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TEXRAY 綜合資訊中心</title>
+<meta name="description" content="南緯實業內部綜合資訊平台:匯率、產業新聞、原物料與運費參考。">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="./">
+      <!-- 正式 logo:放 assets/img/logo.svg(或 .png)即自動採用 -->
+      <img class="brand-logo" id="brand-logo" alt="TEXRAY" hidden>
+      <!-- 暫代標記:logo 檔不存在時才顯示 -->
+      <svg class="brand-mark" id="brand-fallback" viewBox="0 0 48 48" aria-hidden="true">
+        <path d="M6 10h20v9H6z" fill="var(--c-deep)"/>
+        <path d="M14 19.5h20v9H14z" fill="var(--c-amber)"/>
+        <path d="M6 29h20v9H6z" fill="var(--c-slate)"/>
+      </svg>
+      <span class="brand-text">
+        <strong><span id="brand-word">TEXRAY </span>綜合資訊中心</strong>
+        <small>南緯實業 · 內部資訊平台</small>
+      </span>
+    </a>
+
+    <nav class="block-nav" id="block-nav" aria-label="區塊導覽"></nav>
+
+    <button class="theme-toggle" id="theme-toggle" type="button"
+            aria-label="切換深淺色" title="切換深淺色">
+      <svg viewBox="0 0 24 24" class="icon-sun" aria-hidden="true">
+        <circle cx="12" cy="12" r="4.5"/>
+        <g stroke-linecap="round"><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.2 5.2l2.1 2.1M16.7 16.7l2.1 2.1M18.8 5.2l-2.1 2.1M7.3 16.7l-2.1 2.1"/></g>
+      </svg>
+      <svg viewBox="0 0 24 24" class="icon-moon" aria-hidden="true">
+        <path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/>
+      </svg>
+    </button>
+  </div>
+</header>
+
+<main class="wrap" id="blocks">
+  <div class="boot-hint" id="boot-hint">載入中…</div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>TEXRAY 綜合資訊中心 · 本站資料僅供公司內部參考,實際交易請以往來銀行或供應商報價為準。</p>
+    <p class="build-info" id="build-info"></p>
+  </div>
+</footer>
+
+<script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

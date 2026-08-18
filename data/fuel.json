@@ -1,0 +1,51 @@
+{
+ "updated_at": "2026-08-18T17:24:17+08:00",
+ "dhl": {
+  "percent": 42.0,
+  "label": "8月 17-23, 2026",
+  "start": "2026-08-17",
+  "end": "2026-08-23",
+  "source": "https://mydhl.express.dhl/tw/zh/ship/surcharges.html",
+  "auto": true,
+  "history": [
+   {
+    "label": "8月 24-30, 2026",
+    "start": "2026-08-24",
+    "end": "2026-08-30",
+    "percent": 42.5
+   },
+   {
+    "label": "8月 17-23, 2026",
+    "start": "2026-08-17",
+    "end": "2026-08-23",
+    "percent": 42.0
+   },
+   {
+    "label": "8月 10-16, 2026",
+    "start": "2026-08-10",
+    "end": "2026-08-16",
+    "percent": 40.25
+   },
+   {
+    "label": "8月 3-9, 2026",
+    "start": "2026-08-03",
+    "end": "2026-08-09",
+    "percent": 38.25
+   },
+   {
+    "label": "7月 27-8月 2, 2026",
+    "start": "2026-07-27",
+    "end": "2026-08-02",
+    "percent": 38.75
+   }
+  ]
+ },
+ "fedex": {
+  "percent": 46,
+  "label": "2026-08-10~2026-08-16",
+  "as_of": "2026-08-14",
+  "source": "https://www.fedex.com/zh-tw/shipping/surcharges.html",
+  "auto": false,
+  "note": "FedEx 官網封鎖程式抓取,此數值由人工維護。"
+ }
+}
