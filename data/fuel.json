@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T18:20:42+08:00",
+ "updated_at": "2026-08-18T18:24:45+08:00",
  "dhl": {
   "percent": 42.0,
   "label": "8月 17-23, 2026",
@@ -41,9 +41,9 @@
   ]
  },
  "fedex": {
-  "percent": 46,
-  "label": "2026-08-10~2026-08-16",
-  "as_of": "2026-08-14",
+  "percent": 43.5,
+  "label": "2026-08-17~2026-08-23",
+  "as_of": "2026-08-18",
   "source": "https://www.fedex.com/zh-tw/shipping/surcharges.html",
   "auto": false,
   "note": "FedEx 官網封鎖程式抓取,此數值由人工維護。"
