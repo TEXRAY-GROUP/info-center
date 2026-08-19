@@ -21,9 +21,10 @@ export const BLOCKS = [
   {
     id: 'news',
     title: '紡織產業新聞',
-    subtitle: '產業媒體彙整',
-    enabled: false,
-    soon: '階段 2 開發中:多來源新聞彙整、關鍵字分類與去重。',
+    subtitle: '多來源彙整',
+    data: 'data/news.json',
+    enabled: true,
+    load: () => import('./blocks/news.js'),
   },
   {
     id: 'materials',
