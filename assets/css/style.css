@@ -291,3 +291,64 @@ html[data-theme="dark"] .seg button[aria-pressed="true"] { background: var(--c-a
   .brand-logo { height: 30px; }
   html[data-theme="dark"] .brand-logo { height: 34px; }
 }
+
+/* ---------- 運費試算 ---------- */
+.fr-form,
+.fr-fuel {
+  display: grid; gap: .8rem;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+}
+.fr-fuel { margin-top: .8rem; }
+.fr-fuel-note { font-size: .76rem; color: var(--text-dim); margin-top: .35rem; }
+.fuel-row { display: flex; align-items: center; gap: .5rem; }
+.fuel-row input[type=range] { flex: 1; accent-color: var(--c-amber); }
+.fuel-val {
+  font-variant-numeric: tabular-nums; font-weight: 650;
+  min-width: 4.2em; text-align: right;
+}
+
+.fr-route {
+  margin: 1.2rem 0 .7rem; font-size: .88rem; color: var(--text-dim);
+  display: flex; align-items: center; gap: .5rem; flex-wrap: wrap;
+}
+.fr-route b { color: var(--text); }
+.fr-badge {
+  font-size: .76rem; padding: .15rem .55rem; border-radius: 999px;
+  background: color-mix(in srgb, var(--c-amber) 22%, transparent);
+}
+
+.fr-cards {
+  display: grid; gap: .9rem;
+  grid-template-columns: repeat(auto-fit, minmax(255px, 1fr));
+}
+.fr-card {
+  border: 1px solid var(--border); border-radius: 12px;
+  padding: .9rem 1rem; background: var(--surface-2);
+}
+.fr-card.win { border-color: var(--down); box-shadow: inset 0 0 0 1px var(--down); }
+.fr-card.na { opacity: .75; }
+.fr-name { font-weight: 650; display: flex; align-items: center; gap: .45rem; flex-wrap: wrap; }
+.fr-zone {
+  font-size: .72rem; font-weight: 400; color: var(--text-dim);
+  border: 1px solid var(--border); padding: 0 .35rem; border-radius: 4px;
+}
+.fr-win {
+  margin-left: auto; font-size: .72rem; background: var(--down);
+  color: #fff; padding: .05rem .45rem; border-radius: 5px;
+}
+.fr-total {
+  font-size: 1.6rem; font-weight: 650; letter-spacing: -.01em;
+  font-variant-numeric: tabular-nums; margin: .25rem 0 .1rem;
+}
+.fr-brk { width: 100%; border-collapse: collapse; font-size: .84rem; margin-top: .5rem; }
+.fr-brk th, .fr-brk td { padding: .3rem .1rem; border-bottom: 1px solid var(--border); }
+.fr-brk th { text-align: left; color: var(--text-dim); font-weight: 400; }
+.fr-brk td { text-align: right; font-variant-numeric: tabular-nums; }
+.fr-brk tr.sum th, .fr-brk tr.sum td { font-weight: 650; border-bottom: none; }
+.fr-how { font-size: .74rem; color: var(--text-dim); margin-top: .35rem; }
+.fr-diff { margin-top: .8rem; font-size: .9rem; }
+.fr-diff b { color: var(--down); }
+.fr-msg {
+  font-size: .85rem; color: var(--text-dim);
+  border-left: 3px solid var(--c-amber); padding: .4rem 0 .4rem .65rem; margin-top: .8rem;
+}

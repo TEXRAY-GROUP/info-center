@@ -34,9 +34,10 @@ export const BLOCKS = [
   },
   {
     id: 'freight',
-    title: '運費參考',
-    subtitle: 'SCFI · CCFI',
-    enabled: false,
-    soon: '規劃中:上海航運交易所 SCFI(21 條航線)與 CCFI 週更指數。',
+    title: '運費試算',
+    subtitle: 'DHL vs FedEx 公告價',
+    data: 'data/freight.json',
+    enabled: true,
+    load: () => import('./blocks/freight.js'),
   },
 ];

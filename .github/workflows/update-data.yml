@@ -38,6 +38,12 @@ jobs:
       - name: 抓取燃油附加費
         run: python scripts/fetch_fuel.py
 
+      # 運費試算:DHL 與 FedEx 對外公告的標準價目表(僅公告價,不含合約價)
+      - name: 抓取運費公告價
+        run: |
+          python scripts/parse_fedex_public.py
+          python scripts/fetch_freight.py
+
       # 未來新增積木時,在這裡加一行 run: python scripts/fetch_<block>.py
 
       - name: 有變動才 commit

@@ -4,3 +4,9 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# 價目表 PDF 原始檔:抓取腳本會自動下載,不需進版控(DHL 那份 6 MB)
+_source/
+
+# 中介檔:FedEx 解析結果,最終資料是 data/freight.json
+data/fedex_public.json
