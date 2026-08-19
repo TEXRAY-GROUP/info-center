@@ -166,18 +166,24 @@ export default {
         </table>`;
     }
 
-    // 視窗寬度變了要重繪圖表(字級依容器寬度換算)
+    // 視窗寬度變了要重繪圖表(字級依容器寬度換算)。
+    // 回傳清理函式,避免反覆切換頁面時監聽器累積。
     const box = root.querySelector('#mat-chart');
     let lastW = box.clientWidth;
     let timer;
-    window.addEventListener('resize', () => {
+    const onResize = () => {
       clearTimeout(timer);
       timer = setTimeout(() => {
         if (Math.abs(box.clientWidth - lastW) > 16) { lastW = box.clientWidth; paint(); }
       }, 150);
-    });
+    };
+    window.addEventListener('resize', onResize);
 
     paint();
+    return () => {
+      window.removeEventListener('resize', onResize);
+      clearTimeout(timer);
+    };
   },
 
   meta(data) {

@@ -317,11 +317,12 @@ export default {
 
     paint();
 
-    // 圖表的字級/留白依容器實際寬度換算,寬度變了(手機轉向、桌機縮放)就重繪
+    // 圖表的字級/留白依容器實際寬度換算,寬度變了(手機轉向、桌機縮放)就重繪。
+    // 回傳清理函式:改成可切換頁面後,不解除的話每進來一次就疊一個監聽器。
     const chartBox = root.querySelector('#chart-box');
     let lastWidth = chartBox.clientWidth;
     let timer;
-    window.addEventListener('resize', () => {
+    const onResize = () => {
       clearTimeout(timer);
       timer = setTimeout(() => {
         if (Math.abs(chartBox.clientWidth - lastWidth) > 16) {
@@ -329,7 +330,12 @@ export default {
           paint();
         }
       }, 150);
-    });
+    };
+    window.addEventListener('resize', onResize);
+    return () => {
+      window.removeEventListener('resize', onResize);
+      clearTimeout(timer);
+    };
   },
 
   /**

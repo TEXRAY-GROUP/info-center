@@ -53,54 +53,105 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-.wrap { width: min(1180px, 100% - 2rem); margin-inline: auto; }
 
-/* ---------- 頁首 ---------- */
-.site-header {
-  position: sticky; top: 0; z-index: 50;
-  background: color-mix(in srgb, var(--surface) 88%, transparent);
-  backdrop-filter: blur(10px);
-  border-bottom: 1px solid var(--border);
+/* ---------- 版型:桌機左側欄,窄螢幕自動變頂部頁籤 ---------- */
+.layout { display: flex; min-height: 100vh; }
+
+.sidebar {
+  flex: none; width: 232px;
+  position: sticky; top: 0; align-self: flex-start;
+  height: 100vh; padding: 1.1rem .9rem;
+  display: flex; flex-direction: column; gap: 1rem;
+  background: var(--surface); border-right: 1px solid var(--border);
 }
-.header-inner {
-  display: flex; align-items: center; gap: 1rem;
-  min-height: 66px; padding-block: .5rem;
-}
-.brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; color: inherit; }
-.brand-mark { width: 34px; height: 34px; flex: none; }
+.content { flex: 1; min-width: 0; padding: 1.6rem 1.5rem 3rem; }
+
+.brand { display: flex; align-items: center; gap: .6rem; text-decoration: none; color: inherit; }
+.brand-mark { width: 32px; height: 32px; flex: none; }
 /* SVG 元素不吃 HTML 的 hidden 屬性,要明確關掉,否則藏起來仍會佔寬度 */
 .brand-mark[hidden] { display: none; }
-.brand-logo { height: 34px; width: auto; flex: none; display: block; }
-/* logo 為深藍配色,深色底會糊掉 → 加一層白底卡片維持辨識度。
-   若日後提供反白版 logo(assets/img/logo-dark.svg),可改為直接換圖。 */
+.brand-logo { height: 30px; width: auto; flex: none; display: block; }
+/* logo 為深藍配色,深色底會糊掉 → 墊一層白底維持辨識度 */
 html[data-theme="dark"] .brand-logo {
-  background: #fff; border-radius: 6px; padding: 3px 6px; height: 40px;
+  background: #fff; border-radius: 6px; padding: 3px 6px; height: 36px;
 }
-.brand-text { display: flex; flex-direction: column; line-height: 1.25; }
-.brand-text strong { font-size: 1.05rem; letter-spacing: .01em; }
-.brand-text small { color: var(--text-dim); font-size: .74rem; }
+.brand-text { display: flex; flex-direction: column; line-height: 1.25; min-width: 0; }
+.brand-text strong { font-size: .98rem; letter-spacing: .01em; }
+.brand-text small { color: var(--text-dim); font-size: .72rem; }
 
-.block-nav { display: flex; gap: .25rem; margin-left: auto; flex-wrap: wrap; }
-.block-nav a {
-  padding: .35rem .7rem; border-radius: 7px; font-size: .87rem;
-  color: var(--text-dim); text-decoration: none;
+.nav { display: flex; flex-direction: column; gap: .15rem; flex: 1; overflow-y: auto; }
+.nav a, .nav .nav-soon {
+  display: flex; flex-direction: column; gap: .05rem;
+  padding: .45rem .6rem; border-radius: 8px;
+  text-decoration: none; color: var(--text-dim);
+  border-left: 3px solid transparent;
 }
-.block-nav a:hover { background: var(--surface-2); color: var(--text); }
-.block-nav a.is-soon { opacity: .5; cursor: default; }
+.nav a:hover { background: var(--surface-2); color: var(--text); }
+.nav a.is-active {
+  background: color-mix(in srgb, var(--c-amber) 14%, transparent);
+  border-left-color: var(--c-amber); color: var(--text);
+}
+.nav .nav-title { font-size: .9rem; }
+.nav a.is-active .nav-title { font-weight: 650; }
+.nav .nav-sub { font-size: .68rem; opacity: .75; }
+.nav .nav-soon { opacity: .45; cursor: default; }
+
+.side-foot {
+  display: flex; align-items: center; gap: .6rem;
+  padding-top: .8rem; border-top: 1px solid var(--border);
+}
+.build-info { font-size: .68rem; color: var(--text-dim); line-height: 1.4; }
 
 .theme-toggle {
-  flex: none; width: 38px; height: 38px; border-radius: 9px;
+  flex: none; width: 34px; height: 34px; border-radius: 9px;
   border: 1px solid var(--border); background: var(--surface);
   color: var(--text-dim); cursor: pointer; display: grid; place-items: center;
 }
 .theme-toggle:hover { color: var(--text); border-color: var(--c-slate); }
-.theme-toggle svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.7; }
+.theme-toggle svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.7; }
 .icon-moon { display: none; }
 html[data-theme="dark"] .icon-sun  { display: none; }
 html[data-theme="dark"] .icon-moon { display: block; }
 
+/* 窄螢幕:側欄攤平成頂部,導覽變成可橫向滑動的頁籤 */
+@media (max-width: 900px) {
+  .layout { flex-direction: column; }
+  .sidebar {
+    /* 側欄自己也是 flex 項目,min-width 預設為內容寬,會被頁籤撐得比畫面寬;
+       撐開後 .nav 的 flex-basis:100% 又相對於這個放大的寬度計算,形成循環。
+       必須明確把它限制在畫面寬,頁籤的 overflow-x 才會生效。 */
+    width: auto; min-width: 0; max-width: 100%;
+    height: auto; position: sticky; top: 0; z-index: 50;
+    flex-direction: row; align-items: center; gap: .7rem;
+    padding: .5rem .9rem; border-right: none; border-bottom: 1px solid var(--border);
+    background: color-mix(in srgb, var(--surface) 92%, transparent);
+    backdrop-filter: blur(10px);
+    flex-wrap: wrap;
+  }
+  .brand-text small { display: none; }
+  .nav {
+    order: 3; flex-direction: row; gap: .2rem;
+    overflow-x: auto; scrollbar-width: none;
+    /* 要讓頁籤換到自己那一行,必須用 flex-basis 100%:
+       只寫 width:100% 會被 flex-shrink 壓縮,三個元素擠在同一列,
+       再加上 flex 項目 min-width 預設為內容寬,就會把側欄撐得比畫面還寬。 */
+    flex: 0 0 100%;
+    min-width: 0;
+  }
+  .nav::-webkit-scrollbar { display: none; }
+  .nav a, .nav .nav-soon {
+    flex-direction: row; align-items: center; white-space: nowrap;
+    border-left: none; border-bottom: 2px solid transparent;
+    border-radius: 7px 7px 0 0; padding: .35rem .6rem;
+  }
+  .nav a.is-active { border-left-color: transparent; border-bottom-color: var(--c-amber); }
+  .nav .nav-sub { display: none; }
+  .side-foot { margin-left: auto; border-top: none; padding-top: 0; }
+  .build-info { display: none; }
+  .content { padding: 1.1rem 1rem 2.5rem; }
+}
+
 /* ---------- 區塊(積木)通用 ---------- */
-main { padding-block: 1.6rem 3rem; }
 .boot-hint { padding: 3rem 0; color: var(--text-dim); text-align: center; }
 
 .block {
@@ -267,29 +318,17 @@ html[data-theme="dark"] .seg button[aria-pressed="true"] { background: var(--c-a
   .rate-detail { grid-template-columns: 1fr; }
 }
 @media (max-width: 700px) {
-  .header-inner { flex-wrap: wrap; min-height: 0; gap: .5rem; }
-  /* 導覽改成單行可橫向滑動,避免長標題換行把 sticky 頁首撐得太高 */
-  .block-nav {
-    order: 3; width: 100%; margin-left: 0; flex-wrap: nowrap;
-    overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch;
-  }
-  .block-nav::-webkit-scrollbar { display: none; }
-  .block-nav a { white-space: nowrap; }
-  .theme-toggle { margin-left: auto; }
-  .brand-text strong { font-size: .98rem; }
-  /* 收起副標,讓 logo 與主題鈕能並排在同一行(否則頁首會多疊一列) */
-  .brand-text small { display: none; }
   .block { scroll-margin-top: 108px; }
-  .rate-grid { grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: .6rem; }
-  .rate-card .rc-value { font-size: 1.35rem; }
   .block-body { padding: 1rem; }
   .block-meta { margin-left: 0; text-align: left; width: 100%; }
+  .rate-grid { grid-template-columns: repeat(auto-fill, minmax(138px, 1fr)); gap: .6rem; }
+  .rate-card .rc-value { font-size: 1.35rem; }
 }
 
 /* 窄螢幕(iPhone SE 等 320px):再縮小 logo */
 @media (max-width: 400px) {
-  .brand-logo { height: 30px; }
-  html[data-theme="dark"] .brand-logo { height: 34px; }
+  .brand-logo { height: 26px; }
+  html[data-theme="dark"] .brand-logo { height: 30px; }
 }
 
 /* ---------- 運費試算 ---------- */
