@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-19T18:29:44+08:00",
+ "fetched_at": "2026-08-19T18:48:51+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -359,7 +359,7 @@
   },
   {
    "title": "運動休閒風潮助攻 亞瑟士大幅上調全年財測股價創高",
-   "source": "tw.stock.yahoo.com",
+   "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNZTFsYkpGd2V6cGxlOWlzQTBxVHJUemxrb1gzVjBCdHNsbWJPdWhkY3ZtVlFWWWJYaXlNQzZ2SzhiNzFkNkVUNjVoMFB1bmdpSllLM2E3RXlqMUg1T2Izb2czQUpOMVBlUE83R1RFbl9hbkdtaUczTUsyRmRLMlFOelhUMXFwRjQzYlFXUlpLM1Y4bWxaQjFKSUFsNEZwUTVVcFdNakRtQ0VRSk5EMkNvNzM5Vl9Sa1JZV29NWU9CR3ctbU9vLTY1LUoxR3pZamdOcHBhNVhLX1ZhYndWZ21IclcwUXd4RE81WVN4ZW1Ic0ZReS0yYWxhMEFxMVdtZnFLeU5LcWtRakU3b2h1QVVUcVhlQ01kZU00U29zV2VPNmxCVWJNSHNyRnRWcjNtWUR2UHd1Vm1ReEJYUkh5N1JIMzQ1cjlLaWFsOC16WkZQcDlxd0padmFHUVlCYk5XSndyMkV4a2RmMUFaXy1wb0ZqMQ?oc=5",
    "date": "2026-08-17 10:52",
    "lang": "zh",
@@ -409,7 +409,7 @@
   },
   {
    "title": "世界盃行銷燒錢 adidas Q2獲利遜股價摔逾11%",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDNmTmZyMklCNXFBVnFsX3VVM2gza1FFZE5mSFNHeW5HSHhabkFzc2dudjZ2a2swbXdlWmtCdEVYTDZRcEx4SFFFUjNubVhmbE1mSTlmOExEVWU1aUdTM0EzRkNUcmg1emtBQ3BrVXJjNUU0dEZnWTgyYU5TR3NwTy1aLUZoV0tpRDFtTHN1SnFjdw?oc=5",
    "date": "2026-07-31 15:00",
    "lang": "zh",
@@ -419,7 +419,7 @@
   },
   {
    "title": "愛迪達世足燒錢 傷獲利",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lUkVFZ3RIR212VEF2VXpULWFQV3hHVHpCNEQ0bFlKSGgzYUt4eXNaaGxpb3hTTlZEY0pnS18tRC1Od0dlQVZZQmlrYjZaYjdhdVBaNHd5Ump0QdIBX0FVX3lxTE9JX0NnYWdyZjJ4REpMMDlsbXRDb0JGOXJ3bVc1VkZtVEdYMXNRUnRiTVpWZ0tIU1FjbElCWGpPR1BnaXRrUGFZNWc2T0cxUG5aV2RWd0VqLXN3MjNQTUhv?oc=5",
    "date": "2026-07-31 15:00",
    "lang": "zh",

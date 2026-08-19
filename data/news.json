@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-19T18:29:42+08:00",
+ "fetched_at": "2026-08-19T18:48:49+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -60,7 +60,7 @@
   },
   {
    "title": "【13:04 即時新聞】力鵬(1447)股價小幅走揚至6.94元，延續紡織低價股題材買盤＋短線技術面偏弱下的反彈試單",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXNhUzJvWTA3Ry1NTVB5YzJyVVQzVEo1anVkaWlRRE9DZVZ3VGZFajdnUFFHWlc2cmphOE16dUVsVnloR3psN052YXZpRDlRNjk1MHEzS2ZOZjUyVjJCN0ZselI0bWhuVW5MODJycy1KaEc1djUzXzQ0d1RGWXIyNDJPUEJ3QnRsTl9WYUln?oc=5",
    "date": "2026-08-18 13:05",
    "cats": [
@@ -69,7 +69,7 @@
   },
   {
    "title": "【12:13 即時新聞】力麗(1444)股價小幅走強，受紡織股補漲題材支撐＋法人近日偏多回補帶動低檔承接",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblIzTzA0MVRhTE53RXhPS0d0WHY1NFhlUDNETm9CMTRLMjd1WXFzVnR2a19SdzU0NFZLNDZ2SmJZbzA0eHBlSEVabUo5cnZqUzluLVVvYzI3OW5ZeTFSWElkV3RDM09DdFdpd0NKTHE1YXN4MVR3RlFHdFhrNU8yUUluMHBnYXZKZDA3YlRn?oc=5",
    "date": "2026-08-18 12:14",
    "cats": [
@@ -87,7 +87,7 @@
   },
   {
    "title": "轉型見效紡織業Q3前景可期",
-   "source": "ctee.com.tw",
+   "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
    "date": "2026-08-17 03:00",
    "cats": [
@@ -96,7 +96,7 @@
   },
   {
    "title": "成衣廠營收靚下半年看好",
-   "source": "ctee.com.tw",
+   "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IRUN1dTJLSzBrekxwOWhzUTdfVGcxTF80cjZ5Z3dUSmczeEM2djV6VWpybnBmS0lGNHJ6S1hqTEJkeHJuTzZ5WjdpbEVNbi10TUt2MmZmUzFlMDNCLTdj?oc=5",
    "date": "2026-08-11 03:00",
    "cats": [
@@ -118,7 +118,7 @@
   },
   {
    "title": "紡織所「膝關節炎在宅系統」 獲選高齡健康產業博覽會十大友善科技",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BU3N2ckZ4bERfTmg0b3lNZElUNmdjclNyVGNiQy1ZWXIxSW1yTmtGOTZQZDhLbXZoNG5jM3dEMDdmTFZTQlp5S2RMNmk1aTg4TFh4QWVLVXJodw?oc=5",
    "date": "2026-08-07 15:00",
    "cats": [
@@ -127,7 +127,7 @@
   },
   {
    "title": "儒鴻7月成衣放量，下半年看優上半年",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVpKTENqMEtaU0pkeWh3Wl9XVDdZVVB2NG5BajI0ZzdVWVAyam1QX3VpRXJ2bEh6VmpfUUJXSEJSUnoyZC05VjVHUDJ1VE9YRmUyLUF3TTNXWXZmZURuTTFRY24yRk1sSHFnbDgyX2JCcXl3X3lJLXUyNkdHWGVSVGNpYVN3eUJWcVVITUx1S1Zkdw?oc=5",
    "date": "2026-08-07 15:00",
    "cats": [
@@ -156,7 +156,7 @@
   },
   {
    "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造",
-   "source": "tw.stock.yahoo.com",
+   "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNMXpSMEF6eF9qN0wyOXNLTlVSUzl3RzkwOEhTS1VJR2JVZ2dVRGRiLUxsNnFzeUFRM2lZbXlIaG1KM3F5MUIxVFpxdnVXZThGWVJHeDRza3dLQkRIWEIzZFJ4el8tWUpTSldVX20ydkhuSE1aRVJJcDN3WHEzaENRR0c0OWpTVlZPbzlCU0RhNWk5Xy1idnVDRjI2U0JPdWlnbUJSSkRVQy1rQjdIZzc2TmZ2d3NBWFRlWmR3V0tVWHgwdy1GNGRXZ0tJSUIyRjJKblhhb1I5dGxuSG5FOXRQa0lSSEg3ODJXOC1MVldoZTd5UlFVTUQyeERva1BrNFFGZHJ1Z3p5NVFFdGlaWE9wRTFQRjJibUtZbFVNUGpObnU2OHYyQ1N0MlhmOFB4a2w4bDhvMVBYY2tHS2NwNmhMOUQxblJ2eUw1Ymk0RVJRVFdEVEtoUk1yZWNSd1phUTFTTmFZRDE3WlR5WDQ4a0VEODBfV0ozYmZJZmdLaGtrVWNPc0M3M184UA?oc=5",
    "date": "2026-08-05 15:00",
    "cats": [
@@ -202,7 +202,7 @@
   },
   {
    "title": "僑生成企業國際布局助力重電與紡織先驅分享留用國際人才經驗",
-   "source": "ctee.com.tw",
+   "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zX3R1VEFCX04wdHVva1VLTHo4Vl9MM2tqZjV1cDFSUDVEVG5RZFNXaXIxNDNJbnZPTzVCRHpkSnhSTnlDaHBfMTBkV0pCMUdIcS1BVUpVVzl2YTA5NEJn?oc=5",
    "date": "2026-07-30 15:00",
    "cats": [
@@ -229,7 +229,7 @@
   },
   {
    "title": "台灣獲10%不疊加稅率待遇 機械、紡織、塑化業 樂觀看待",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SmJXZzkyMDR0TndzSnlEZTEwdjJESVQ0T0dmalctUU9iRm1ZVDVDNXdVMzhqeUxpbFJoNEl0dmRsd0VURUxLZEpISU1UYXBvZ0JaYUtCT0NnZ9IBX0FVX3lxTE1uZmhKYzdxSzBaY0kzN09SV09VOGxLSEp0NkJCNnk1ZXJBbG9jbWNWZkNjNHpuNHdXOGtRNDF2S3ZEdEpiNlJfdXRVUmtGVTBCNmREa2tJTzlqUGV4MU1r?oc=5",
    "date": "2026-07-25 15:00",
    "cats": [
@@ -238,7 +238,7 @@
   },
   {
    "title": "【12:47 即時新聞】竣邦-KY(4442)股價溫和走高至57.4元，越南織染二廠與運動機能布成長題材加持，技術面多頭結構搭配主力買盤迴流",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYU5ySTNDUVY0UUtZTFFQMW9TVFZudkZ1cGxBY1ViOTlVV3hBQS1LTU5CWUhENnk0NlNhU283WUozMVBFaVNxa09Ib2ZkSE5PaURNZktOWV9oTVJka182eDdBb3dUT2xKWXBIdUxsaVlEWlNRaXJ3TV9TNTZHRjNaS0lfVkNnR1JoUXBrdlNR?oc=5",
    "date": "2026-07-24 15:00",
    "cats": [
