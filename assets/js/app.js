@@ -117,6 +117,6 @@ function buildNav() {
     .sort();
   if (stamps.length) {
     document.getElementById('build-info').textContent =
-      `最後檢查:${fmtDateTime(stamps.at(-1))} · 每個工作日 08:37、17:23 自動更新`;
+      `最後檢查:${fmtDateTime(stamps.at(-1))} · 每個工作日 09:23、16:47、18:43 自動更新`;
   }
 })();
