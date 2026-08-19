@@ -30,32 +30,57 @@ jobs:
         with:
           python-version: '3.12'
 
+      # parse_fedex_public.py 需要 PyMuPDF(fitz)解析 PDF,GitHub 執行環境沒有預裝。
+      # 漏掉這步的話,只有運費那步會失敗,其餘腳本因為只用標準庫仍會通過——
+      # 本機開發時套件早就裝好,不會察覺這個落差。
+      - name: 安裝相依套件
+        run: pip install -r requirements.txt
+
+      # ---------------------------------------------------------------
+      # 各來源一律 continue-on-error:單一來源掛掉不該讓其他抓好的資料無法入庫。
+      # 失敗與否在最後一步統一回報,確保執行紀錄仍然是紅的、不會被忽略。
+      # ---------------------------------------------------------------
       - name: 抓取匯率(臺灣銀行牌告)
+        id: rates
+        continue-on-error: true
         run: python scripts/fetch_rates.py
 
       # 燃油附加費:DHL 自動抓,FedEx 讀 data/fuel_manual.json(人工每週維護)
       # 產出的 data/fuel.json 供內部運費試算工具跨域取用
       - name: 抓取燃油附加費
+        id: fuel
+        continue-on-error: true
         run: python scripts/fetch_fuel.py
 
       - name: 抓取紡織產業新聞
+        id: news
+        continue-on-error: true
         run: python scripts/fetch_news.py
 
       - name: 抓取品牌客戶動態
+        id: brands
+        continue-on-error: true
         run: python scripts/fetch_brands.py
 
       - name: 抓取原物料價格
+        id: materials
+        continue-on-error: true
         run: python scripts/fetch_materials.py
 
       # 運費試算:DHL 與 FedEx 對外公告的標準價目表(僅公告價,不含合約價)
       - name: 抓取運費公告價
+        id: freight
+        continue-on-error: true
         run: |
           python scripts/parse_fedex_public.py
           python scripts/fetch_freight.py
 
-      # 未來新增積木時,在這裡加一行 run: python scripts/fetch_<block>.py
+      # 未來新增積木時,在這裡照上面的格式加一步(記得補 id 與 continue-on-error,
+      # 並在「回報失敗來源」那步加一行 check)
 
+      # if: always() —— 前面任一來源失敗時仍要執行,把成功抓到的資料存進去
       - name: 有變動才 commit
+        if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -66,3 +91,23 @@ jobs:
             git commit -m "資料自動更新 $(TZ=Asia/Taipei date '+%Y-%m-%d %H:%M')"
             git push
           fi
+
+      # 有任何來源失敗就讓整個 job 判定為失敗,才不會安靜地壞掉沒人發現
+      - name: 回報失敗的來源
+        if: always()
+        run: |
+          fail=0
+          check() {
+            if [ "$2" != "success" ]; then
+              echo "::error::$1 抓取失敗($2)"
+              fail=1
+            fi
+          }
+          check 匯率        "${{ steps.rates.outcome }}"
+          check 燃油附加費  "${{ steps.fuel.outcome }}"
+          check 紡織產業新聞 "${{ steps.news.outcome }}"
+          check 品牌客戶動態 "${{ steps.brands.outcome }}"
+          check 原物料價格  "${{ steps.materials.outcome }}"
+          check 運費公告價  "${{ steps.freight.outcome }}"
+          if [ "$fail" = "0" ]; then echo "全部來源皆正常"; fi
+          exit $fail
