@@ -413,3 +413,61 @@ html[data-theme="dark"] .seg button[aria-pressed="true"] { background: var(--c-a
   padding: 0 .25rem; border-radius: 3px;
 }
 html[data-theme="dark"] .lang-badge { border-color: var(--text-dim); color: var(--text-dim); }
+
+/* ---------- 原物料價格 ---------- */
+.mat-group { margin-bottom: 1rem; }
+.mat-group h4 {
+  margin: 0 0 .5rem; font-size: .85rem; font-weight: 600; color: var(--text-dim);
+}
+.mat-group h4::before {
+  content: ""; display: inline-block; width: 3px; height: .9em;
+  background: var(--c-slate); border-radius: 2px;
+  margin-right: .45rem; transform: translateY(1px);
+}
+.mat-grid {
+  display: grid; gap: .7rem;
+  grid-template-columns: repeat(auto-fill, minmax(168px, 1fr));
+}
+.mat-card {
+  text-align: left; padding: .7rem .8rem .55rem;
+  border: 1px solid var(--border); border-radius: 11px;
+  background: var(--surface-2); color: inherit; cursor: pointer; font: inherit;
+  transition: border-color .15s, transform .15s;
+}
+.mat-card:hover { border-color: var(--c-slate); transform: translateY(-1px); }
+.mat-card[aria-pressed="true"] {
+  border-color: var(--c-amber); box-shadow: inset 0 0 0 1px var(--c-amber);
+}
+.mat-name { font-size: .84rem; color: var(--text-dim); }
+.mat-price {
+  font-size: 1.4rem; font-weight: 650; letter-spacing: -.01em;
+  font-variant-numeric: tabular-nums; margin-top: .15rem;
+}
+.mat-unit { font-size: .72rem; color: var(--text-dim); }
+.mat-twd { font-size: .74rem; color: var(--accent); font-variant-numeric: tabular-nums; }
+.mat-change { font-size: .78rem; font-variant-numeric: tabular-nums; margin-top: .1rem; }
+.mat-spark { margin-top: .3rem; height: 28px; }
+
+.mat-info { font-size: .78rem; color: var(--text-dim); margin-top: .6rem; line-height: 1.7; }
+.mat-side { display: flex; flex-direction: column; gap: .8rem; }
+.mat-big {
+  background: var(--surface-2); border: 1px solid var(--border);
+  border-radius: 11px; padding: .85rem .95rem;
+}
+.mat-big-label { font-size: .78rem; color: var(--text-dim); }
+.mat-big-price {
+  font-size: 1.65rem; font-weight: 650; font-variant-numeric: tabular-nums;
+  letter-spacing: -.01em; margin: .1rem 0;
+}
+.mat-big-price small { font-size: .8rem; font-weight: 400; color: var(--text-dim); }
+.mat-big-twd {
+  font-size: 1rem; font-weight: 600; color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.mat-note-small { font-size: .72rem; color: var(--text-dim); margin-top: .3rem; line-height: 1.6; }
+
+@media (max-width: 700px) {
+  /* 8 個品項單欄會拉太長,縮小最小寬度讓它排兩欄 */
+  .mat-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: .6rem; }
+  .mat-price { font-size: 1.25rem; }
+}

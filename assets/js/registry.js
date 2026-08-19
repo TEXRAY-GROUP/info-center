@@ -37,9 +37,10 @@ export const BLOCKS = [
   {
     id: 'materials',
     title: '原物料價格',
-    subtitle: '棉花 · 原油 · 天然氣',
-    enabled: false,
-    soon: '規劃中:期貨價格與走勢。聚酯/PTA 等化纖報價目前無免費公開來源,將另議。',
+    subtitle: '聚酯鏈 · 棉花 · 能源',
+    data: 'data/materials.json',
+    enabled: true,
+    load: () => import('./blocks/materials.js'),
   },
   {
     id: 'freight',
