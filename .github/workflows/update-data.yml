@@ -41,6 +41,9 @@ jobs:
       - name: 抓取紡織產業新聞
         run: python scripts/fetch_news.py
 
+      - name: 抓取品牌客戶動態
+        run: python scripts/fetch_brands.py
+
       # 運費試算:DHL 與 FedEx 對外公告的標準價目表(僅公告價,不含合約價)
       - name: 抓取運費公告價
         run: |

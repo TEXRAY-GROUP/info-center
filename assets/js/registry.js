@@ -27,6 +27,14 @@ export const BLOCKS = [
     load: () => import('./blocks/news.js'),
   },
   {
+    id: 'brands',
+    title: '品牌客戶動態',
+    subtitle: '國際成衣品牌經營面消息',
+    data: 'data/brands.json',
+    enabled: true,
+    load: () => import('./blocks/brands.js'),
+  },
+  {
     id: 'materials',
     title: '原物料價格',
     subtitle: '棉花 · 原油 · 天然氣',

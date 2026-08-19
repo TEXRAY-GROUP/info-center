@@ -395,3 +395,21 @@ html[data-theme="dark"] .seg button[aria-pressed="true"] { background: var(--c-a
   .news-cats::-webkit-scrollbar { display: none; }
   .news-cats button { white-space: nowrap; }
 }
+
+/* ---------- 品牌客戶動態(其餘沿用 .news-*)---------- */
+.news-bar select {
+  font: inherit; font-size: .85rem; padding: .35rem .5rem; border-radius: 8px;
+  border: 1px solid var(--border); background: var(--surface); color: var(--text);
+}
+.news-bar select:focus { outline: 2px solid var(--c-amber); outline-offset: 1px; }
+.brand-badge {
+  font-weight: 650; color: var(--text);
+  background: color-mix(in srgb, var(--c-amber) 24%, transparent);
+  padding: 0 .35rem; border-radius: 4px;
+}
+.lang-badge {
+  font-size: .68rem; letter-spacing: .04em;
+  border: 1px solid var(--c-slate); color: var(--c-slate);
+  padding: 0 .25rem; border-radius: 3px;
+}
+html[data-theme="dark"] .lang-badge { border-color: var(--text-dim); color: var(--text-dim); }
