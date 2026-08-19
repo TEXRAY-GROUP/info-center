@@ -30,9 +30,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      # parse_fedex_public.py 需要 PyMuPDF(fitz)解析 PDF,GitHub 執行環境沒有預裝。
-      # 漏掉這步的話,只有運費那步會失敗,其餘腳本因為只用標準庫仍會通過——
-      # 本機開發時套件早就裝好,不會察覺這個落差。
+      # 目前排程用到的腳本全部只用 Python 標準庫,這步實際上不會裝到東西。
+      # 仍保留的原因:先前加運費積木時,腳本需要 PyMuPDF 卻沒有對應的安裝步驟,
+      # 而其餘腳本因為只用標準庫仍會通過,本機開發又早已裝好套件,結果是
+      # 「本機能跑、CI 不能跑」而且只有那一步紅。留著這步,日後新積木只要把
+      # 套件寫進 requirements.txt 就會生效,不會再踩同一個坑。
       - name: 安裝相依套件
         run: pip install -r requirements.txt
 
@@ -67,13 +69,12 @@ jobs:
         continue-on-error: true
         run: python scripts/fetch_materials.py
 
-      # 運費試算:DHL 與 FedEx 對外公告的標準價目表(僅公告價,不含合約價)
-      - name: 抓取運費公告價
-        id: freight
-        continue-on-error: true
-        run: |
-          python scripts/parse_fedex_public.py
-          python scripts/fetch_freight.py
+      # 運費公告價(data/freight.json)刻意不放在這裡:
+      #   1. 兩家都是「年度」價目表(DHL 1/1、FedEx 1/5 生效),一年才換一次,
+      #      每天抓三次、下載 6 MB PDF 重新解析,得到的永遠是同一份資料。
+      #   2. FedEx 的 Akamai 會擋 GitHub 機房 IP(下載到的不是 PDF),
+      #      在 Actions 裡根本抓不到,必須從台灣的網路環境執行。
+      # 因此改為本機產生後提交,並由 freight-annual-check.yml 每月檢查是否該換年度版。
 
       # 未來新增積木時,在這裡照上面的格式加一步(記得補 id 與 continue-on-error,
       # 並在「回報失敗來源」那步加一行 check)
@@ -108,6 +109,5 @@ jobs:
           check 紡織產業新聞 "${{ steps.news.outcome }}"
           check 品牌客戶動態 "${{ steps.brands.outcome }}"
           check 原物料價格  "${{ steps.materials.outcome }}"
-          check 運費公告價  "${{ steps.freight.outcome }}"
           if [ "$fail" = "0" ]; then echo "全部來源皆正常"; fi
           exit $fail

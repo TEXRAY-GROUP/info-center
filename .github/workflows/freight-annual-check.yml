@@ -1,0 +1,43 @@
+name: 運費公告價年度檢查
+
+# DHL 與 FedEx 的公告價是年度版,一年才換一次,而且 FedEx 的 Akamai 會擋
+# GitHub 機房 IP,無法在 Actions 裡自動抓取(見 .github/freight-annual-reminder.md)。
+# 因此不自動更新,只負責「提醒」:每月檢查一次,發現還停在去年就開 issue。
+# 每月而非每年執行,是為了萬一某次排程被跳過,下個月還會再提醒一次。
+
+on:
+  schedule:
+    - cron: '17 1 1 * *'    # UTC 每月 1 日 01:17 = 台北 09:17
+  workflow_dispatch:        # 也可手動執行來驗證
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 檢查價目表年度
+        id: check
+        run: python scripts/check_freight_year.py
+
+      # 已經有同名的未關閉 issue 就不重複開,避免每月洗版
+      - name: 過期就開提醒 issue
+        if: steps.check.outputs.stale == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TITLE: 運費公告價需更新為 ${{ steps.check.outputs.now_year }} 年版(目前為 ${{ steps.check.outputs.years }} 年版)
+        run: |
+          if gh issue list --state open --limit 100 --json title --jq '.[].title' | grep -qF "$TITLE"; then
+            echo "提醒 issue 已存在,不重複建立"
+          else
+            gh issue create --title "$TITLE" --body-file .github/freight-annual-reminder.md
+            echo "已建立提醒 issue"
+          fi

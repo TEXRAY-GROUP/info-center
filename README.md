@@ -68,6 +68,13 @@ python scripts/fetch_rates.py
 python scripts/fetch_fuel.py
 ```
 
+運費公告價是**年度**資料,不在每日排程內,一年更新一次(見下方「運費試算只用公告價」):
+
+```bash
+python scripts/parse_fedex_public.py
+python scripts/fetch_freight.py
+```
+
 ## data/fuel.json 是什麼
 
 一份只有兩個百分比的小檔(DHL 與 FedEx 當週燃油附加費),沒有畫面,
@@ -134,6 +141,19 @@ DHL 與 FedEx 都把標準價目表公開在官網,本站解析那些 PDF 產生
   是官方文件本身的筆誤,解析器改以表格出現順序判斷,不看標題文字。
 - 中國大陸在公開手冊寫「1/2」跨兩區,分界依 DHL 合約價目表註腳:
   深圳、潮汕惠州、珠江三角洲、廣州、東莞為第 1 區,其他地區第 2 區。
+
+### 為什麼不放進每日排程
+
+兩家都是**年度**價目表(DHL 1/1、FedEx 1/5 生效),一年才換一次;而且 FedEx 的
+Akamai 會擋 GitHub Actions 機房的 IP,在 CI 裡下載到的不是 PDF,**必須從台灣的
+網路環境執行**。因此 `data/freight.json` 改為本機產生後提交。
+
+年份集中在兩支解析腳本最上方的 `RATE_YEAR`,明年只要改這一個常數。
+`.github/workflows/freight-annual-check.yml` 每月檢查一次,發現還停在去年就自動開
+issue 提醒,步驟寫在 `.github/freight-annual-reminder.md`。
+
+運費積木每天會變動的是**燃油附加費**(`data/fuel.json`),那支腳本只用標準庫、
+不下載 PDF,照常留在每日排程裡。
 
 ## 注意事項
 

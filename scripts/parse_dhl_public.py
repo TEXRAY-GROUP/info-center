@@ -27,8 +27,13 @@ from pathlib import Path
 
 import fitz
 
+# 年度價目表:DHL 每年初換版,檔名與生效日都帶年份。
+# 明年更新時只改這一個常數即可(生效日若非 1/1 要一併確認)。
+# 提醒機制見 .github/workflows/freight-annual-check.yml
+RATE_YEAR = 2026
+
 URL = ("https://mydhl.express.dhl/content/dam/downloads/tw/zh/rate-guide/"
-       "service_and_rate_guide_tw_zh_2026.pdf.coredownload.pdf")
+       f"service_and_rate_guide_tw_zh_{RATE_YEAR}.pdf.coredownload.pdf")
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                     "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 
@@ -208,7 +213,7 @@ def parse(pdf: Path) -> dict:
     return {
         "carrier": "DHL",
         "kind": "public",
-        "effective": "2026-01-01",
+        "effective": f"{RATE_YEAR}-01-01",
         "currency": "TWD",
         "tax_included": True,
         "fuel_included": False,
@@ -226,7 +231,7 @@ def parse(pdf: Path) -> dict:
 if __name__ == "__main__":
     import json
     root = Path(__file__).resolve().parents[1]
-    data = parse(download(root / "_source" / "dhl_rate_guide_2026.pdf"))
+    data = parse(download(root / "_source" / f"dhl_rate_guide_{RATE_YEAR}.pdf"))
     for name, svc in data["services"].items():
         ws = sorted(float(k) for k in svc["parcel"])
         print(f"  {name:7s} 文件 {len(svc['document'])} 檔 · 包裹 {len(svc['parcel'])} 檔"

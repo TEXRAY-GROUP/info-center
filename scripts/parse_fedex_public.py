@@ -37,10 +37,15 @@ HEADERS = {
     "Accept-Language": "zh-TW,zh;q=0.9",
     "Referer": "https://www.fedex.com/zh-tw/shipping/rates.html",   # 少了這行會被擋
 }
+# 年度價目表:FedEx 每年初換版,檔名與生效日都帶年份。
+# 明年更新時只改這一個常數即可(生效日若非 1/5 要一併確認)。
+# 提醒機制見 .github/workflows/freight-annual-check.yml
+RATE_YEAR = 2026
+
 FILES = {
-    "export": "fedex-rates-exp-zh-tw-2026.pdf",
-    "import": "fedex-rates-imp-zh-tw-2026.pdf",
-    "zones": "fedex-rates-zi-zh-tw-2026.pdf",
+    "export": f"fedex-rates-exp-zh-tw-{RATE_YEAR}.pdf",
+    "import": f"fedex-rates-imp-zh-tw-{RATE_YEAR}.pdf",
+    "zones": f"fedex-rates-zi-zh-tw-{RATE_YEAR}.pdf",
 }
 SRC_DIR = Path(__file__).resolve().parents[1] / "_source"
 OUT = Path(__file__).resolve().parents[1] / "data" / "fedex_public.json"
@@ -280,7 +285,7 @@ def main() -> int:
     out = {
         "carrier": "FedEx", "kind": "public", "confidential": False,
         "currency": "TWD", "tax_included": True, "fuel_included": False,
-        "effective": "2026-01-05", "source": BASE,
+        "effective": f"{RATE_YEAR}-01-05", "source": BASE,
         "note": "公告推廣價,已含台灣營業稅,不含燃油附加費與其他特別費。",
         "services": {"export": {}, "import": {}},
     }
