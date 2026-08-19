@@ -37,6 +37,14 @@ export function fmtDateShort(iso) {
   return `${d.getMonth() + 1}/${d.getDate()}(週${w})`;
 }
 
+/** 2026-08-19T08:56:04+08:00 → 8/19 08:56(給區塊標題用的短格式) */
+export function fmtStampShort(iso) {
+  if (!iso) return '';
+  const [date, time] = String(iso).split('T');
+  const [, m, d] = date.split('-');
+  return `${Number(m)}/${Number(d)} ${(time || '').slice(0, 5)}`;
+}
+
 /** ISO 時間 → 2026-08-14 15:30 */
 export function fmtDateTime(iso) {
   if (!iso) return '';

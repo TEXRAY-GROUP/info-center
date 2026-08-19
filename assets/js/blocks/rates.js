@@ -1,5 +1,5 @@
 /** 積木:匯率(臺灣銀行牌告) */
-import { fmtRate, fmtMoney, fmtChange, fmtDateShort } from '../lib/format.js';
+import { fmtRate, fmtMoney, fmtChange, fmtDateShort, fmtStampShort } from '../lib/format.js';
 import { sparkline, lineChart } from '../lib/chart.js';
 
 const RANGES = [
@@ -332,9 +332,15 @@ export default {
     });
   },
 
-  /** 區塊右上角的資料狀態說明 */
+  /**
+   * 區塊右上角的資料狀態說明。
+   * 「牌告日期」是台銀發布這份匯率的日期,「最後檢查」是我們去抓的時間——
+   * 台銀當日牌告傍晚才發布,早上抓到的必然是前一日,兩個時間分開顯示
+   * 才不會讓人誤以為系統沒在跑。
+   */
   meta(data) {
     return `牌告日期 ${fmtDateShort(data.data_date)} ·
+      最後檢查 ${fmtStampShort(data.fetched_at)} ·
       <a href="${data.source_url}" target="_blank" rel="noopener">臺灣銀行</a>`;
   },
 };
