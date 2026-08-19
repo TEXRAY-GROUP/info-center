@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-19T18:48:51+08:00",
+ "fetched_at": "2026-08-19T19:51:00+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,20 +158,30 @@
  ],
  "items": [
   {
-   "title": "Amer Sports Q2 Earnings: Salomon Carried With 37% Segment Growth",
-   "source": "TIKR.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQnZaajV6bnl5cW4wd1ZvNVhTRTJaS2tqeVpvblM2d1lid3R4UzF0bjlEdU9UTHpLLWhpNF9UUzdOeWdPa3FCTkdOQ0V2dVZJTkxKczJMclRPSHJIclA3VzBBNDBHYlZnQWFiZWtWWmdwSnlULWhiOWlKTC1kMDVqNVlCWmFnVGRYNjV3ckc2dnJoZEE?oc=5",
-   "date": "2026-08-19 18:05",
+   "title": "ANTALPHA PLATFORM ($ANTA) Releases Q2 2026 Earnings",
+   "source": "Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczlqRmVfMUpkdDBTTzB5MENqX3BIWjZ0djZqNU45TjU5c0JDN1U1VWRrb2tnUnZtOHJCRWhFeUhkTlpGM1lOck1zdGk0b3lfcFVmV1NhbFhWdlBoLWhtci1YdUJWTnFMbDhvTUNsQUNJaGtTVktwOElzV3VaNDN4RFhMSXl6NHVRSHN3YXhrNmFack5h?oc=5",
+   "date": "2026-08-19 19:30",
+   "lang": "en",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
+   "title": "Amer Sports Q2 sales, profit surge on Arc’teryx, Salomon growth",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdncxSFBndm9CU2IyQzNkVnFNS0lFRDFrb0pWaWQyYzh1ZlotU0pZZHI4OUN0cUo3YzdqV01WaU5qd1NhQURhU0otTFpWdEZoeURadnVPWWVjcFlYc2NydWZQeklZbDJKaFV2QmtURHlaWV80UjZiU3JwNEhOc1J6ZmxwRzNuaXZPUFBFTWZuUHdGRDBoMWxB?oc=5",
+   "date": "2026-08-19 18:51",
    "lang": "en",
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
   },
   {
-   "title": "Amer Sports Q2 sales, profit surge on Arc’teryx, Salomon growth",
-   "source": "Just Style",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzlGOFp1cXkzaTc4NGVpTjQ2QXZfUGN6WUNFMjNZY0JJTnhhOUIzUEREOWdIS1Y1WGwyZDBBQUdaV004YmdVcFA2VkZNbngzbFoxLUphZERaUmNnSjZhaVZUQjVhWWNDVjF1Zll5cGZaeTZ4alowY0s0TGg2ME5tUVFDWllvRFVPUWJjYnJJTzlILUNUV2E1Zw?oc=5",
-   "date": "2026-08-19 17:51",
+   "title": "Amer Sports Q2 Earnings: Salomon Carried With 37% Segment Growth",
+   "source": "TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQnZaajV6bnl5cW4wd1ZvNVhTRTJaS2tqeVpvblM2d1lid3R4UzF0bjlEdU9UTHpLLWhpNF9UUzdOeWdPa3FCTkdOQ0V2dVZJTkxKczJMclRPSHJIclA3VzBBNDBHYlZnQWFiZWtWWmdwSnlULWhiOWlKTC1kMDVqNVlCWmFnVGRYNjV3ckc2dnJoZEE?oc=5",
+   "date": "2026-08-19 18:05",
    "lang": "en",
    "brand": "amer",
    "brand_name": "Amer Sports",
@@ -186,16 +196,6 @@
    "brand": "hm",
    "brand_name": "H&M",
    "region": "europe"
-  },
-  {
-   "title": "Temu and Shein orders drop in the Netherlands after EU tax",
-   "source": "IamExpat",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzFxRjlKT0xtWU53RTdoVjNUWHJCTkJ3N0dyaHVlVDFiWHJCWTgyLUtwOXY5U3ZyZF9DSjZpRlBSaEt4RU9JZ2Y2LXpHMXluSmR3OXFIYkFxaGlBVTRpLUtOUEZpaXRIVEtuLVZWVTNEcDFFOERhMXlLdU5ZdE5ScU9QdUlhZ2w4MmxDMDZONnJzY0k3MzZYTnhCZHBvdw?oc=5",
-   "date": "2026-08-19 15:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
   },
   {
    "title": "Should Amer Sports’ Upgraded 2026 Outlook Require Action From Amer Sports (AS) Investors?",
@@ -329,7 +329,7 @@
   },
   {
    "title": "Nike大崩跌！Q4財報讓股價倒退12年：Converse、Jordan⋯款式賣不動，年輕人為何不愛穿了？",
-   "source": "bnext.com.tw",
+   "source": "數位時代",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnN5ck1GRU10bW1UMWJrWDF5SHBlN1NpUHRmc1VIYk1xZk9rT3RfRm5kbWdfdE8yWjNCdkRSOTFjd1BTUXdGUVpwRUZsUURtclU3SFRBQ0w3ejc1SFlWR2lxcW9VMTNqbjVqUE1wTjh0aVZoaW41V0hXYTdwOE1qMnFOa1piUXZZ?oc=5",
    "date": "2026-08-18 13:30",
    "lang": "zh",
@@ -398,18 +398,8 @@
    "region": "apac"
   },
   {
-   "title": "2026年無印良品財報啟示，十年沒靠瘋狂展店、不堆廣告，為什麼營收淨利創新高？",
-   "source": "經理人",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQzZwRnRzclRPVzdxcV9uSDZWUUJoLUZMekZDWHRPalh3TndwOGdpZjlGdDk0M3Y0X2F0bW1tOFBqdGhlU0tpUFJCVHp3NzlWVW9ESl84aUxyaFp6QldtQQ?oc=5",
-   "date": "2026-08-03 15:22",
-   "lang": "zh",
-   "brand": "muji",
-   "brand_name": "MUJI",
-   "region": "apac"
-  },
-  {
    "title": "世界盃行銷燒錢 adidas Q2獲利遜股價摔逾11%",
-   "source": "moneydj.com",
+   "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDNmTmZyMklCNXFBVnFsX3VVM2gza1FFZE5mSFNHeW5HSHhabkFzc2dudjZ2a2swbXdlWmtCdEVYTDZRcEx4SFFFUjNubVhmbE1mSTlmOExEVWU1aUdTM0EzRkNUcmg1emtBQ3BrVXJjNUU0dEZnWTgyYU5TR3NwTy1aLUZoV0tpRDFtTHN1SnFjdw?oc=5",
    "date": "2026-07-31 15:00",
    "lang": "zh",
@@ -439,7 +429,7 @@
   },
   {
    "title": "法國報紙摘要 - 超快時尚“希音”2026年第一季度虧損9900萬美元",
-   "source": "rfi.fr",
+   "source": "RFI",
    "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPXzFfZlJhSHhqdmJ2MWpqV2s1dnNBVDJSWmZUZGc4bTVMWm9LSl9wVm1IUElqMHRzWExMd0RlMGdKVlEzNEFVMFVyZ2x0Wl9DS2lDTVBDTGszTXhFX2ZESURQMWpBb095endXTmkyVkNFV05KZDRXbEprWmh4V3VHVnBudUY4NHdIZTBDdk13eGdadUF5ek1OSTdiU2xaUkJHZzlLV3R2d21abXhTb1NKU3lVUVdITkg0VnRpUklYa3F2Zks2Z3BraWd4akVaNnp4NDV6YUZGMWNOWVR0a1lIUEZaUXFiMUNidXF0aUdVN3NIN09OXzRteTh1bkQ5TDNYM21CbVc1b21qakgtSmVacEM0N0xsU0FXbWZGdHJyRWg4eGNocmM1Yk51VGdlSzdCTk92VHBoREpwbFFFQTZ5QTFzNHpuVHBqY0FLeWFmMy1iejI1NTJzTjJFb1lVNXZrVk1lV2s3OXZaZkhxNUFEdW1JTmlPa2d4V0JNV0RwRXpsMVVNXzBWYzE2WlU4dw?oc=5",
    "date": "2026-07-28 15:00",
    "lang": "zh",
