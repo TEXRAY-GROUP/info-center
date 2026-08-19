@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-19T09:59:39+08:00",
+ "fetched_at": "2026-08-19T18:29:42+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,24 @@
   }
  ],
  "items": [
+  {
+   "title": "構建數字貿易新生態 汕頭紡織產業數字貿易服務中心正式揭牌",
+   "source": "香港商报",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laHpoN1MtdThnZ3dfdS10ZXVJZE44QVpPUk9FVzZfa0N2dkRXeHpBcUV2RHJ3Y21fcmh1MC1WWDVrYXc2N1JMNDJ1Q2x0ckxhRXVvQmVTbk15UWN1WnFHa1oxZE4zbnZfaWRzU1FXWTNuck9KTWlpcVp2Zw?oc=5",
+   "date": "2026-08-19 11:57",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
+   "title": "潮品通全球 汕頭貼身服飾交易市場啟幕 構築紡織產業新地標",
+   "source": "香港商报",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LZUQzbUg4M3h5Q2dsZjNlbktlUUh2UE1BcFllbHJJZF92MWhHZkZrRTBlendGZEZ1NW5ZcDZVX3NDUGY2OFZ4S21HbDQ0Qlc0YTlIZVRVbVlFaU8wRXNQM1ZVQUZpdVViVFgzYWRnd2lkdmZGQmZidHktWQ?oc=5",
+   "date": "2026-08-19 11:56",
+   "cats": [
+    "market"
+   ]
+  },
   {
    "title": "儒鴻法說》成衣動能升溫！Q2營收100.86億元創16季高、EPS 5.66元！洪瑞廷：2027上半年「深度樂觀」",
    "source": "Yahoo新聞",
@@ -69,7 +87,7 @@
   },
   {
    "title": "轉型見效紡織業Q3前景可期",
-   "source": "工商時報",
+   "source": "ctee.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
    "date": "2026-08-17 03:00",
    "cats": [
@@ -78,7 +96,7 @@
   },
   {
    "title": "成衣廠營收靚下半年看好",
-   "source": "工商時報",
+   "source": "ctee.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IRUN1dTJLSzBrekxwOWhzUTdfVGcxTF80cjZ5Z3dUSmczeEM2djV6VWpybnBmS0lGNHJ6S1hqTEJkeHJuTzZ5WjdpbEVNbi10TUt2MmZmUzFlMDNCLTdj?oc=5",
    "date": "2026-08-11 03:00",
    "cats": [
@@ -100,7 +118,7 @@
   },
   {
    "title": "紡織所「膝關節炎在宅系統」 獲選高齡健康產業博覽會十大友善科技",
-   "source": "經濟日報",
+   "source": "money.udn.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BU3N2ckZ4bERfTmg0b3lNZElUNmdjclNyVGNiQy1ZWXIxSW1yTmtGOTZQZDhLbXZoNG5jM3dEMDdmTFZTQlp5S2RMNmk1aTg4TFh4QWVLVXJodw?oc=5",
    "date": "2026-08-07 15:00",
    "cats": [
@@ -118,7 +136,7 @@
   },
   {
    "title": "【個股分析】竣邦-KY：低估的紡織隱形冠軍，2026~2027 年獲利續創新高",
-   "source": "blog.fugle.tw",
+   "source": "富果直送",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2a1BXWXU5c2liY0Z3NkVlUmFXTVotZnlmdjFqN0psYUxBOW55aWxSLVRTazBhRS1OLV8yVEhXOHIwdk1TblhOMzg5eWJyZjVINnhF?oc=5",
    "date": "2026-08-07 13:42",
    "cats": [
@@ -127,7 +145,7 @@
   },
   {
    "title": "一片鳳梨葉翻轉紡織業！台灣品牌打造永續新纖維，掀起時尚綠色革命",
-   "source": "女人我最大",
+   "source": "TVBS 女人我最大",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sRFBBaXQyTUc5UlRFZTZ2N1o5RS05a3NpZjFyaFJqcWx1NEVyRGktckxhcThMQlhvUjl1TGNsZXI2aXlkbnlpWEI4UzlWbjE4?oc=5",
    "date": "2026-08-06 15:00",
    "cats": [
@@ -138,7 +156,7 @@
   },
   {
    "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造",
-   "source": "Yahoo股市",
+   "source": "tw.stock.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNMXpSMEF6eF9qN0wyOXNLTlVSUzl3RzkwOEhTS1VJR2JVZ2dVRGRiLUxsNnFzeUFRM2lZbXlIaG1KM3F5MUIxVFpxdnVXZThGWVJHeDRza3dLQkRIWEIzZFJ4el8tWUpTSldVX20ydkhuSE1aRVJJcDN3WHEzaENRR0c0OWpTVlZPbzlCU0RhNWk5Xy1idnVDRjI2U0JPdWlnbUJSSkRVQy1rQjdIZzc2TmZ2d3NBWFRlWmR3V0tVWHgwdy1GNGRXZ0tJSUIyRjJKblhhb1I5dGxuSG5FOXRQa0lSSEg3ODJXOC1MVldoZTd5UlFVTUQyeERva1BrNFFGZHJ1Z3p5NVFFdGlaWE9wRTFQRjJibUtZbFVNUGpObnU2OHYyQ1N0MlhmOFB4a2w4bDhvMVBYY2tHS2NwNmhMOUQxblJ2eUw1Ymk0RVJRVFdEVEtoUk1yZWNSd1phUTFTTmFZRDE3WlR5WDQ4a0VEODBfV0ozYmZJZmdLaGtrVWNPc0M3M184UA?oc=5",
    "date": "2026-08-05 15:00",
    "cats": [
@@ -175,7 +193,7 @@
   },
   {
    "title": "舊衣回收邁入新時代！循環標誌上路，台灣紡織拚「衣服再變衣服」",
-   "source": "女人我最大",
+   "source": "TVBS 女人我最大",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UMnU5bUxkZGFZUTlwRzNQLVRpeW9mT3hBVGVkVDFPQlV4MmxDSFhqVmMxd2VURzB1MW5YLWtrQ3VLbWhZS2p1elg1MzhrM2ow?oc=5",
    "date": "2026-07-31 15:00",
    "cats": [
@@ -184,7 +202,7 @@
   },
   {
    "title": "僑生成企業國際布局助力重電與紡織先驅分享留用國際人才經驗",
-   "source": "工商時報",
+   "source": "ctee.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zX3R1VEFCX04wdHVva1VLTHo4Vl9MM2tqZjV1cDFSUDVEVG5RZFNXaXIxNDNJbnZPTzVCRHpkSnhSTnlDaHBfMTBkV0pCMUdIcS1BVUpVVzl2YTA5NEJn?oc=5",
    "date": "2026-07-30 15:00",
    "cats": [
@@ -211,18 +229,9 @@
   },
   {
    "title": "台灣獲10%不疊加稅率待遇 機械、紡織、塑化業 樂觀看待",
-   "source": "經濟日報",
+   "source": "money.udn.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SmJXZzkyMDR0TndzSnlEZTEwdjJESVQ0T0dmalctUU9iRm1ZVDVDNXdVMzhqeUxpbFJoNEl0dmRsd0VURUxLZEpISU1UYXBvZ0JaYUtCT0NnZ9IBX0FVX3lxTE1uZmhKYzdxSzBaY0kzN09SV09VOGxLSEp0NkJCNnk1ZXJBbG9jbWNWZkNjNHpuNHdXOGtRNDF2S3ZEdEpiNlJfdXRVUmtGVTBCNmREa2tJTzlqUGV4MU1r?oc=5",
    "date": "2026-07-25 15:00",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
-   "title": "301關稅台灣10%不疊加 紡織、塑化業者：對產業是好消息",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OaU1OcGQtVzh3RGxTeTZoWEpyS0RpbWVET0ptaDYzaVpYbFZ1RzluU0VwWEVXY29hYTg1Yk0yUE8wa3FWVkZKbG42US1ZQnhRVTEySkl2YXY5UHfSAWBBVV95cUxQTnVTa1RjM19pb2h3VjVCMUtiT1JYNDZXQmJpWkJjMEhRbGVxSUFNb1pZbW0zbk16emU3XzQ0cE9ESmpaZFpXMW9kVzdUakdzLVBxdWlwa1d6cVNndGIyRG4?oc=5",
-   "date": "2026-07-24 15:00",
    "cats": [
     "trade"
    ]
