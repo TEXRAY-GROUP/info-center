@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-20T18:04:50+08:00",
+ "fetched_at": "2026-08-20T19:55:33+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,26 @@
  ],
  "items": [
   {
+   "title": "Amer Sports: DTC Revenue Jumps 40% To $896.8 Million And Reaches About 55% Of Quarterly Sales",
+   "source": "Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2tDZFBkdjZ2WUhYOUdqTDJvbGdDQ3VsSDlPcHhSSmNDSHFlYzhTdGZKejg1c2RGakE1dWNWV0xjSS1BUlVWNTRzVXgxUF9wUk1GQ2k5ajFnajU2eVFCMFU0Ymc5NFdkVFhkc05sMEt5MVdVWHNIUEozeVE5QldCcVhRTXRqOUd2M0Q2ZlNsMG5jSVhZWE10akhoN1hkX2stQmtsalo1UG1PZjlMSHfSAbMBQVVfeXFMTmpzNGFFNWR4MGpNNnZWbU9pdGQ3NE56eXU2RHNsUndEeks3X2tKYWlvOGk4VlJnR1lrdHBwbHg5MEhKZ19aQ3BxSVNCaGx0VGV5QzBYX3kxd0FwdmdPeWxtZkpoeEM4UEhCb2FScEFmMWNNZ3NXaUVyOTVMQ2JuWlhZQ0lmcnVvNUZrYllWLXNLM1FNcDNVVnBaOGJSaHVobk1LNzJLLXNGX3VIel8tRmVwcHc?oc=5",
+   "date": "2026-08-20 19:25",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "lululemon athletica inc. announces second quarter fiscal 2026 earnings conference call",
+   "source": "The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWFpDU2tFYkd1dFF2d0xGRzJfNjB5bGNXTWZJUlJOM2pMcnY0NElDQ2FDT2V4SHNtUm5FbXcwejFoNllpSENOaVo1WENPZTN5Mmd0cV9Jc25FbjFSQ0JhOUs5dDJQMHZnOGJPdXJmVmozLVpGVndEUUVqM0owQ1VISFJxbmZVVktOYlgwckVZRkl0NVdtdEptZWxSaVdWckl3QkxYaVo0elBaWlE1NkRYcUxxZk1fcDQzTUpiczNlWDNKaEszRFNURHFuNTZEc0J5cnFkUFRyVlpMU0xZbkVHMUM5YUEzMVRBTGNFRnR2bGFlVzRSOFllc2M4c1ctTWNLSkRr?oc=5",
+   "date": "2026-08-20 18:54",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "Shein pushes back Hong Kong debut to September amid delayed orders: sources",
    "source": "South China Morning Post",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVW40Q3UtMDJla0pld1NzbXAya0pKWXI0VHlPdXhNb0pyVFoxeUV1U0tjSTVWWHVZU2dOUHJhdlRFZGt0X0VBdk9nanI4ODJVRVdieGJ6RE9hRmpKZTFqb0x3blpsdXIwUXRqYVl5Q2xTNW8tVWNUS0ZWVGp3eXRJSUd1V3d1X255MnhLdHJXa2drOURtZUgxNk8wUTZxaTJOUHphd1ItaUFPX2d5NEdHb0pjTUxpWkg1a0ZaWUFWQTgySmFCVGhLMTd4YjQxOXFxMFHSAdIBQVVfeXFMTjFsbThTZGtDVzZzTVQ4aXNwOWhVZTh3Nzh0eUU2N0xmcnpUU0JZb0RVUFYyR0J0RE1XZ0ZUQzhRZTlMRzZOb0pTY3RUMEYteFM2dFVnU1RtR3o1TGw1V1J3THF1ZEpsT1NCdVpraUNfYWdTc3Q1TlBybVFOTnQzSmFpc3luU3l6aExXeTJaOGlENUxud2JZVmFoUFAxNm5TRXFsdDVZdGRyOTliNVdoOU5zdlRwNFVZZ0h5Q29mbUpVbHBnYk1qWFQweVRhQ2JfeFZ3?oc=5",
@@ -206,16 +226,6 @@
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
-  },
-  {
-   "title": "lululemon athletica (LULU) Is Down 5.3% After Softer Outlook and Legal Scrutiny - Has The Bull Case Changed?",
-   "source": "simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM0JOUG9iX05zUF9kMFBoNldXckRFSUZ6NWhuaC1CbjBYYi1uWU55M2k4MHJKYVZkd25oQXd1NGtubXJtOVpKMDhxeHpVU2sxcXRBa1pJZC1xek5PSUhKZkZ0bm1nRWNRRnNSdW5CUnlsZmxrRkI1aXpFVDZZYkhuV0JWeUtMQV8waXk4Mk1ZMzBNTEFtUzJKMEV3b1VzLWNWaTFhMm9seFVNVU95XzVZckczV2F4VE1DVGMxY3Z3WXl6YVM4eGppYWJZbEs5ZHhGWjZUeTh1XzZWVXVzNlJvbNIB5gFBVV95cUxQMWxSb0h1UDRkTERmQ0Z2MkExM29NV3NyUnBzeTVVSnlQMjIzWEtCRHhrTllrdUFMaWxCbnBNY2VzbHVaZ1BWd2tjZUpaaDczTjktMkV6bWsyN3k2YWcxVGVDeDhSaWdZRE81Q2ctTThJV2FjRi1DTUlacjZ4NjUxVDFuN0J6aUt2WS1wWXo5S0N3ZUhLNWhRcTJFUHBhMGdZT1p3U21YRC1YVXI1aGl1ZHc5Ul9iR0ViNWFvMkotM2xwajVLek9hWURzc2VHREg5OFd4eTR6cFNWcFFnV2Z1bmJiN3pKUQ?oc=5",
-   "date": "2026-08-20 04:33",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
   },
   {
    "title": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
