@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-20T11:33:43+08:00",
+ "fetched_at": "2026-08-20T11:58:47+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -178,6 +178,16 @@
    "region": "europe"
   },
   {
+   "title": "Antalpha (ANTA) Q2 2026 Earnings Call: Revenue Falls as Gold Marks Weigh",
+   "source": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBINVFXWkFoZUdWbHhMZW9NS19XWDlLN19JTnpnM2RzanR6Ri16RnVBTGRRNVpyb3o3ME42d2FuOGl5Y0lUMlVQbnhmQ1FVODVBU3lVZVFNTzh6SW54NkhSNUpobVQweXVYUjIyaEIzdzBCZw?oc=5",
+   "date": "2026-08-20 05:50",
+   "lang": "en",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
    "title": "Adidas discounts Samba, Gazelle, and other lifestyle sneakers: footwear sales slow down while sportswear surges.",
    "source": "Revista Merca2.0",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQelpWTm41czBJVXEwM0JGY1lkS3RnS0twdVFRUDRXTkZmeUgtVTBfR2hSOFAtY1RHVjFhQVd4YnhfbkxtSlh3MlVxM0NVZUdGODNOVTZwdVZMRkYwTHlnbEZ1Q25uVFdZTXUtbFpLNjh1VUh2bWhqcjM3WmphdWFET293N01reVN6TW80M1Rta3h5Zml3VUhNMWhLdXdNNW5oVHRMVkVZVWd2SElvT29fTnc1Y1MtU2FlQnh0NHlBQWEzbnZfN3lnLXhfMGd5dw?oc=5",
@@ -328,20 +338,20 @@
    "region": "europe"
   },
   {
-   "title": "Amer Sports Says There's ‘Nothing Structural’ Blocking More Sales and Profit Upside",
+   "title": "Amer Sports Raises Full-Year Outlook Following Second-Quarter Beat",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzQ2MUZqeWpvdmxpdVBESkZ5VkVWU01mT2gtOXAzNF9HUjloN25YYWwycm81eURmN3JQZC1seEtFV05QLUpVZkVrR3Exb0lFank1SjFjbzVDNGhsZXIxdnh4b0RiUV8xQUhrMmpJLVhYWUVrRkxzVkF0ejgyQlNSZEVTUmlTNlk4T25URTJ1ZktpSEpJZzM4UnBzdFQ?oc=5",
-   "date": "2026-08-18 23:28",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcE1hU284U3Ztb3hlM05qYURNaVVJZG9pU0VUSXptZTFjQ2M3TkdzTFJ3MlFuRGR4NjNlN2lCZmUyc1hXSFRacEVBN2M5WUFTRHNLdmhHb3V6NTNHa05lQ1hMa2JGS21GRzBhUFkyMFZjY0JuUnBJSkJCc2o0dktLbEw4VGFGUThxcXE2cGRqTThMR0c5RTBFUFRWVXc?oc=5",
+   "date": "2026-08-18 23:01",
    "lang": "en",
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
   },
   {
-   "title": "Amer Sports Raises Full-Year Outlook Following Second-Quarter Beat",
+   "title": "Amer Sports Q2 Earnings Call Highlights",
    "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcE1hU284U3Ztb3hlM05qYURNaVVJZG9pU0VUSXptZTFjQ2M3TkdzTFJ3MlFuRGR4NjNlN2lCZmUyc1hXSFRacEVBN2M5WUFTRHNLdmhHb3V6NTNHa05lQ1hMa2JGS21GRzBhUFkyMFZjY0JuUnBJSkJCc2o0dktLbEw4VGFGUThxcXE2cGRqTThMR0c5RTBFUFRWVXc?oc=5",
-   "date": "2026-08-18 23:01",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUjlCSlBWTTFEMkF2a05NQkVJVGN6OGp6bjI4STVsRWVPSkt0UUcwV3o1MnVLSURyT1otWkRvaDEwb3BrM3UweUduOGxUNGp4RHhDQkM0ZDhkQ2FuY1BhcnpHemtHWGlNYlNQUGN5MEtUNlRLY0g4WF9KLWdlTHYtbDR5bE9tbHFxTTllNXFQdEJfQlVjeG43LQ?oc=5",
+   "date": "2026-08-18 22:04",
    "lang": "en",
    "brand": "amer",
    "brand_name": "Amer Sports",
@@ -386,16 +396,6 @@
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
-  },
-  {
-   "title": "Adidas遭瑞銀降級，毛利率承壓前景受質疑",
-   "source": "hk.finance.yahoo.com",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQR01GMjlfblNTU0J1SWFPMmlRcy1xWW1CbmJYT09uOHUyMnF5d0F3Z1M3djE5XzhyNF9oUmZYWEk2TWduWHVVc0xyTWhDRFRBa1RLMHpFR1V1MkJmOHlFQk1IRDVFaHFWRWZSbHRVUkFNaHBCdk56SGlIVGpjanJQbXJUQ2RKWGI4QmVwb3JBVGZnU0dXR1laNzdfSWxHZVJCLUdaZ3pTRjI4YUY3ajZvU25rY3hMT3RpeGtVWVNDbWlpbm0ySEpQbUNfWk9jTk5kenlGeEhZVjZadzBfYU4waU9jYmxsMzZpYnlXdlYxRXBxTFBMMU84UzA2bVlYaTVRRDkwZzNZVVpwN1l4UFY5dk9JZ3RKYXpkcHpv?oc=5",
-   "date": "2026-08-04 15:00",
-   "lang": "zh",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
   },
   {
    "title": "2026年無印良品財報啟示，十年沒靠瘋狂展店、不堆廣告，為什麼營收淨利創新高？",
