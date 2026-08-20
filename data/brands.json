@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-20T11:58:47+08:00",
+ "fetched_at": "2026-08-20T18:04:50+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,36 @@
  ],
  "items": [
   {
+   "title": "Shein pushes back Hong Kong debut to September amid delayed orders: sources",
+   "source": "South China Morning Post",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVW40Q3UtMDJla0pld1NzbXAya0pKWXI0VHlPdXhNb0pyVFoxeUV1U0tjSTVWWHVZU2dOUHJhdlRFZGt0X0VBdk9nanI4ODJVRVdieGJ6RE9hRmpKZTFqb0x3blpsdXIwUXRqYVl5Q2xTNW8tVWNUS0ZWVGp3eXRJSUd1V3d1X255MnhLdHJXa2drOURtZUgxNk8wUTZxaTJOUHphd1ItaUFPX2d5NEdHb0pjTUxpWkg1a0ZaWUFWQTgySmFCVGhLMTd4YjQxOXFxMFHSAdIBQVVfeXFMTjFsbThTZGtDVzZzTVQ4aXNwOWhVZTh3Nzh0eUU2N0xmcnpUU0JZb0RVUFYyR0J0RE1XZ0ZUQzhRZTlMRzZOb0pTY3RUMEYteFM2dFVnU1RtR3o1TGw1V1J3THF1ZEpsT1NCdVpraUNfYWdTc3Q1TlBybVFOTnQzSmFpc3luU3l6aExXeTJaOGlENUxud2JZVmFoUFAxNm5TRXFsdDVZdGRyOTliNVdoOU5zdlRwNFVZZ0h5Q29mbUpVbHBnYk1qWFQweVRhQ2JfeFZ3?oc=5",
+   "date": "2026-08-20 17:43",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "What Mizuno (TSE:8022)'s Q1 Beat and Dividend Trim Guidance Means For Shareholders",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ1BGSzlUVlpZVDZGQ24wb18wZ1BZQWtWSWJQam1mRTlTMVRBRmttYWlKcVFuZXllcXhLZWJmbUoxVnpxbG1QRERBbjJ3T203ampwOWV5TzZ2T1dYbE5QRXZCdlNmRDRScEk5cWxJd2hGNVVUQjhPZHVTX0d5U0xNclJCclFBblp0T25ueHhvckkwWndZekRfVTVmNDJ0RkxOTjBYMzJhekpjMkVURmlYV3BiVF9WTVJEZlZ1UFFMZDFNbDJKN3RWZXBRNnlqQk1qemQ0c9IB2gFBVV95cUxPaXI4RU5WUFFhdGFieUJHM1pMN0FHRV84cFVqRUl3b2hIRVIwUnFaWVQtblVhYUlfalhCRzZuVERZb0JFa0Z0QUxrb0NJWXZkbnJEU2Jqc2czOW5oaG5xVnllSFdWaTlEVkVpMFVKLU9Vc1JzRVo0SHBZd1lhOThySy04TlFueGpGSmtJcS1fNVdibkljUmlmNUxCOURBQTVOUE5TdFFkd2V2VlNLUmNLZU9RNFg0ZVpNQkVGaHJFamdxZXd1bkFXNXVveFREY0tobDl4UXpMc2JaZw?oc=5",
+   "date": "2026-08-20 17:10",
+   "lang": "en",
+   "brand": "mizuno",
+   "brand_name": "Mizuno",
+   "region": "apac"
+  },
+  {
+   "title": "Zacks Industry Outlook adidas, Steven, Wolverine, Carter's and Caleres",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNME5wVlQyd1U3VktRZFZtX0MwQjJsUEVyMERBU2toSGwyaC1GdUJmVFZsN0ZEcVBWcTdaeTNYdDVYeU9mVzJsZjJIRkxfRDQwX2dadlF4NTd0MWVPZHpRRUNsQVJWX1VWWHBUaUNOQmJ3MzV4NlhSZmZNU2N1eloxZXFjRTI1QU55b1lic3locUlCWW5VNm1hMkxzNElxMFZpbGdz?oc=5",
+   "date": "2026-08-20 16:26",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
    "title": "Under Armour lowers full-year revenue outlook but holds profitability guidance",
    "source": "World Footwear",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVy1ud0hOQ0hKTEtHVWZIbmZYdjVzX19nOURLdlY1Q1pZTkNXTXRqTjdQUlJwaVhZMWVmUTBtclJlZlNkVXlVV19rX1NxbnVjbFhiQWpRZVZ6SndUUldyR2hUQzJpYldFOVB0VU5XNnM1eTFjLVEyeUdDRGJfeHJHdDV0Smloclh5bUFaQUtHVUs2c1VEeTJuYlVwOWZyNnl4MThzY2s3UWJhUEpuZUE5aEdMRHlMYXctWTlmOU5aV1k?oc=5",
@@ -178,26 +208,6 @@
    "region": "europe"
   },
   {
-   "title": "Antalpha (ANTA) Q2 2026 Earnings Call: Revenue Falls as Gold Marks Weigh",
-   "source": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBINVFXWkFoZUdWbHhMZW9NS19XWDlLN19JTnpnM2RzanR6Ri16RnVBTGRRNVpyb3o3ME42d2FuOGl5Y0lUMlVQbnhmQ1FVODVBU3lVZVFNTzh6SW54NkhSNUpobVQweXVYUjIyaEIzdzBCZw?oc=5",
-   "date": "2026-08-20 05:50",
-   "lang": "en",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
-  },
-  {
-   "title": "Adidas discounts Samba, Gazelle, and other lifestyle sneakers: footwear sales slow down while sportswear surges.",
-   "source": "Revista Merca2.0",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQelpWTm41czBJVXEwM0JGY1lkS3RnS0twdVFRUDRXTkZmeUgtVTBfR2hSOFAtY1RHVjFhQVd4YnhfbkxtSlh3MlVxM0NVZUdGODNOVTZwdVZMRkYwTHlnbEZ1Q25uVFdZTXUtbFpLNjh1VUh2bWhqcjM3WmphdWFET293N01reVN6TW80M1Rta3h5Zml3VUhNMWhLdXdNNW5oVHRMVkVZVWd2SElvT29fTnc1Y1MtU2FlQnh0NHlBQWEzbnZfN3lnLXhfMGd5dw?oc=5",
-   "date": "2026-08-20 05:19",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
-  },
-  {
    "title": "lululemon athletica (LULU) Is Down 5.3% After Softer Outlook and Legal Scrutiny - Has The Bull Case Changed?",
    "source": "simplywall.st",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM0JOUG9iX05zUF9kMFBoNldXckRFSUZ6NWhuaC1CbjBYYi1uWU55M2k4MHJKYVZkd25oQXd1NGtubXJtOVpKMDhxeHpVU2sxcXRBa1pJZC1xek5PSUhKZkZ0bm1nRWNRRnNSdW5CUnlsZmxrRkI1aXpFVDZZYkhuV0JWeUtMQV8waXk4Mk1ZMzBNTEFtUzJKMEV3b1VzLWNWaTFhMm9seFVNVU95XzVZckczV2F4VE1DVGMxY3Z3WXl6YVM4eGppYWJZbEs5ZHhGWjZUeTh1XzZWVXVzNlJvbNIB5gFBVV95cUxQMWxSb0h1UDRkTERmQ0Z2MkExM29NV3NyUnBzeTVVSnlQMjIzWEtCRHhrTllrdUFMaWxCbnBNY2VzbHVaZ1BWd2tjZUpaaDczTjktMkV6bWsyN3k2YWcxVGVDeDhSaWdZRE81Q2ctTThJV2FjRi1DTUlacjZ4NjUxVDFuN0J6aUt2WS1wWXo5S0N3ZUhLNWhRcTJFUHBhMGdZT1p3U21YRC1YVXI1aGl1ZHc5Ul9iR0ViNWFvMkotM2xwajVLek9hWURzc2VHREg5OFd4eTR6cFNWcFFnV2Z1bmJiN3pKUQ?oc=5",
@@ -206,16 +216,6 @@
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
-  },
-  {
-   "title": "What helped Finland's Amer Sports beat guidance in Q2?",
-   "source": "Fibre2Fashion",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdXlkLThJc3dXbm9OMlllcldaRjYwQ0tuYXRmcnhXaXJPVUtzc3lTWGdjNzNkQjVBQVM0R1FzVWtZbi01R2dlY3lELWFNc2FZdDl3TkdERmR3cEpiSDZyUEhuLWV4dkhWZXdPVWRXTXdmNjRWRHZNdFB4TzdZNEE4a1dxdWJ5YTcyLWJOWDRKSlRJalQ1Wk9VcHRSZ2N2MnBxamJPdW1hTFpHMzZqSG1JUDFoMTRZNDZwMlQwUzVwSDRZZw?oc=5",
-   "date": "2026-08-20 01:07",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
   },
   {
    "title": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
@@ -338,6 +338,16 @@
    "region": "europe"
   },
   {
+   "title": "Amer Sports Says There's ‘Nothing Structural’ Blocking More Sales and Profit Upside",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzQ2MUZqeWpvdmxpdVBESkZ5VkVWU01mT2gtOXAzNF9HUjloN25YYWwycm81eURmN3JQZC1seEtFV05QLUpVZkVrR3Exb0lFank1SjFjbzVDNGhsZXIxdnh4b0RiUV8xQUhrMmpJLVhYWUVrRkxzVkF0ejgyQlNSZEVTUmlTNlk4T25URTJ1ZktpSEpJZzM4UnBzdFQ?oc=5",
+   "date": "2026-08-18 23:28",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
    "title": "Amer Sports Raises Full-Year Outlook Following Second-Quarter Beat",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcE1hU284U3Ztb3hlM05qYURNaVVJZG9pU0VUSXptZTFjQ2M3TkdzTFJ3MlFuRGR4NjNlN2lCZmUyc1hXSFRacEVBN2M5WUFTRHNLdmhHb3V6NTNHa05lQ1hMa2JGS21GRzBhUFkyMFZjY0JuUnBJSkJCc2o0dktLbEw4VGFGUThxcXE2cGRqTThMR0c5RTBFUFRWVXc?oc=5",
@@ -346,26 +356,6 @@
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
-  },
-  {
-   "title": "Amer Sports Q2 Earnings Call Highlights",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUjlCSlBWTTFEMkF2a05NQkVJVGN6OGp6bjI4STVsRWVPSkt0UUcwV3o1MnVLSURyT1otWkRvaDEwb3BrM3UweUduOGxUNGp4RHhDQkM0ZDhkQ2FuY1BhcnpHemtHWGlNYlNQUGN5MEtUNlRLY0g4WF9KLWdlTHYtbDR5bE9tbHFxTTllNXFQdEJfQlVjeG43LQ?oc=5",
-   "date": "2026-08-18 22:04",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "ANTA Q2'26 Earnings: EPS estimate is 0 USD",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS05DRnVmUW1jQmF0Y003OGxFdFMtb2hYZ3FQRXpVMkJ0bEJFREc0TUdzZHVZS2hrdXNGZzFQRC1LNVVieTI1VUdFam9sZUdVYVpjQmF4SFJucTYxNkRibUpZS0FuWTJVd0xma0dOWjl4Rm1pQnoyXzNETjB3VVRZc29NNUtkTU1OQ01ORVp3eWxLSXk2cnlwd05zaGwyUTZOQXBIX2d3?oc=5",
-   "date": "2026-08-18 19:00",
-   "lang": "en",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
   },
   {
    "title": "Shein’s IPO Could Come At a Quarter Of Its Past Valuation",
@@ -398,6 +388,16 @@
    "region": "apac"
   },
   {
+   "title": "Adidas遭瑞銀降級，毛利率承壓前景受質疑",
+   "source": "Yahoo 財經",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQR01GMjlfblNTU0J1SWFPMmlRcy1xWW1CbmJYT09uOHUyMnF5d0F3Z1M3djE5XzhyNF9oUmZYWEk2TWduWHVVc0xyTWhDRFRBa1RLMHpFR1V1MkJmOHlFQk1IRDVFaHFWRWZSbHRVUkFNaHBCdk56SGlIVGpjanJQbXJUQ2RKWGI4QmVwb3JBVGZnU0dXR1laNzdfSWxHZVJCLUdaZ3pTRjI4YUY3ajZvU25rY3hMT3RpeGtVWVNDbWlpbm0ySEpQbUNfWk9jTk5kenlGeEhZVjZadzBfYU4waU9jYmxsMzZpYnlXdlYxRXBxTFBMMU84UzA2bVlYaTVRRDkwZzNZVVpwN1l4UFY5dk9JZ3RKYXpkcHpv?oc=5",
+   "date": "2026-08-04 15:00",
+   "lang": "zh",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
    "title": "2026年無印良品財報啟示，十年沒靠瘋狂展店、不堆廣告，為什麼營收淨利創新高？",
    "source": "經理人",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQzZwRnRzclRPVzdxcV9uSDZWUUJoLUZMekZDWHRPalh3TndwOGdpZjlGdDk0M3Y0X2F0bW1tOFBqdGhlU0tpUFJCVHp3NzlWVW9ESl84aUxyaFp6QldtQQ?oc=5",
@@ -419,8 +419,8 @@
   },
   {
    "title": "愛迪達世足燒錢 傷獲利",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lUkVFZ3RIR212VEF2VXpULWFQV3hHVHpCNEQ0bFlKSGgzYUt4eXNaaGxpb3hTTlZEY0pnS18tRC1Od0dlQVZZQmlrYjZaYjdhdVBaNHd5Ump0QdIBX0FVX3lxTE9JX0NnYWdyZjJ4REpMMDlsbXRDb0JGOXJ3bVc1VkZtVEdYMXNRUnRiTVpWZ0tIU1FjbElCWGpPR1BnaXRrUGFZNWc2T0cxUG5aV2RWd0VqLXN3MjNQTUhv?oc=5",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MdVBrTU9jdGU4WlByY1NhNk9DOG5xUUpVVUQ3T1hPdzdEc0l2OWkxazU4bWYySHBwaEZUMkVkbDRKVWlZTUdfOFJMOXBaQ0xX0gFWQVVfeXFMTUZfbGZYSjFZb3dTRVd2RWlBNUxnSUVscE1ObGgtbjJDZ0VVaVduMlN6YXJSdDZnVHBfY2s5UUtabzNjSGxDa2tCSGR2ZnUwUnB3Z0NtTlE?oc=5",
    "date": "2026-07-31 15:00",
    "lang": "zh",
    "brand": "adidas",
