@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-21T12:04:50+08:00",
+ "fetched_at": "2026-08-21T18:04:33+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -61,9 +61,9 @@
   },
   {
    "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTUtPYWRCV2UxM2ZOX3I1V1poUTljQ1JhbW83ellFZ3FycDZWeXYzM0tHanJYcDc4TVBQZlBSZ19FN2FlZGxtaGxTdDJGZjNKeGFkdlRaT0l6TU93dmhJXzRDTlY1dkNaY0w4WERPWW5fWEQtTmI2TDB3ZDc2b2JCUFpLVW56NkhLU2U4ZTRZN1hRTFZWdzUyQTJiaTJMaUllWmxDenplVnlpNnRmVmhvRllKNzNqNDlsM21LbHNtVGl6NWxfVF9QRV9UQzJJQTFDa19fQUUyZUNXeXlKN2YxY3BYU3FBR1o0emlKMGpodmEtcnRSc0lidTFoSWNjNHBubElWMncxaHpWNmp5cnNDc0JRV2ExLTVVMk9yV0haZmx4Nk1hcl9Kc2F6eWF5cVAtMDkxTjA5YUFtNi1sbGdhaTdyNEsxNGExY3pzQlZfS1JfN0E0aWYzaUpVR09oeDBkVm9yRTZQQm1HRmpsVG0zRS1qeXZNMVVmM3Y4ajNqSQ?oc=5",
-   "date": "2026-08-17 06:52",
+   "source": "理財周刊",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LR0hyV3htNkd6NDRMeXUzMDBnbTFBMWZ6TllvdGhEYlJCYnNHdkNGVTd5QUhEVEx0MXNVUHdfLUtQbmZQY29lbkVJYzBobXJMNVg4a1ZacDgtb05jRmVna3FLM1hka3NaYl9BRXUzUQ?oc=5",
+   "date": "2026-08-17 08:56",
    "cats": [
     "trade"
    ]
@@ -166,15 +166,6 @@
    ]
   },
   {
-   "title": "紐約成衣布料展 紡織台企鞏固客戶",
-   "source": "世界新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ZDltekpxaGJkSW1LRFl2UnEwUWwxTTFPTUc3UDE5T3hYRllodVUwcnJTLXZELUZrdGlTdGhSTjRySzRDU2U4LVgtTFZYckNvc0ExaWtqOEVnWC12ZkNPM3dR0gFnQVVfeXFMT2J5bHJQNUk0Y0dlMDVybEd4RXdoaEFOLWNYdGNzbVItVkVGQjFYVXFUbklpWXNFaDVVN2ZrcVpmRlF1bUFKOXJmV3UtWUhSNW02V19UcGlRWk1lT1NJOWttSGVDdF9NOA?oc=5",
-   "date": "2026-08-01 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "舊衣回收邁入新時代！循環標誌上路，台灣紡織拚「衣服再變衣服」",
    "source": "女人我最大",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UMnU5bUxkZGFZUTlwRzNQLVRpeW9mT3hBVGVkVDFPQlV4MmxDSFhqVmMxd2VURzB1MW5YLWtrQ3VLbWhZS2p1elg1MzhrM2ow?oc=5",
@@ -206,6 +197,15 @@
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SmJXZzkyMDR0TndzSnlEZTEwdjJESVQ0T0dmalctUU9iRm1ZVDVDNXdVMzhqeUxpbFJoNEl0dmRsd0VURUxLZEpISU1UYXBvZ0JaYUtCT0NnZ9IBX0FVX3lxTE1uZmhKYzdxSzBaY0kzN09SV09VOGxLSEp0NkJCNnk1ZXJBbG9jbWNWZkNjNHpuNHdXOGtRNDF2S3ZEdEpiNlJfdXRVUmtGVTBCNmREa2tJTzlqUGV4MU1r?oc=5",
    "date": "2026-07-25 15:00",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
+   "title": "台灣獲10%不疊加稅率待遇 機械、紡織、塑化業 樂觀看待 | 經濟日報",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MQlRqZ0hSX1dVdHlDV19JUlFKMlYzRERZQW1vZjFqeVJvT3IyemZfVDFxSW1YVDJIajFoTFVXa2YzZGlTbGhkbXF2WXp0dktIVE9sUG93?oc=5",
+   "date": "2026-07-24 15:00",
    "cats": [
     "trade"
    ]
