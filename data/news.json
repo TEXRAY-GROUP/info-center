@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-20T19:55:31+08:00",
+ "fetched_at": "2026-08-21T12:04:50+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -42,37 +42,10 @@
    ]
   },
   {
-   "title": "構建數字貿易新生態 汕頭紡織產業數字貿易服務中心正式揭牌",
-   "source": "香港商报",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laHpoN1MtdThnZ3dfdS10ZXVJZE44QVpPUk9FVzZfa0N2dkRXeHpBcUV2RHJ3Y21fcmh1MC1WWDVrYXc2N1JMNDJ1Q2x0ckxhRXVvQmVTbk15UWN1WnFHa1oxZE4zbnZfaWRzU1FXWTNuck9KTWlpcVp2Zw?oc=5",
-   "date": "2026-08-19 11:57",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
-   "title": "潮品通全球 汕頭貼身服飾交易市場啟幕 構築紡織產業新地標",
-   "source": "香港商报",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VU0VGeGEyeXptUFpkN0F6N19XV1l5R3ZpQnNjTkJrenVOMURoSUlheHJsWjJ3N3RPNm9YODE5U0FZZURxMmZMM3pFaThDZEdYSlVCZ19aYzdaU3RpTmRnZ0tzVlFVbWRDVXppQXBfOFYwR1hUNlRBNmIyRQ?oc=5",
-   "date": "2026-08-19 11:57",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "儒鴻法說》成衣動能升溫！Q2營收100.86億元創16季高、EPS 5.66元！洪瑞廷：2027上半年「深度樂觀」",
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFd4RHRKQXJxZTRrY0dVZzdnc0pzaEphSlNrTE5VMExwRy10d1pRZUIwdkRld0xyWlR1T0lMSS1TVWllNURYZDByX0RRSTBrNERjQmU3UTBfRDZTOWlaOFpvT1pWYjh4Nnk4YzFNb0YyZjh5eGpqX0Y4T0x0bkFtOFdTdnlYUTl2bW96ZTR1NURrZkFGa3JfbE5pdkxFbGYyaENlM1NrSldFeHlwdDB3dEt1NUEtMFNocHZjc0trSG12bHl3aC1mLXFTR3hjbzBQZEpZUnYtbktVZjlmWlFCN1g5RVdVYnAwMnFoUnotT0N2LXN1cUc2MnpGRlhLNG1rYzB0QWpGNmFXamh4ZXg5aGpncHhoMzhDUy1BcDEyZFB6anhiSDB4ZFloMTE2QzhQZnJmMg?oc=5",
    "date": "2026-08-19 00:16",
-   "cats": [
-    "stock"
-   ]
-  },
-  {
-   "title": "【13:04 即時新聞】力鵬(1447)股價小幅走揚至6.94元，延續紡織低價股題材買盤＋短線技術面偏弱下的反彈試單",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXNhUzJvWTA3Ry1NTVB5YzJyVVQzVEo1anVkaWlRRE9DZVZ3VGZFajdnUFFHWlc2cmphOE16dUVsVnloR3psN052YXZpRDlRNjk1MHEzS2ZOZjUyVjJCN0ZselI0bWhuVW5MODJycy1KaEc1djUzXzQ0d1RGWXIyNDJPUEJ3QnRsTl9WYUln?oc=5",
-   "date": "2026-08-18 13:05",
    "cats": [
     "stock"
    ]
@@ -118,12 +91,21 @@
    "title": "「機能布大廠」Core Item訂單發威！7月營收飆77％創同期次高 越南擴產可望下半年放量",
    "source": "FTNN 新聞網",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LT3NKbmI4dlhONG81VVdxMDh6Q0p5cXZNdzNrQmJIMXVfcWNwYkxCYUpfTHNDMmVCMlBVV2VEWUIxWWVGd19LQ2V6UQ?oc=5",
-   "date": "2026-08-10 11:15",
+   "date": "2026-08-10 15:00",
    "cats": [
     "market",
     "stock",
     "trade",
     "tech"
+   ]
+  },
+  {
+   "title": "【個股分析】竣邦-KY：低估的紡織隱形冠軍，2026~2027 年獲利續創新高",
+   "source": "富果直送",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2a1BXWXU5c2liY0Z3NkVlUmFXTVotZnlmdjFqN0psYUxBOW55aWxSLVRTazBhRS1OLV8yVEhXOHIwdk1TblhOMzg5eWJyZjVINnhF?oc=5",
+   "date": "2026-08-07 15:00",
+   "cats": [
+    "stock"
    ]
   },
   {
@@ -142,15 +124,6 @@
    "date": "2026-08-07 15:00",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "【個股分析】竣邦-KY：低估的紡織隱形冠軍，2026~2027 年獲利續創新高",
-   "source": "富果直送",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2a1BXWXU5c2liY0Z3NkVlUmFXTVotZnlmdjFqN0psYUxBOW55aWxSLVRTazBhRS1OLV8yVEhXOHIwdk1TblhOMzg5eWJyZjVINnhF?oc=5",
-   "date": "2026-08-07 13:42",
-   "cats": [
-    "stock"
    ]
   },
   {

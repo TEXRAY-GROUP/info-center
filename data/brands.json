@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-20T19:55:33+08:00",
+ "fetched_at": "2026-08-21T12:04:53+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,66 @@
  ],
  "items": [
   {
+   "title": "Lululemon (NASDAQ: LULU) Faces C-Suite Exodus Ahead Of New CEO’s Arrival",
+   "source": "foreignpolicyjournal.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjNnQ3Q0RmR0ZWpOcV9mVTQwYlc3ZVNjakFzUEFqOUFaSVBQSThVVmZxVGR6ajJtXzV3anNieVl3UHV1NDZNRHVqMWRPcklaVW1LRmZ4cW1GMnJPb3d4SGJjUDlFN2pCOVpRTllBLVdTVkdGU3VQRnE4cmRHWkxlZ3dlNktWUWhGQnRFRVpGY1liZW1mX3pNYmp3TEdBeDk3M3lPWDFZaVh1TGlEUm45SEMyb216bFlx?oc=5",
+   "date": "2026-08-21 07:33",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Ted Cruz targets Nike as shares fall, criticizes sales to ‘American flag’ haters",
+   "source": "The American Bazaar",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmREc1NER2drMHZ3SkFwNmdILUVWZGh1SElsSUN0Y1FuWWJlWmxpaHlEY3VndEc2ZWNXdkVSSjIyOUozWFdKb1BVdWl4ZVpfSnpwMHNtNDRlXzQtOTZkYm1semFyT1NXcG5WcV8wUmRDbm1hcGJoNERpVFdxU013MldtVDhWc2h6WFpFX2VhNFFwVnN3OVhTaW8xRVZnLU51ZmZNZHBTaHFuUUdhaEd1T3Rmc1lELUZFcXhkX0pBeDJMVzF5cTUyNw?oc=5",
+   "date": "2026-08-21 04:55",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Moody’s upgrades VF Corp. outlook on debt reduction progress By Investing.com",
+   "source": "Investing.com Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejFpdW1lekVKYjJDcm1iMW1ZUzFYZkp4ZklNVmR6NHpSM3VnLXZfOVZfT3pjcGpUUDZqalRxYzJjY1g1Z2JUWDY5MzV1OXBIOFlYTkNOU0NkRGkwZDRLUGpqWUtLWTVBb1dYYmdXMHhIZEJSdl91WjJ0X19DeWdUcHBTNkdhcy10LWJIeEp6azZSYk9od1BfLXNVNWJjekJCczBxdlVqOVRhZHU3TkJmLWx5bkdsQ293bzdz?oc=5",
+   "date": "2026-08-21 04:46",
+   "lang": "en",
+   "brand": "vf",
+   "brand_name": "VF Corp",
+   "region": "americas"
+  },
+  {
+   "title": "Nike store in North Texas closes amid ‘streamlining’",
+   "source": "Dallas News",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmV6NGxObUhBMHdScW5kNXBQakRLUlFtSm8zOUFCSWx1R2FRMGxXSEhuaWJfRC0zX0VJb0k1Mldjdlo0UUNNN2c5M2RMdW9FZW91amI2dk1OVndLSVh4YjFKYWFpQlcyWEk2X1A4VW1YMWxXTU1VRkkwNjF1bkZtbkdBalc0SWs5TWxoanNnM0ZiNU5ZSzhnS2JuQkJSU3M?oc=5",
+   "date": "2026-08-21 03:34",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Nike Closes Over A Dozen Local Stores",
+   "source": "Bisnow",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRmp6UVdmUnlpaUNmZ3VqSkxOSmlJY2FjbGRwNlZ2ZUVIYXFwOTNQR2pwc0l1YmprbDRKNGV6Z252elN0QUZIdTFYbC1EN2dwQVo4Z0tsenI0Wmk3d1dzUTNTMWZld21GVkRGZkFHX0Y1d200QTc0RGlJSHhYcHM?oc=5",
+   "date": "2026-08-21 03:02",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Amer Sports Slides as Investors Weigh Strong Q2 Results Against Sector Sentiment",
+   "source": "Quiver Quantitative",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb29ZMk5lbHhJQnpnZzVsTE1Lb3U5Y2pQVVN0MFpLakxEMHpENFgxcDhTcTZFbmhLQnBJV29sWERtbzdDemhCUEp0UTU3MUQ3R3NxZWJSODlya1JSR25qeXlTV2ZBMzJPOXVpVkJBMU83T3h3NlEyUS1KSFQ3MzZlNlhZaHhQRXg3MXhWNUMwRFJaOUlKb0phbmR0eVRCZHpYOTI3TjM4NmVvOXZ3cGVKZDh4RQ?oc=5",
+   "date": "2026-08-20 22:53",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
    "title": "Amer Sports: DTC Revenue Jumps 40% To $896.8 Million And Reaches About 55% Of Quarterly Sales",
    "source": "Pulse 2.0",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2tDZFBkdjZ2WUhYOUdqTDJvbGdDQ3VsSDlPcHhSSmNDSHFlYzhTdGZKejg1c2RGakE1dWNWV0xjSS1BUlVWNTRzVXgxUF9wUk1GQ2k5ajFnajU2eVFCMFU0Ymc5NFdkVFhkc05sMEt5MVdVWHNIUEozeVE5QldCcVhRTXRqOUd2M0Q2ZlNsMG5jSVhZWE10akhoN1hkX2stQmtsalo1UG1PZjlMSHfSAbMBQVVfeXFMTmpzNGFFNWR4MGpNNnZWbU9pdGQ3NE56eXU2RHNsUndEeks3X2tKYWlvOGk4VlJnR1lrdHBwbHg5MEhKZ19aQ3BxSVNCaGx0VGV5QzBYX3kxd0FwdmdPeWxtZkpoeEM4UEhCb2FScEFmMWNNZ3NXaUVyOTVMQ2JuWlhZQ0lmcnVvNUZrYllWLXNLM1FNcDNVVnBaOGJSaHVobk1LNzJLLXNGX3VIel8tRmVwcHc?oc=5",
@@ -168,14 +228,24 @@
    "region": "europe"
   },
   {
-   "title": "lululemon athletica inc. announces second quarter fiscal 2026 earnings conference call",
-   "source": "The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWFpDU2tFYkd1dFF2d0xGRzJfNjB5bGNXTWZJUlJOM2pMcnY0NElDQ2FDT2V4SHNtUm5FbXcwejFoNllpSENOaVo1WENPZTN5Mmd0cV9Jc25FbjFSQ0JhOUs5dDJQMHZnOGJPdXJmVmozLVpGVndEUUVqM0owQ1VISFJxbmZVVktOYlgwckVZRkl0NVdtdEptZWxSaVdWckl3QkxYaVo0elBaWlE1NkRYcUxxZk1fcDQzTUpiczNlWDNKaEszRFNURHFuNTZEc0J5cnFkUFRyVlpMU0xZbkVHMUM5YUEzMVRBTGNFRnR2bGFlVzRSOFllc2M4c1ctTWNLSkRr?oc=5",
-   "date": "2026-08-20 18:54",
+   "title": "lululemon athletica inc. Announces Second Quarter Fiscal 2026 Earnings Conference Call",
+   "source": "Lululemon",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1ltNzJjaFFRSU41bzhPRmtsSGEtWDhmR193SnA4N2lCWTJWV08ySDB3U3h3UHhmM24wczAwc1VDQWpxNG1DaEM0bVc4Vm5SYjN1aEt1Q1hMaEZ2dFBGWDFjdzZfeXVTMDhScEJDNkhuWnJwTXdnRk1MSjhlREdFOTM1dmk?oc=5",
+   "date": "2026-08-20 18:32",
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
+  },
+  {
+   "title": "Shein Pushes Back Hong Kong Debut To September Amid Delayed Investor Orders- SCMP",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcmpqSHZSZzVNems5dnhSQzFhVHNNd0x6QndzMHJHVUZXWlh4R0pEWmpMVndPNlZBanA5V3hhTk9nYXN6MGx1anhSV1d3dHRuemhGckNpaExjRk9faHRZMlVyVmktdHdBQTNrMmtFemM0bTczdWc2Tm05TlNadVhPS3ZPaXV1N0lEdkMySkwxQklzR1dHN1ZEWVQ0MHVyWEMwd1A5QUJ0QUlLck1VazV2QkdzM1NUaW0yTzlrSllJNmpRQ3RfWXh5WnJ3bzdsamZqRURsLU4wNVd0bjdwRlFCSmpOdEk?oc=5",
+   "date": "2026-08-20 17:52",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
   },
   {
    "title": "Shein pushes back Hong Kong debut to September amid delayed orders: sources",
@@ -208,30 +278,20 @@
    "region": "europe"
   },
   {
-   "title": "Under Armour lowers full-year revenue outlook but holds profitability guidance",
-   "source": "World Footwear",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVy1ud0hOQ0hKTEtHVWZIbmZYdjVzX19nOURLdlY1Q1pZTkNXTXRqTjdQUlJwaVhZMWVmUTBtclJlZlNkVXlVV19rX1NxbnVjbFhiQWpRZVZ6SndUUldyR2hUQzJpYldFOVB0VU5XNnM1eTFjLVEyeUdDRGJfeHJHdDV0Smloclh5bUFaQUtHVUs2c1VEeTJuYlVwOWZyNnl4MThzY2s3UWJhUEpuZUE5aEdMRHlMYXctWTlmOU5aV1k?oc=5",
-   "date": "2026-08-20 07:03",
-   "lang": "en",
-   "brand": "underarmour",
-   "brand_name": "Under Armour",
+   "title": "Factset 最新調查：蓋璞(GAP-US)EPS預估下修至2.3元，預估目標價為25.00元｜新聞快訊｜豐雲學堂",
+   "source": "sinotrade.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Razh3c254WXh4MGJKMkQzQ01nb1lxbkw3Tk9CWUEyQXRfS2FuNy1IX25WZDJob0xUY19iWWlodWU3TFUyVzVKeHU5dTNkcE5BMTB5VE9nOGFoTEx2UnBvWVpDTmw3ak5xb2oxdXZudVRRV1JDb3c?oc=5",
+   "date": "2026-08-20 15:15",
+   "lang": "zh",
+   "brand": "gap",
+   "brand_name": "Gap",
    "region": "americas"
-  },
-  {
-   "title": "Amer Sports (AS) Stock Can Revenue Momentum Justify Its Premium Multiple",
-   "source": "simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTWl5RHlqaXF3cWM1Q3pRVjc1LXdCeFFGZFpTM2JjSW50aXhhQ1BKTjFIWS1oZTV0STc1OXNSVDk1ckRxS0hsUUhUdFZIVmQ0WGNoV3BUYUVhRWpCR3I3T2w4RGlmbEM5eXlYZkJTVjZ4bERVY1RUOEwwbEJ1YnRtV29CWmRRczNRTW9qRWM4U3Q4QWsyeW9JUUdMWWotUXVMc2JHeUNoaFFVZkhkOUFHbEdfVUhFelNJcHdzRkJFaWlhRUlpN19SbFhHWXozaksw0gHWAUFVX3lxTE83OFlfcUI1R3o5Q3ltcFd4NTVCbUhpUjU5eXJCVTEwOG4tdmFBc05OU0JSbE1sdEgtNWtSRkx6RnJqWGhpQ2puVy10OUQ5SEQxR1hWUzhTb2x1a3dSMV9FT2pnVWVVeURTNTd0WEFHTHRHd19mbHZGX3U0Smh0dWNvbUkwTk00aGNYUS14Q3g2Y0RCUGo1OWxQbXhnTlFFVkhrTDBGeE1pZjBGVXhpY1FsbEI0b0NqWFZFb2tfc3MxRThCM2hOSUZ5RzRiRkdFYzZWNlp0c2c?oc=5",
-   "date": "2026-08-20 06:45",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
   },
   {
    "title": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
    "source": "WWD",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2R5UlBzM1E5cE56anFEb29JMkZyNlNFOHc4U0M0Z2hTZUF4SndRZWM0SkpVT0hlRTdaU0xxY2wzY2gtSDhYVk9BWGF4MHE0MXpaYWtYRUNjSnZhM3F2WmpudWR6X194UmEwUV9zcXlQQ19nV0ZMS09pNUJVYzNBbUNBTlI3bVZBY3cxUDE1XzhDYVNXcWxlZktITjhUclQ0?oc=5",
-   "date": "2026-08-20 01:04",
+   "date": "2026-08-20 00:35",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
@@ -288,44 +348,14 @@
    "region": "europe"
   },
   {
-   "title": "Amer Sports Q2 Earnings: Salomon Carried With 37% Segment Growth",
-   "source": "TIKR.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0ZReG11RWFQZG11cWREcExDcExYX1lLczBWZDVCcHhRMXE3OWdDckEwYkphYkVvMXJCb0lLRlFBRGhycUM4LVFiYlJ6VjNjeVgtNF9wZjBLU1lWS1JCUW10UFY1X1I3VHd0aS0xLW9vWVdrSDRrQ3I1REFfQ1V2MEdlSjdkbjNCcmU1UDFDU01xQQ?oc=5",
-   "date": "2026-08-19 18:05",
-   "lang": "en",
+   "title": "亞瑪芬體育 (AS) 2026 財年第二季財報電話會議：營收成長並上調財測指引",
+   "source": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mT2ZtQ0xhTHI4T2pIaktETng3bFVGeDhqRmJ2aERFcldyQWFIaGZoTGlTUHA1R3M3bkJ6bWZhemUweVNNRUxkZU50dnloOGxPTVJ6bHdLbUlFaTVuTXAtRG9TbUtnQ2VoeVNBc2RJc0VyOWp6VGZPdTJ1d3o?oc=5",
+   "date": "2026-08-19 04:02",
+   "lang": "zh",
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
-  },
-  {
-   "title": "Amer Sports, Inc. Q2 2026 Earnings Call Summary",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmN4SE5RQWhQS0t6RzNJMlBnQVhhR0RRYk1HWEN0a1VpVE5lQURydWZ4dW1wR0x1dEMwLUxqZFJIRXlPeC1ndDNDdVpJcXBJbzRGYjE2VkJVdUQ2Q0VFZTF5ejZscnU4cW40ekktd20wcG9oU19JenJPY3dldEVNSHFiMlR5d3dsZF91SGhiMmVVZw?oc=5",
-   "date": "2026-08-19 05:03",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Muji to Open Four New U.S. Stores",
-   "source": "Retail TouchPoints",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDF0amFVVVBKZ0YwRXE3bkIwWHhzRWZ6Y2U5SHlaSnkwX3Z4NFNqS211N1VEaTRwanFFN1Qxd0R2b2kzVWpUOENKc2c2bmlMVFZubFBCUVp3N0tLUmtXOXhYeDlIUml5Z1FZUG5Cb3ZQcDNMREFsSmZ1U2cxX2ljLWhibmtOeDROR1FkUzdoT3F4Ni11?oc=5",
-   "date": "2026-08-19 03:24",
-   "lang": "en",
-   "brand": "muji",
-   "brand_name": "MUJI",
-   "region": "apac"
-  },
-  {
-   "title": "Japan's Muji to open stores at four East Coast shopping centers",
-   "source": "Chain Store Age",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbUx2aG9SclBidl82WHh0RUtJYzBzX2IyVjRPbjNNM0I1UUxyNG95N1NNYjRJSkZOTWRRSXNpX0o4eTROYlBIOVBTNDRfOEF6b0ZydXFEMGJRbk1pTExCLUMtckZUNTRuWkYtVE1nTk96c0NBWmU0Nm9oajVIcWdDck9abzRieHloRGc?oc=5",
-   "date": "2026-08-19 02:59",
-   "lang": "en",
-   "brand": "muji",
-   "brand_name": "MUJI",
-   "region": "apac"
   },
   {
    "title": "VF Corp. Raises Fiscal 2027 Sales Outlook as Outdoor Growth Offsets Vans",
@@ -348,16 +378,6 @@
    "region": "europe"
   },
   {
-   "title": "Amer Sports Says There's ‘Nothing Structural’ Blocking More Sales and Profit Upside",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzQ2MUZqeWpvdmxpdVBESkZ5VkVWU01mT2gtOXAzNF9HUjloN25YYWwycm81eURmN3JQZC1seEtFV05QLUpVZkVrR3Exb0lFank1SjFjbzVDNGhsZXIxdnh4b0RiUV8xQUhrMmpJLVhYWUVrRkxzVkF0ejgyQlNSZEVTUmlTNlk4T25URTJ1ZktpSEpJZzM4UnBzdFQ?oc=5",
-   "date": "2026-08-18 23:28",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
    "title": "Amer Sports Raises Full-Year Outlook Following Second-Quarter Beat",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcE1hU284U3Ztb3hlM05qYURNaVVJZG9pU0VUSXptZTFjQ2M3TkdzTFJ3MlFuRGR4NjNlN2lCZmUyc1hXSFRacEVBN2M5WUFTRHNLdmhHb3V6NTNHa05lQ1hMa2JGS21GRzBhUFkyMFZjY0JuUnBJSkJCc2o0dktLbEw4VGFGUThxcXE2cGRqTThMR0c5RTBFUFRWVXc?oc=5",
@@ -368,13 +388,23 @@
    "region": "europe"
   },
   {
-   "title": "Shein’s IPO Could Come At a Quarter Of Its Past Valuation",
-   "source": "International Business Times",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDVXNlhMZVB2SzBmRHNVTm9oaHlnUFB6M2pYTUZ2U2U3R3l2cExibUUxeXF0NVlMMlFWTzZCOTd1SnRvbHBWcDZoYzdTNzJDZ1B4VXF5VG0zNHlzNms5c3JiZ2YwS1RzS0hncjF4RU9fTWpoa1dfa1hSbi1jZkJCa0R3U3pVVjQ?oc=5",
-   "date": "2026-08-17 23:25",
+   "title": "Amer Sports Aims Higher After Firm Beats Q2 Forecast, Raises Outlook",
+   "source": "WWD",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmlnRHJfdFgwXzNkcGNkUS00akU4MEhNV0ktdWhObVI1ZERUNWN1OVEtU2FlUlJ3RnZqVy01TjQyazM2OWk5RFozQ2JiMnAtZUhoamZtNzU1NlhvU3NYVlVLc0VyYWtvMmUxU0tNalZheFF0TEVYMFdycnJZazZsY29oRXBlUEFJM21uQnY1QW9sbS1mM0N2WDZra3E0anZ5VW5WWGdjVXltS0dEYlpFeTB5LWpURmo0dTZZ?oc=5",
+   "date": "2026-08-18 21:05",
    "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "運動休閒風潮助攻 亞瑟士大幅上調全年財測股價創高",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNZTFsYkpGd2V6cGxlOWlzQTBxVHJUemxrb1gzVjBCdHNsbWJPdWhkY3ZtVlFWWWJYaXlNQzZ2SzhiNzFkNkVUNjVoMFB1bmdpSllLM2E3RXlqMUg1T2Izb2czQUpOMVBlUE83R1RFbl9hbkdtaUczTUsyRmRLMlFOelhUMXFwRjQzYlFXUlpLM1Y4bWxaQjFKSUFsNEZwUTVVcFdNakRtQ0VRSk5EMkNvNzM5Vl9Sa1JZV29NWU9CR3ctbU9vLTY1LUoxR3pZamdOcHBhNVhLX1ZhYndWZ21IclcwUXd4RE81WVN4ZW1Ic0ZReS0yYWxhMEFxMVdtZnFLeU5LcWtRakU3b2h1QVVUcVhlQ01kZU00U29zV2VPNmxCVWJNSHNyRnRWcjNtWUR2UHd1Vm1ReEJYUkh5N1JIMzQ1cjlLaWFsOC16WkZQcDlxd0padmFHUVlCYk5XSndyMkV4a2RmMUFaXy1wb0ZqMQ?oc=5",
+   "date": "2026-08-17 10:52",
+   "lang": "zh",
+   "brand": "asics",
+   "brand_name": "Asics",
    "region": "apac"
   },
   {
@@ -411,7 +441,7 @@
    "title": "2026年無印良品財報啟示，十年沒靠瘋狂展店、不堆廣告，為什麼營收淨利創新高？",
    "source": "經理人",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQzZwRnRzclRPVzdxcV9uSDZWUUJoLUZMekZDWHRPalh3TndwOGdpZjlGdDk0M3Y0X2F0bW1tOFBqdGhlU0tpUFJCVHp3NzlWVW9ESl84aUxyaFp6QldtQQ?oc=5",
-   "date": "2026-08-03 15:22",
+   "date": "2026-08-03 15:00",
    "lang": "zh",
    "brand": "muji",
    "brand_name": "MUJI",
@@ -446,16 +476,6 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "法國報紙摘要 - 超快時尚“希音”2026年第一季度虧損9900萬美元",
-   "source": "RFI",
-   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPXzFfZlJhSHhqdmJ2MWpqV2s1dnNBVDJSWmZUZGc4bTVMWm9LSl9wVm1IUElqMHRzWExMd0RlMGdKVlEzNEFVMFVyZ2x0Wl9DS2lDTVBDTGszTXhFX2ZESURQMWpBb095endXTmkyVkNFV05KZDRXbEprWmh4V3VHVnBudUY4NHdIZTBDdk13eGdadUF5ek1OSTdiU2xaUkJHZzlLV3R2d21abXhTb1NKU3lVUVdITkg0VnRpUklYa3F2Zks2Z3BraWd4akVaNnp4NDV6YUZGMWNOWVR0a1lIUEZaUXFiMUNidXF0aUdVN3NIN09OXzRteTh1bkQ5TDNYM21CbVc1b21qakgtSmVacEM0N0xsU0FXbWZGdHJyRWg4eGNocmM1Yk51VGdlSzdCTk92VHBoREpwbFFFQTZ5QTFzNHpuVHBqY0FLeWFmMy1iejI1NTJzTjJFb1lVNXZrVk1lV2s3OXZaZkhxNUFEdW1JTmlPa2d4V0JNV0RwRXpsMVVNXzBWYzE2WlU4dw?oc=5",
-   "date": "2026-07-28 15:00",
-   "lang": "zh",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
   },
   {
    "title": "Shein flags tariff hits after posting quarterly loss ahead of Hong Kong IPO",
