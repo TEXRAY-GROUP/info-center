@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-21T18:04:33+08:00",
+ "fetched_at": "2026-08-21T19:54:42+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -46,6 +46,15 @@
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFd4RHRKQXJxZTRrY0dVZzdnc0pzaEphSlNrTE5VMExwRy10d1pRZUIwdkRld0xyWlR1T0lMSS1TVWllNURYZDByX0RRSTBrNERjQmU3UTBfRDZTOWlaOFpvT1pWYjh4Nnk4YzFNb0YyZjh5eGpqX0Y4T0x0bkFtOFdTdnlYUTl2bW96ZTR1NURrZkFGa3JfbE5pdkxFbGYyaENlM1NrSldFeHlwdDB3dEt1NUEtMFNocHZjc0trSG12bHl3aC1mLXFTR3hjbzBQZEpZUnYtbktVZjlmWlFCN1g5RVdVYnAwMnFoUnotT0N2LXN1cUc2MnpGRlhLNG1rYzB0QWpGNmFXamh4ZXg5aGpncHhoMzhDUy1BcDEyZFB6anhiSDB4ZFloMTE2QzhQZnJmMg?oc=5",
    "date": "2026-08-19 00:16",
+   "cats": [
+    "stock"
+   ]
+  },
+  {
+   "title": "【13:04 即時新聞】力鵬(1447)股價小幅走揚至6.94元，延續紡織低價股題材買盤＋短線技術面偏弱下的反彈試單",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXNhUzJvWTA3Ry1NTVB5YzJyVVQzVEo1anVkaWlRRE9DZVZ3VGZFajdnUFFHWlc2cmphOE16dUVsVnloR3psN052YXZpRDlRNjk1MHEzS2ZOZjUyVjJCN0ZselI0bWhuVW5MODJycy1KaEc1djUzXzQ0d1RGWXIyNDJPUEJ3QnRsTl9WYUln?oc=5",
+   "date": "2026-08-18 13:05",
    "cats": [
     "stock"
    ]

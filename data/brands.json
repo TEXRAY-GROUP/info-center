@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-21T18:04:36+08:00",
+ "fetched_at": "2026-08-21T19:54:45+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -188,30 +188,10 @@
    "region": "americas"
   },
   {
-   "title": "Moody’s upgrades VF Corp. outlook on debt reduction progress By Investing.com",
-   "source": "Investing.com Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejFpdW1lekVKYjJDcm1iMW1ZUzFYZkp4ZklNVmR6NHpSM3VnLXZfOVZfT3pjcGpUUDZqalRxYzJjY1g1Z2JUWDY5MzV1OXBIOFlYTkNOU0NkRGkwZDRLUGpqWUtLWTVBb1dYYmdXMHhIZEJSdl91WjJ0X19DeWdUcHBTNkdhcy10LWJIeEp6azZSYk9od1BfLXNVNWJjekJCczBxdlVqOVRhZHU3TkJmLWx5bkdsQ293bzdz?oc=5",
-   "date": "2026-08-21 04:46",
-   "lang": "en",
-   "brand": "vf",
-   "brand_name": "VF Corp",
-   "region": "americas"
-  },
-  {
    "title": "Nike store in North Texas closes amid ‘streamlining’",
    "source": "Dallas News",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmV6NGxObUhBMHdScW5kNXBQakRLUlFtSm8zOUFCSWx1R2FRMGxXSEhuaWJfRC0zX0VJb0k1Mldjdlo0UUNNN2c5M2RMdW9FZW91amI2dk1OVndLSVh4YjFKYWFpQlcyWEk2X1A4VW1YMWxXTU1VRkkwNjF1bkZtbkdBalc0SWs5TWxoanNnM0ZiNU5ZSzhnS2JuQkJSU3M?oc=5",
    "date": "2026-08-21 03:34",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Nike Closes Over A Dozen Local Stores",
-   "source": "Bisnow",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRmp6UVdmUnlpaUNmZ3VqSkxOSmlJY2FjbGRwNlZ2ZUVIYXFwOTNQR2pwc0l1YmprbDRKNGV6Z252elN0QUZIdTFYbC1EN2dwQVo4Z0tsenI0Wmk3d1dzUTNTMWZld21GVkRGZkFHX0Y1d200QTc0RGlJSHhYcHM?oc=5",
-   "date": "2026-08-21 03:02",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
@@ -376,6 +356,26 @@
    "brand": "vf",
    "brand_name": "VF Corp",
    "region": "americas"
+  },
+  {
+   "title": "Amer Sports Says There's ‘Nothing Structural’ Blocking More Sales and Profit Upside",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzQ2MUZqeWpvdmxpdVBESkZ5VkVWU01mT2gtOXAzNF9HUjloN25YYWwycm81eURmN3JQZC1seEtFV05QLUpVZkVrR3Exb0lFank1SjFjbzVDNGhsZXIxdnh4b0RiUV8xQUhrMmpJLVhYWUVrRkxzVkF0ejgyQlNSZEVTUmlTNlk4T25URTJ1ZktpSEpJZzM4UnBzdFQ?oc=5",
+   "date": "2026-08-18 23:28",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "亞瑪芬體育 2026 年第二季財報：營收成長 32% 且營業利益率擴大",
+   "source": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FSEVNTmlhZ1JhZ2oyd1V1aVZjek83UV9XTGFKSUpSclVmdzd1YVVzNTlqdk54MGxGdzNRWGlxckhBdFdaSnM3NEQ4V3ZtXzdqdzJFdnBfNDc2V0xfR1pydGEzc2Y5bXZwS1V6Y0RzalhCMV85Nm5NcA?oc=5",
+   "date": "2026-08-18 18:05",
+   "lang": "zh",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
   },
   {
    "title": "運動休閒風潮助攻 亞瑟士大幅上調全年財測股價創高",
