@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-24T12:11:31+08:00",
+ "fetched_at": "2026-08-24T18:24:21+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,34 +158,64 @@
  ],
  "items": [
   {
-   "title": "【新股IPO】SHEIN收購Everlane交易面臨美國國安審查 希音：遵守所有法律法規",
-   "source": "香港經濟日報HKET",
-   "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNNnVwN3NWQ25GMG9OYWRBLUFCb2R0ZXNabWxMU1poZXRQLXAwaERrU01aam1GRFZ0c0NLajliNHNJQ1dlQlVtdDRmR3hwSXh2MnRzS0NzU2NGMlJFcW5la0Z4TDFLMExZRUtZSlo4U2pvaTZyeDFJSUNVbXBGLWt1LTZFbzNRSzlZWFhwUTZjRWdWQ1dJR0RjeUJETWpVRVc5b2dKNXEtM292Tk1BM3g5eDJUcUVTZE94alJWSm5yT1B3ZC0zeU5GUkRJWi03bk81VnNoblpJTlFYTU9YQ0FrUG9zdjZVWkZtRm9qbU9LVUJzN2tDM0hOQmNITGdHZDM5ZmtJYkJZcWtGZXpCcU1RQmZmUHFrMzN6UmI0ampDU0psZTEzREVzbmNiTm8xYmRqSVVWcF80aVBNQUZfY0pYSHdnY09mWG44RTBySGF3TnRrNDJLZENOa3FLNUQwb2pYSUwyU19RbndkNm82blk2QW44R0lzcWpEWXJGUFNZVmtHT3BJVzlSeVNraXowOHFOYldub2g2aDVtRjlZUzYtTmtWNWRFOEF5TEFLSlV4ZERWU0hneUVRWm5qbmtEelhfbHZB?oc=5",
-   "date": "2026-08-24 11:12",
+   "title": "Alibaba, Shein’s Hong Kong Share Sales Mark a Dramatic Repricing of China",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVU0WmVWTU9FcU52dXFVLWJKLVVKYnIwQ0d1anpkU3A2VmxKRGxXazNEMHdrVUhpMGhWVWVzY1QzUzhXd1JmbUd2U3BSa1lBdHQ3VngyaFliZWpEUjJRZ0tXamVsVGV6M2puUy1pNGFEZGxMaHNGdTFvclppZ2dZNzU0SmhSS19nLWFIOHhBWFFpdUtRUkd4RFRnWnAza0ZJU0owNGdHbVdVbFRBZTNsdVAydzJrdEw0UGE3cm91OHJNWk40?oc=5",
+   "date": "2026-08-24 17:39",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "Shein closes in on £20bn Hong Kong listing after ditching London",
+   "source": "The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTJGSU9kaE5Ec2NjNi1lczVoeDBJRnBzdTBib2NVYWI4dEk4UkJ1SXRyYjlyTjFBeUhxTXVTN0s4Z01sQkstSWtzYmhhQ0NJUHVUb2xvZDNtLXAzaVkwVzZFNFNmV0twMlk0eVg3WE9neUFOdEk5N1FseW5odGFMWWpua0xlVmo3cUgtWU9OYnlMQXpQMkJTeUNSVXdOTzd6OXZGN3llbDl2b1FN?oc=5",
+   "date": "2026-08-24 16:42",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "新股上市 | 希音啟動香港上市招股，據報收購Everlane交易遭美國安審查 | 專題透視",
+   "source": "etnet 經濟通",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY3BlM0F1bWdQajJzTE52OWI4QnBuUG9scXlXZXlPMFhleHhpc1NuX2FOZVVOQkxXSnRtaFZJejlIcURMN1VhSzZrT0E2MERmX1NzU2ZMeTdWdXpjT2ZpZmNtZzBMcTdveXZKQWJRS1JxSE1tLUdiWWlQVFFRZkJ6Q002YnA2OUNMXzJiRE9qQnplWlJJVjlzcE92clVqeHRBMUpTcHNVb3A?oc=5",
+   "date": "2026-08-24 16:09",
    "lang": "zh",
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
   },
   {
-   "title": "國際產經：希音收購Everlane遭美CFIUS啟動國安審查，聚焦個資風險",
-   "source": "富聯網",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemdSSF9YdGJlblhfU0FMUkt3RjFfVmllX05ZM2dSb2Nrc1BnUGhmalBZVjNQU2FZbU9RWWstMDhYM2N4Q2lvRzEycG9QZGhxeE15cEtHM0lVVHJCbml6Y2NzWHNoUEQwbWRwb09Kbk9SVWhRcUN1cEJOcUZBclZVYnh0VW05OEV0?oc=5",
-   "date": "2026-08-24 11:01",
-   "lang": "zh",
-   "brand": "shein",
-   "brand_name": "Shein",
+   "title": "Muji to Opens Stores at Four East Coast Centres",
+   "source": "Retail & Leisure International",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DcE9yQTNiQy1CQU9KLXJSemJQbThBbzFER0FiaTQzYVBjUTdOZ0JJV3BXMFdTMzl5NTlqOHhPUUNweTkzR2tBZU9EQU5oVjB1d2pBanhSZmRyUlZld29KSzc4cnZ6dThfVUFlN0c3WWRYa1IyWW84UDFTSQ?oc=5",
+   "date": "2026-08-24 16:00",
+   "lang": "en",
+   "brand": "muji",
+   "brand_name": "MUJI",
    "region": "apac"
   },
   {
-   "title": "希音上市擬籌最多139億 另據報收購Everlane遭美國審查｜新股IPO",
-   "source": "香港01",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iQ1JhRk94b2QybVNyYU4tMVJYRjlpOXhlM3E1T3dRUF83TUREdGdsaGhUdVNvTUVnX0Zqd2lWR2h4QVFkNWJmZHY1bWNzdw?oc=5",
-   "date": "2026-08-24 10:52",
+   "title": "【大行報告】大摩料李寧今年銷售僅增1%",
+   "source": "Now 財經",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkMnZIR0hKQko2R2VZaDJIZEhIMUlmQ25EM0JTNFNaZDJMckc5czVJNVA1SHVPZXhQS2ZhS1RnRXpFamtzYUZvX2lST1UwY2RzZ0lfT3NRb19rSVk?oc=5",
+   "date": "2026-08-24 12:08",
    "lang": "zh",
-   "brand": "shein",
-   "brand_name": "Shein",
+   "brand": "lining",
+   "brand_name": "Li-Ning",
    "region": "apac"
+  },
+  {
+   "title": "Nike One Piece Launch Underscores 1.7 Million-Pair Shortfall in Direct Sales",
+   "source": "TechStock²",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWm1kU3hSdzJUX0lMUXlsOTdYRVFCQUVPTG5naUx6OEgtOXYwbUM2QTRjZEt1eG1ZWHVMdWFZbWQ0cTVRRFBkaU5EQjljZjZ3YnRNUlJjeVVZUEFWS3NPdGlRTjlBMlE4OUs2bmJUOU5ob19Qc2lFNGhKSTVPYWVOdUhuaWVSclZDWGx6QnREMjQ?oc=5",
+   "date": "2026-08-24 01:26",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
   },
   {
    "title": "Nike Closes 15 Small Format Nike Live Retail Stores",
@@ -248,16 +278,6 @@
    "region": "europe"
   },
   {
-   "title": "Amer Sports: DTC Revenue Jumps 40% To $896.8 Million And Reaches About 55% Of Quarterly Sales",
-   "source": "Pulse 2.0",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2tDZFBkdjZ2WUhYOUdqTDJvbGdDQ3VsSDlPcHhSSmNDSHFlYzhTdGZKejg1c2RGakE1dWNWV0xjSS1BUlVWNTRzVXgxUF9wUk1GQ2k5ajFnajU2eVFCMFU0Ymc5NFdkVFhkc05sMEt5MVdVWHNIUEozeVE5QldCcVhRTXRqOUd2M0Q2ZlNsMG5jSVhZWE10akhoN1hkX2stQmtsalo1UG1PZjlMSHfSAbMBQVVfeXFMTmpzNGFFNWR4MGpNNnZWbU9pdGQ3NE56eXU2RHNsUndEeks3X2tKYWlvOGk4VlJnR1lrdHBwbHg5MEhKZ19aQ3BxSVNCaGx0VGV5QzBYX3kxd0FwdmdPeWxtZkpoeEM4UEhCb2FScEFmMWNNZ3NXaUVyOTVMQ2JuWlhZQ0lmcnVvNUZrYllWLXNLM1FNcDNVVnBaOGJSaHVobk1LNzJLLXNGX3VIel8tRmVwcHc?oc=5",
-   "date": "2026-08-20 19:25",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
    "title": "lululemon athletica inc. announces second quarter fiscal 2026 earnings conference call",
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0todmIyTW1ZbHl1REd0dEFMZEJidzVKUnNCVGNETU9JZmZjT3FiSU93SjhUdXNTOGpHUThfVWtsVHEwdzNSanBSRjY2bGdLYkRXY0tjcnMzOXEyR293NUlNSkJlZjdObmhCQkROcWkwSjFibnFKaHh1U3ZaYzZaTG1NLTZtZS1fekRqWjNQMDMwWmtud3hnZlh0c21saVRxSEI4ZUlOQ0s?oc=5",
@@ -269,9 +289,9 @@
   },
   {
    "title": "Nike, Target, Amer Sports + More Companies Have Gotten Tariff Refunds — Will Shoppers See Them Too?",
-   "source": "WWD",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2R5UlBzM1E5cE56anFEb29JMkZyNlNFOHc4U0M0Z2hTZUF4SndRZWM0SkpVT0hlRTdaU0xxY2wzY2gtSDhYVk9BWGF4MHE0MXpaYWtYRUNjSnZhM3F2WmpudWR6X194UmEwUV9zcXlQQ19nV0ZMS09pNUJVYzNBbUNBTlI3bVZBY3cxUDE1XzhDYVNXcWxlZktITjhUclQ0?oc=5",
-   "date": "2026-08-20 00:35",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2J6NWhRLXZWQ3FjU0JQc3QzMkw4ZGJ0dmp6QWtyZ0M5NHRBa2NyMUVyamx0a0NVSVpxQ2NYdktOdlJuai16ZjVyQ2sxSXZHSVRYekpzZGRPVkIxT25BVmlEeXI2SkxULTJmeVhFanFzSC0zanMtY25mSXhBaG5MQ041V1BFOV9GQzFYQWdQNmluS1NVaUphZg?oc=5",
+   "date": "2026-08-20 00:34",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
@@ -322,16 +342,6 @@
    "source": "天下雜誌",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tWS1HRGh6U3RwSVZPbWhranEtV0g0aUc1ZVcwYVpOeThlRWxHTHZkUG1Sano1eG5BeVhHRVZZVDRuZ3h1cjA2bkhoRDh3UQ?oc=5",
    "date": "2026-08-14 15:00",
-   "lang": "zh",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
-   "region": "apac"
-  },
-  {
-   "title": "京東10年後再牽手優衣庫！不只幫送包裹 還要管海外庫存",
-   "source": "news.cnyes.com",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iTks0eVdQYlVpeWxlS3h2NXpZNGFLV2N4WEI2S3pvbUpLSUQ3NkEwdWFDbUNmU1BIckRCYVlVNXNZOF9NWkREakVfS2VSelk?oc=5",
-   "date": "2026-08-13 15:00",
    "lang": "zh",
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
