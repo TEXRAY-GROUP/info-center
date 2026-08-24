@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-21T19:54:42+08:00",
+ "fetched_at": "2026-08-24T12:11:28+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,26 @@
   }
  ],
  "items": [
+  {
+   "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
+   "source": "Newtalk新聞",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
+   "date": "2026-08-24 10:40",
+   "cats": [
+    "market",
+    "stock"
+   ]
+  },
+  {
+   "title": "H1獲利年增76%！「老牌紡織廠」獲三大法人連6周加碼 股價周漲近12%站上30元",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQZ25RUnhnTlhKaE5ta3ZnbjFDYW5ndjVESkN2M1ZDTEdIUEREcU5mQTUySHhEejRNQ1pWQmRZRGhRc3dMMVVmSEZHaWtKYzhTR3lLRUZlOGlwV0w0Q012OWRzdTJIMGJKUHQtT2RTU01PZnBaSmVFWTZYdTg5R19MRmNrS1lDTnRMU19QLWJ5RU1JUS1WWTJiWUZ6bWdKVzNUbmEyd2RhUHdiWm5sUzdtazgyR1JubmZxZEhnZjN1MVh6aS1sYkZvVGQyNndrQVBaSmpOX25qcHRRd3hVX0RYTUZIUWlyODhaZFFwYVljUTZBSC1XZFNlc0NlTVIzbXRiZTV2SkdONG93RzVZa0J4N1V2SzRhUDVwOFpkU0NnOGt2UnRKcVNYclZsY1FSczJWay1vTGpxN2w4UVRLNjNIYThxOG00bkp3MUlUd1J5VHNCVmdVdm1idHZBTDRJUGFRaXpnazlCbEQ2cnFMcG1za1pBV1FZQVFpbHN4bWRuRzdFYmZzcXBhWVB1b29Sc3lEaE9VLU1qaGtsS1Y3TGJzX042QlA?oc=5",
+   "date": "2026-08-23 17:55",
+   "cats": [
+    "market",
+    "stock"
+   ]
+  },
   {
    "title": "雙外資給予目標價460元！「布料及成衣代工大廠」訂單看到6個月 下半年拚單月營收逾30億元",
    "source": "FTNN 新聞網",
@@ -109,15 +129,6 @@
    ]
   },
   {
-   "title": "【個股分析】竣邦-KY：低估的紡織隱形冠軍，2026~2027 年獲利續創新高",
-   "source": "富果直送",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2a1BXWXU5c2liY0Z3NkVlUmFXTVotZnlmdjFqN0psYUxBOW55aWxSLVRTazBhRS1OLV8yVEhXOHIwdk1TblhOMzg5eWJyZjVINnhF?oc=5",
-   "date": "2026-08-07 15:00",
-   "cats": [
-    "stock"
-   ]
-  },
-  {
    "title": "紡織所「膝關節炎在宅系統」 獲選高齡健康產業博覽會十大友善科技",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BU3N2ckZ4bERfTmg0b3lNZElUNmdjclNyVGNiQy1ZWXIxSW1yTmtGOTZQZDhLbXZoNG5jM3dEMDdmTFZTQlp5S2RMNmk1aTg4TFh4QWVLVXJodw?oc=5",
@@ -157,12 +168,13 @@
    ]
   },
   {
-   "title": "《商情》成本端支撐乏力 中國EG化纖價格指數連2跌",
-   "source": "富聯網",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRS1wdldHbi01WUtTeVlVVUpTRXdsZk5fRHgtUjVmY05sYkE2aWx4STBZU3ZRVmFLaEh2S1JDU2ZvZzZuM3J1SC1SOXJ4S1J4VkMyUTFrakJFakpISTNCazY1ME1BZGdHNF9DMktLRmZrNUNJdHNoU29zQ2ZYUWx4Ty1GdXlrTEFQ?oc=5",
-   "date": "2026-08-04 14:37",
+   "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造 - 財經新聞 - PChome Online 新聞",
+   "source": "PChome Online 新聞",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDQ1cHlrbmk1bUpzZkIzVWt5TXE5NWZIbGtEYkhWSWNfdGFYdmRaZjJ5WklUSWNwelM5UGVfVlRBeFNFTmttNXBIN1NCSUR6ZWNvM2lTRFVFdXdjR2MzV1ExUTRQOUQtcXRlY1hod1hJSGpfU0NXelVPanhlSkZXRjhhak81ak9QWU9lYg?oc=5",
+   "date": "2026-08-05 15:00",
    "cats": [
-    "material"
+    "market",
+    "trade"
    ]
   },
   {
@@ -172,6 +184,15 @@
    "date": "2026-08-02 15:00",
    "cats": [
     "stock"
+   ]
+  },
+  {
+   "title": "紐約成衣布料展 紡織台企鞏固客戶",
+   "source": "世界新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ZDltekpxaGJkSW1LRFl2UnEwUWwxTTFPTUc3UDE5T3hYRllodVUwcnJTLXZELUZrdGlTdGhSTjRySzRDU2U4LVgtTFZYckNvc0ExaWtqOEVnWC12ZkNPM3dR0gFnQVVfeXFMT2J5bHJQNUk0Y0dlMDVybEd4RXdoaEFOLWNYdGNzbVItVkVGQjFYVXFUbklpWXNFaDVVN2ZrcVpmRlF1bUFKOXJmV3UtWUhSNW02V19UcGlRWk1lT1NJOWttSGVDdF9NOA?oc=5",
+   "date": "2026-08-01 15:00",
+   "cats": [
+    "market"
    ]
   },
   {
@@ -193,48 +214,20 @@
    ]
   },
   {
-   "title": "《商情》外圍市場疲軟 07/29美棉累跌",
-   "source": "富聯網",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2RhaDVhNnEzblhRMHRuMUJWX2ZiT3VkTzd3aEE5d3lEQ0wxXzY3Y1pncHRNN2NLQUdRTFJPRUdfSG10Qk9PQm1lREJFd2x2OFlQTUd1aXY3Ymt5MmxnOTYzZGpQVlBtSEVGbG94SGs5ZnVFQnd1NEV5aWNMLVZ1eHlVcGJzbnBS?oc=5",
-   "date": "2026-07-30 15:00",
-   "cats": [
-    "material"
-   ]
-  },
-  {
-   "title": "台灣獲10%不疊加稅率待遇 機械、紡織、塑化業 樂觀看待",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SmJXZzkyMDR0TndzSnlEZTEwdjJESVQ0T0dmalctUU9iRm1ZVDVDNXdVMzhqeUxpbFJoNEl0dmRsd0VURUxLZEpISU1UYXBvZ0JaYUtCT0NnZ9IBX0FVX3lxTE1uZmhKYzdxSzBaY0kzN09SV09VOGxLSEp0NkJCNnk1ZXJBbG9jbWNWZkNjNHpuNHdXOGtRNDF2S3ZEdEpiNlJfdXRVUmtGVTBCNmREa2tJTzlqUGV4MU1r?oc=5",
-   "date": "2026-07-25 15:00",
+   "title": "美揮301關稅大刀 越南紡織出口競爭力拉警報-新聞內容-基金",
+   "source": "MoneyDJ",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWlYV3lRUEp3SzhFcU8tcy1QcmZIZmtLSmhxWVdlQkF4UUFRaVpQb0VrSGpWQVVha2Jwbnltam1nZmE0Z25Yc0h2WWtzVHZuNmJGd3otczlFSmxlQTZ1QjBDWUZ6My1Ta0tTRTkzeHRtNmtTY0psU1kyeVV4cl9JUi1uY3BxU3FWTlVvbm13Slg?oc=5",
+   "date": "2026-07-27 15:00",
    "cats": [
     "trade"
    ]
   },
   {
-   "title": "台灣獲10%不疊加稅率待遇 機械、紡織、塑化業 樂觀看待 | 經濟日報",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MQlRqZ0hSX1dVdHlDV19JUlFKMlYzRERZQW1vZjFqeVJvT3IyemZfVDFxSW1YVDJIajFoTFVXa2YzZGlTbGhkbXF2WXp0dktIVE9sUG93?oc=5",
-   "date": "2026-07-24 15:00",
+   "title": "美揮 301 關稅大刀 越南紡織出口競爭力拉警報",
+   "source": "TechNews 科技新報",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2tMOWFLcGZwTGtXMDg5OU1wQlZJLUR0QzhXSTFfUW5nMVJ3OXBUak9uOUFJOUhVOTlLcFhBVUVtNzZPR2tLS2dIdVM2R3o4Sk5sVmFfYXAzSXBxZmxRVWlBYnhwMGNmQWdjbVM1M3JIZVppckN5VG9FajJmYnU4SE1TeVpOUkdDR1RBSEtnT0RZS1IxeHNoQXJBd2JORTZPMHR5dlRYQTVKbV9UU1E?oc=5",
+   "date": "2026-07-27 15:00",
    "cats": [
-    "trade"
-   ]
-  },
-  {
-   "title": "301關稅台灣10%不疊加 紡織、塑化業者：對產業是好消息",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OaU1OcGQtVzh3RGxTeTZoWEpyS0RpbWVET0ptaDYzaVpYbFZ1RzluU0VwWEVXY29hYTg1Yk0yUE8wa3FWVkZKbG42US1ZQnhRVTEySkl2YXY5UHfSAWBBVV95cUxQTnVTa1RjM19pb2h3VjVCMUtiT1JYNDZXQmJpWkJjMEhRbGVxSUFNb1pZbW0zbk16emU3XzQ0cE9ESmpaZFpXMW9kVzdUakdzLVBxdWlwa1d6cVNndGIyRG4?oc=5",
-   "date": "2026-07-24 15:00",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
-   "title": "中東戰火影響供應鏈 台灣紡織業者紐約拓銷主攻設計師市場",
-   "source": "大纪元",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OQ0VZMV9UZ1g0U2xDRE8yay1EUmptSWpDOWZuLUJMdWdHNlZOM2ZKcmxWR2YxYnQxWFk0TXRTUGxIWGx3ZlE0NzZOc3Y4S2hDVHlxcHVQMjAtc256TjlnbNIBZkFVX3lxTFBQeW90ZTM5VVM3N3RXamNoREkyOE4yWURUbEVNYlpJRU1uVEotNjg4Q1ZOc3JiOFB3bzhkTGt1ZVZPSUNCdGctMGVwQkc5ZkZ1UUJzSkNhZzlJZUVIS3pFUkNGY3hSdw?oc=5",
-   "date": "2026-07-23 15:00",
-   "cats": [
-    "market",
     "trade"
    ]
   }
