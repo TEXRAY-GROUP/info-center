@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-25T12:00:06+08:00",
+ "fetched_at": "2026-08-25T18:04:47+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,66 @@
  ],
  "items": [
   {
+   "title": "RBC Updates Forecasts for H&M on Expected 'Slightly Lower' Sales, Higher Tech Spend in Fiscal H2",
+   "source": "marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlloZlI0YVd2M3ZFa2pLbFRHRHdsbTZfWWc0Y3E3S01rYWpXamlUdno4cWtsZExpTWx3RFZxWTZTRGpVMDI0VXhvaThWVE01enJBUDNGazBTaDE5LU5wdXc2VFpqZzFHUUNxZFhqSFdTNFQ4S1AyRGRfRS1qaFpTLS1KRlRJa2JsTzJFc25DbTN4QmdyYnBjRk04czEtOV9KMFZBVk52WDJiMW1RQ3o5azI1SDJaZFM4Tlg0X3hlZVJGaUlGQ1Z4d1FZVjZZcTdId3pxc2lseTZxMG1vQ3dj?oc=5",
+   "date": "2026-08-25 18:00",
+   "lang": "en",
+   "brand": "hm",
+   "brand_name": "H&M",
+   "region": "europe"
+  },
+  {
+   "title": "Shein and Everlane: how an 80 million dollar acquisition serves a 27 billion dollar IPO strategy",
+   "source": "Fashion United",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa0xvaWVjMkoxSzduWWZRX3l3ZHdfODZrZkJYd2NWTmZWTVVIbHVsbjJvWW5NWjctRFhWTVN4NU1YQzRZZWZnTm5TRlp3WlV3QkdqTzNXXzRLMkxnS3pERmhzZFZfajU5RzVEOXI4WG1UV1liQlVLN1ZpdVBVbmpKdm9zT1oyUWZvckxreXowcjluR0MzakhTRHE2X2RIaDdBTGdsUm9uSVREOHpfN2YzbGthd3lBUl9NRHFoN0ZHaEdqVmp6NWdwUmctUzJmRnZhVUVPT25YaFl4MGktaW1WQndR?oc=5",
+   "date": "2026-08-25 16:30",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "Algert Global LLC Acquires 120,596 Shares of Levi Strauss & Co. $LEVI",
+   "source": "MarketBeat",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcG9DQXZnRlFjM1JRSzN4d2lMRFJqdF9DX3YwT0dOQm9tMzVBTV9SUUxhRlEtZDdJLWJ4UTF3eUd0S1pEMTV4S1QyRUlSeFJaWlhoTEgxMDlwZmhCMTRaMWxUVTM1Yk14MURMOHZ0eHF4Tm44RW92c3cxSlpLakYzRUtnaXVsQzJGR21JcTNLSnpRbWx6anFlckZqcEJ0dVYybTdCMG9QZEdMTUNMZFB0ZGFzc3FXM0tZSk9nQ2puWVA5VEk?oc=5",
+   "date": "2026-08-25 15:35",
+   "lang": "en",
+   "brand": "levis",
+   "brand_name": "Levi's",
+   "region": "americas"
+  },
+  {
+   "title": "新股上市｜希音IPO傳已獲足額認購，認購訂單主要來自現有股東及基金|香港經濟日報",
+   "source": "香港經濟日報HKET",
+   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNS2gtRk9EdGFyWHFqYTZ5akN2elhyQXZoQWdMYzRKamxmU0puR0dLNnpybE1QM0E2VTc1bThJX29uY2JkOUN1S3o3MWt5alhwa1BxeWxLS2VJSC13dFJKZ2lqNHlyR2ZZa2JUNVdyUzFBREJEajB6eDZtY1oxN0ROUFRpQ1lpVHk2ZGJqLXpwcjdOdkE4TE9uZ2stZ2N0YVkzWGQzdmZ4VDFfczdKNkdJbGlDY25fLW55Tk95QnlkV1lNem5MdV9YM2YxOHd1cFBNNzJxX29EZW14UXZzWWFlUUwwTzd4TW5uQUlkdEtrWjdiLXZZNnNZeGtRS2x6V1lVV3doeEVHTW5oNWUxckxLX0lyd2YySDlWWFZkeGRhVW9QZE5zSy0zaktiR1AyeEhFYk5HZTFTOE5PQXNBRzJFOTRpdm9uaGVMQko4TzFhemY5a0d1NnJ5ckFQUGk2amhIZ0RrWF9ZTFpaZDR2aFI3LWtCZ1RMd1FPaUZhTGdHVmJWRmhJcHNYbm1VNTlHMFZUbnczR3RfVjV3clRZWUdZdTZxd3dwTl8zVjRjRG1rX3U5RjkxbWRBemJLNHJNZw?oc=5",
+   "date": "2026-08-25 15:10",
+   "lang": "zh",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "ASICS (TSE:7936) Is Down 7.4% After Upgrading Guidance And Dividends What’s Changed",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeDE5ODE4MWxtWVY1ZE9mWUV4N0plMkhYMTFxTXgwcGxKRVNjQ25nelJlUDREQ01kUHE5c3BJa0xwUDFtckhBaHU1ZElGcFJnLVB1bWpFYWgyS0NNbi1yc2YxUEljYmRjNWxsWnVfck1OTXA5aUxBTGpzTzA5NnBmOWZVQ2dOU0t5cndfbkNPUU1rS3lhX0xNdTZIczd0UFZuWkdVSFdESUJfRHppd3hTWFV5WHRhVEgwRUFqY1FOYXM1ejNFYlFQWDkxdG5LTS0xQ0tr0gHYAUFVX3lxTE5faENwdUloYldXQ1NiVUVlXzhpQmZBZDNORHVVaDVHV2tHUC1GLVZ1d2dSZnExeU55ZWtnS2F4QkROc0s5eEVUeWE4RGZoTUphcXQ0Ull6TTNuUGdSekpUUWFGemtFN19kYU5zcDg4RS12cWFCdWwwRXU3VF9Hd3M4bVF3aGFLc2pHWk9uR2czU0NGTURabXg5UDVTbmJONVRXM1RsMzVxb3ZIQlJhMzVuYkhSeWtGaTgtbVR0Z3BBNy15RkJURGpGNGptclNTdXF0TW5oV0RYYw?oc=5",
+   "date": "2026-08-25 13:28",
+   "lang": "en",
+   "brand": "asics",
+   "brand_name": "Asics",
+   "region": "apac"
+  },
+  {
+   "title": "《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年",
+   "source": "MoneyDJ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVRXYnhRbE1lREVyWGM2S1A5UFRfME5CNjM4aW9Lb21BYXlMcThxWUxocWJaT1JaY1kzOFpIRWtaOGphVDIyWWREMjFSb0F2aHhKRHpnX2s0ZlV6Y2xZNE5ic2VoOGpXdDlselpMR2NrMXp1MFd3MWRyRmhiTXZjblVETzl5QXRTcmQzMU4zbjhPZw?oc=5",
+   "date": "2026-08-25 12:31",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "Amer Sports raises guidance after strong Q2 financial results",
    "source": "Ecotextile News",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLU9BOWZEb3RZVXBaQl9fV1oyQk0zb3JNRzZRUTU1ZktFMHJiQTFHOWJlS0lHNlR5WFpXeC0yY3VNeU8xOG1aczV6NzdpczVKbDY2b0otcnFzU05rbTR3M0JZNE5JQ2w3NDQzR000VXVCc3A0SzAtMzJqeV9tSkJab1E3ZV84QWFTTGxWMlh0ZFdkbDA1d0NuaGRoWW15VnZZNkVVVUZjRVl0anhsNEE?oc=5",
@@ -178,26 +238,6 @@
    "region": "apac"
   },
   {
-   "title": "While Adidas posts record profits, Nike faces declines in several markets, yet both brands agree: running is a sales driver.",
-   "source": "Revista Merca2.0",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN05PMlJ3eFlBRlQzcHBkTzFXVEx4NHByZzhqOWh2M2tyVi1oYVBXd2I0S0pCVUo5OWttVFZneHdFM1pQMnRpRGpYWEE4LUhfeGN1Q0RKV1VwSmVlOVU5MW81a0FmMTJ1ZmxHdTJ5SmxiX0NxYlM3d0JZX1piWjEzeTVNdndOZ2F6M0lJclBkU0lVd0wyNTRveUhjd2xIOTIwZmNsR29DQVNSWHllZ0h3QjhSM0dfbmJGZVpjR0tNZzV6Rkd2ZWpkb3N0NDU4Wmd4ZUdidjhBc0ZhQzRuTlE?oc=5",
-   "date": "2026-08-24 18:47",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Shein to go public at a quarter of its value",
-   "source": "RetailDetail EU",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkxLSWpWUUJ0Z29kZTFsSGtjYndBSUpFTnJFaG1mN28xQzJWaFBGcGpSLWJKVUlkT05yTXQwV3oyZFk0aV8yWUVEUzdzNWZoYndueDNNQlcyYW03b1dueEFFVjMyenhxdXBZaGhHZDJxSkhhRkFmbDdCUHdGSnpRcF8tTngzWXcyZUpldFR0TQ?oc=5",
-   "date": "2026-08-24 18:19",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
    "title": "Alibaba, Shein’s Hong Kong Share Sales Mark a Dramatic Repricing of China",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVU0WmVWTU9FcU52dXFVLWJKLVVKYnIwQ0d1anpkU3A2VmxKRGxXazNEMHdrVUhpMGhWVWVzY1QzUzhXd1JmbUd2U3BSa1lBdHQ3VngyaFliZWpEUjJRZ0tXamVsVGV6M2puUy1pNGFEZGxMaHNGdTFvclppZ2dZNzU0SmhSS19nLWFIOHhBWFFpdUtRUkd4RFRnWnAza0ZJU0owNGdHbVdVbFRBZTNsdVAydzJrdEw0UGE3cm91OHJNWk40?oc=5",
@@ -206,6 +246,26 @@
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
+  },
+  {
+   "title": "新股概要｜希音首季度盈轉虧 2025盈利降近四成 估值下跌產生公允值虧損",
+   "source": "bastillepost.com",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNczFpLWgwUE5JVzZSSEpFdHZWUHFHT2dyaHp4ZWlFRU1Rbkw4Qm5kdVpCZWZBRThHbkpBUmE3LVY3T3JaeGV3UXlXZExjeWVTOUk5dUpPWlFIT01LblRyS0RCWEU0RTFvOFBjOE53Y0t4ME5uNTJGV2IzX0pnUGtfN3VfekJYMUh4VENyQll1M2JfWkNncUhtQ0k4eVcyX180dVpjUVBhSWM4UXJBM2U4d1pUZFlwMHZYOGZMQWMwd0FHZnY1U1ZvSkpxeGtfbGY0dDVHcHliaXRtZFo2VWFJLTNHb25rUVJPdXN3RnVlWDVjaHNTdnowLUlCM2JTZmtENFBraDM5RjVwVndQbEYzTU5xWUJveFdDOHRDa3dZSjB2dzE1NnVFdFlwOUVvY0x3OHpkdjl2X1V6ZmVhU2VQYWR6cVNUTGZQTjlnVjV6S3NLNnhYNEV0eFNjcGhzWUtCc00wUlM5Q0piZw?oc=5",
+   "date": "2026-08-24 15:58",
+   "lang": "zh",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "6768 志強-KY - 《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年- 股市爆料同學會",
+   "source": "CMoney",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10bXFzMDBQOFNieHVlNTk5QUpxVHFNX0tUd0xjckN2Y0dYOEdSVVBET3lXV2R4ZjBSU0EyXzBrM1JUcVNHeERsanlkUEtfbWYxRUlXcTNCb1Q?oc=5",
+   "date": "2026-08-24 13:48",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
   },
   {
    "title": "李寧下修全年財測 三大外資齊砍目標價最悲觀看15.1港元",
@@ -236,16 +296,6 @@
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
-  },
-  {
-   "title": "【李寧財報快評】營收、淨利維持成長，但促銷與行銷支出限制獲利率改善空間| 優分析",
-   "source": "LINE TODAY",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DR1NEMWs0Z19PQnQxaC1YcDNwUmZESFBmR25LRkZnOE9OZnItRWZxdTRhd3NlYm55REdHRlZ3b2t6dTVLemlDQ0VjMXFRTHhtRnVmb3NR?oc=5",
-   "date": "2026-08-21 21:38",
-   "lang": "zh",
-   "brand": "lining",
-   "brand_name": "Li-Ning",
-   "region": "apac"
   },
   {
    "title": "lululemon athletica inc. Announces Second Quarter Fiscal 2026 Earnings Conference Call",
