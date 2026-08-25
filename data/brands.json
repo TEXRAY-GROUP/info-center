@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-24T19:57:33+08:00",
+ "fetched_at": "2026-08-25T12:00:06+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,26 @@
  ],
  "items": [
   {
+   "title": "Amer Sports raises guidance after strong Q2 financial results",
+   "source": "Ecotextile News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLU9BOWZEb3RZVXBaQl9fV1oyQk0zb3JNRzZRUTU1ZktFMHJiQTFHOWJlS0lHNlR5WFpXeC0yY3VNeU8xOG1aczV6NzdpczVKbDY2b0otcnFzU05rbTR3M0JZNE5JQ2w3NDQzR000VXVCc3A0SzAtMzJqeV9tSkJab1E3ZV84QWFTTGxWMlh0ZFdkbDA1d0NuaGRoWW15VnZZNkVVVUZjRVl0anhsNEE?oc=5",
+   "date": "2026-08-25 00:26",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "希音收購服裝零售商 Everlane 一事據悉正接受美國國家安全審查 | 國際焦點 | 國際",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92clVtLVAwdEVpZ1pJNjNtVkZjbGNSOUo0cUN1Z0hPLTFkZlNkaXVlcy1KTEdsNnhEWk9BMDdYUlZQUHZhbDhRdzJqZEphMGhvaEtSanBnYjdJUQ?oc=5",
+   "date": "2026-08-24 20:55",
+   "lang": "zh",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
    "title": "While Adidas posts record profits, Nike faces declines in several markets, yet both brands agree: running is a sales driver.",
    "source": "Revista Merca2.0",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN05PMlJ3eFlBRlQzcHBkTzFXVEx4NHByZzhqOWh2M2tyVi1oYVBXd2I0S0pCVUo5OWttVFZneHdFM1pQMnRpRGpYWEE4LUhfeGN1Q0RKV1VwSmVlOVU5MW81a0FmMTJ1ZmxHdTJ5SmxiX0NxYlM3d0JZX1piWjEzeTVNdndOZ2F6M0lJclBkU0lVd0wyNTRveUhjd2xIOTIwZmNsR29DQVNSWHllZ0h3QjhSM0dfbmJGZVpjR0tNZzV6Rkd2ZWpkb3N0NDU4Wmd4ZUdidjhBc0ZhQzRuTlE?oc=5",
@@ -188,54 +208,14 @@
    "region": "apac"
   },
   {
-   "title": "Shein closes in on £20bn Hong Kong listing after ditching London",
-   "source": "The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTJGSU9kaE5Ec2NjNi1lczVoeDBJRnBzdTBib2NVYWI4dEk4UkJ1SXRyYjlyTjFBeUhxTXVTN0s4Z01sQkstSWtzYmhhQ0NJUHVUb2xvZDNtLXAzaVkwVzZFNFNmV0twMlk0eVg3WE9neUFOdEk5N1FseW5odGFMWWpua0xlVmo3cUgtWU9OYnlMQXpQMkJTeUNSVXdOTzd6OXZGN3llbDl2b1FN?oc=5",
-   "date": "2026-08-24 16:42",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "Muji to Opens Stores at Four East Coast Centres",
-   "source": "Retail & Leisure International",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DcE9yQTNiQy1CQU9KLXJSemJQbThBbzFER0FiaTQzYVBjUTdOZ0JJV3BXMFdTMzl5NTlqOHhPUUNweTkzR2tBZU9EQU5oVjB1d2pBanhSZmRyUlZld29KSzc4cnZ6dThfVUFlN0c3WWRYa1IyWW84UDFTSQ?oc=5",
-   "date": "2026-08-24 16:00",
-   "lang": "en",
-   "brand": "muji",
-   "brand_name": "MUJI",
-   "region": "apac"
-  },
-  {
-   "title": "【大行報告】大摩料李寧今年銷售僅增1%",
-   "source": "Now 財經",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVjMwdEkzelZDRk9RRWNhM2dqYzZ4MDFTdG1pdnNhdEZiNlFwMUpXNXVZdjdiU052X0hjNmp3TGc4bWI3SWU4UHF3c191UURpMG9hZnRZYlFJSHZGelR4cG1aMG1fOXFpaW55OHh6ajRTZnVWSkU0?oc=5",
-   "date": "2026-08-24 11:57",
+   "title": "李寧下修全年財測 三大外資齊砍目標價最悲觀看15.1港元",
+   "source": "BigGo 財經",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LNzhnYWFhWjJFRjd5QU1rU3hsNGlwWV9kNS1vc1JqUHo2QXhRX3NIYXBieDFWYXdWM09IbU1odVcxc0xMRXVGV0UyUV8yMllCbWhTRzEwTEMyVUxmbXNvRXlQUnZmVEozUWEtVldtQkZuVjRPWFhWczRB?oc=5",
+   "date": "2026-08-24 12:55",
    "lang": "zh",
    "brand": "lining",
    "brand_name": "Li-Ning",
    "region": "apac"
-  },
-  {
-   "title": "Nike One Piece Launch Underscores 1.7 Million-Pair Shortfall in Direct Sales",
-   "source": "TechStock²",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWm1kU3hSdzJUX0lMUXlsOTdYRVFCQUVPTG5naUx6OEgtOXYwbUM2QTRjZEt1eG1ZWHVMdWFZbWQ0cTVRRFBkaU5EQjljZjZ3YnRNUlJjeVVZUEFWS3NPdGlRTjlBMlE4OUs2bmJUOU5ob19Qc2lFNGhKSTVPYWVOdUhuaWVSclZDWGx6QnREMjQ?oc=5",
-   "date": "2026-08-24 01:26",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Nike Closes 15 Small Format Nike Live Retail Stores",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0ltM3pNT1Z3VkZkZ1hZZExwc25yNk1fQnZQd2x3enZmN1gtNTRtbV8yUWpGUy10YW91LTBKY05FcTRETVp1V2VHdXZDcFRQY3NIUUFpQVpURUxmZFlPTzI1ejVFVmNRVUxvT0hNQXJFa3k4QVh2LWlSbEt2bXhvUjNXOHowbmo1X0pKZDVVQW1vSmNzN0xV?oc=5",
-   "date": "2026-08-22 23:04",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "不是中國不買了！美牌在陸失寵真相：太貴、太慢 NIKE營收8年新低",
@@ -258,20 +238,10 @@
    "region": "europe"
   },
   {
-   "title": "Can Amer Sports (AS) Justify Its Valuation As Strong Q2 Earnings Lift Guidance Again?",
-   "source": "simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVGFockVnLXM4RWo4OEF1MzlvNXNaQTZlUjNqNHZtUngwcmV3b2JHUkduaE0yd2h6eUs2RGl3YVFQZTdXcGpmeG9QTlI0bjhDZVNWb3NvY2NmcEFpRUhmUzlkdUJEdjgwdkxVUVVYQXlEaGlmRHFRNU05aU5IOERuaVNVSDJ2b2JpU2JRQW5xY1FRMkpjcFlxN2VXclhJWVJqQ0FnUl9SM21nV0N3c0l5QmphejhPQ3l3RGZya1JtRDlfQl81OFh5Sm1YTmxkSEJO0gHWAUFVX3lxTE5Fc01JTmFtemY2LVBMaGdwN1NHVlBnemVwWjlGUDFuN2Q3SmxXNExOaW1naEdnWDdvNEdlX2JQakhndVAwcW1xNEJaR2VvY0lHbDVVMzFqa193UldDYU5CdHBtdU9QWk5MZ2JKa2FvOHNJR0FIZjdZUUNvTkFRY1hhY05qMEtmYnZoNVlJa3pKanJnMWFhQ3oyLTBvSHRiMnhWQzZGdVI1Y0ZfRlpnOWxpYWxsOEdHV1JtZWZISnRmWGFqOW5jM0sxbDVQRkNFaTczbGlzX1E?oc=5",
-   "date": "2026-08-22 02:34",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
    "title": "【李寧財報快評】營收、淨利維持成長，但促銷與行銷支出限制獲利率改善空間| 優分析",
    "source": "LINE TODAY",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DR1NEMWs0Z19PQnQxaC1YcDNwUmZESFBmR25LRkZnOE9OZnItRWZxdTRhd3NlYm55REdHRlZ3b2t6dTVLemlDQ0VjMXFRTHhtRnVmb3NR?oc=5",
-   "date": "2026-08-21 18:00",
+   "date": "2026-08-21 21:38",
    "lang": "zh",
    "brand": "lining",
    "brand_name": "Li-Ning",
@@ -303,16 +273,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmlnRHJfdFgwXzNkcGNkUS00akU4MEhNV0ktdWhObVI1ZERUNWN1OVEtU2FlUlJ3RnZqVy01TjQyazM2OWk5RFozQ2JiMnAtZUhoamZtNzU1NlhvU3NYVlVLc0VyYWtvMmUxU0tNalZheFF0TEVYMFdycnJZazZsY29oRXBlUEFJM21uQnY1QW9sbS1mM0N2WDZra3E0anZ5VW5WWGdjVXltS0dEYlpFeTB5LWpURmo0dTZZ?oc=5",
    "date": "2026-08-19 16:07",
    "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "亞瑪芬體育 (AS) 2026 財年第二季財報電話會議：營收成長並上調財測指引",
-   "source": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mT2ZtQ0xhTHI4T2pIaktETng3bFVGeDhqRmJ2aERFcldyQWFIaGZoTGlTUHA1R3M3bkJ6bWZhemUweVNNRUxkZU50dnloOGxPTVJ6bHdLbUlFaTVuTXAtRG9TbUtnQ2VoeVNBc2RJc0VyOWp6VGZPdTJ1d3o?oc=5",
-   "date": "2026-08-19 04:02",
-   "lang": "zh",
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
@@ -375,16 +335,6 @@
    "lang": "zh",
    "brand": "nike",
    "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "VF Revenue Falls on Vans Brand Weakness; Company CFO to Depart",
-   "source": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXFLa2s5ajFLa1hYOUU5TlJKSk90eEtMMGphbW5fLXhIQ2FVY3F2UEhuWjJPbk9yc3M1YjJHdllxWnkxY3VQc2FYVndkai1DRGJQdU1hZnc3MTJrRTBKUGp5dTBXYjkwYTV3ekFqR2c4b1V5c0o1Vmp3dkRLaGUwSmJucUwzbUduUTNvOUNNMkZSd1QwUU1HUEZTZlJjQzdCejdhZzVzSFRMUmxwTlE?oc=5",
-   "date": "2026-07-29 15:00",
-   "lang": "en",
-   "brand": "vf",
-   "brand_name": "VF Corp",
    "region": "americas"
   }
  ]

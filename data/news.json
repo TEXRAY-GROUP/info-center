@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-24T19:57:31+08:00",
+ "fetched_at": "2026-08-25T12:00:03+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -66,15 +66,6 @@
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFd4RHRKQXJxZTRrY0dVZzdnc0pzaEphSlNrTE5VMExwRy10d1pRZUIwdkRld0xyWlR1T0lMSS1TVWllNURYZDByX0RRSTBrNERjQmU3UTBfRDZTOWlaOFpvT1pWYjh4Nnk4YzFNb0YyZjh5eGpqX0Y4T0x0bkFtOFdTdnlYUTl2bW96ZTR1NURrZkFGa3JfbE5pdkxFbGYyaENlM1NrSldFeHlwdDB3dEt1NUEtMFNocHZjc0trSG12bHl3aC1mLXFTR3hjbzBQZEpZUnYtbktVZjlmWlFCN1g5RVdVYnAwMnFoUnotT0N2LXN1cUc2MnpGRlhLNG1rYzB0QWpGNmFXamh4ZXg5aGpncHhoMzhDUy1BcDEyZFB6anhiSDB4ZFloMTE2QzhQZnJmMg?oc=5",
    "date": "2026-08-19 00:16",
-   "cats": [
-    "stock"
-   ]
-  },
-  {
-   "title": "【13:04 即時新聞】力鵬(1447)股價小幅走揚至6.94元，延續紡織低價股題材買盤＋短線技術面偏弱下的反彈試單",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXNhUzJvWTA3Ry1NTVB5YzJyVVQzVEo1anVkaWlRRE9DZVZ3VGZFajdnUFFHWlc2cmphOE16dUVsVnloR3psN052YXZpRDlRNjk1MHEzS2ZOZjUyVjJCN0ZselI0bWhuVW5MODJycy1KaEc1djUzXzQ0d1RGWXIyNDJPUEJ3QnRsTl9WYUln?oc=5",
-   "date": "2026-08-18 13:05",
    "cats": [
     "stock"
    ]
@@ -178,21 +169,21 @@
    ]
   },
   {
+   "title": "《商情》成本端支撐乏力 中國EG化纖價格指數連2跌",
+   "source": "富聯網",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRS1wdldHbi01WUtTeVlVVUpTRXdsZk5fRHgtUjVmY05sYkE2aWx4STBZU3ZRVmFLaEh2S1JDU2ZvZzZuM3J1SC1SOXJ4S1J4VkMyUTFrakJFakpISTNCazY1ME1BZGdHNF9DMktLRmZrNUNJdHNoU29zQ2ZYUWx4Ty1GdXlrTEFQ?oc=5",
+   "date": "2026-08-04 14:37",
+   "cats": [
+    "material"
+   ]
+  },
+  {
    "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角",
    "source": "自由財經",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qUEhLbS1PbFBWb2o0Z3NZMFd6bXZJbjhvSGdmMUlPMHVFb2E4SlMzUmtPdktPVEdtTFUwOTFpRmo5ek93dXE4aDg2UHYweFR3THJzb25OWElJTGFTUkpr?oc=5",
    "date": "2026-08-02 15:00",
    "cats": [
     "stock"
-   ]
-  },
-  {
-   "title": "紐約成衣布料展 紡織台企鞏固客戶",
-   "source": "世界新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ZDltekpxaGJkSW1LRFl2UnEwUWwxTTFPTUc3UDE5T3hYRllodVUwcnJTLXZELUZrdGlTdGhSTjRySzRDU2U4LVgtTFZYckNvc0ExaWtqOEVnWC12ZkNPM3dR0gFnQVVfeXFMT2J5bHJQNUk0Y0dlMDVybEd4RXdoaEFOLWNYdGNzbVItVkVGQjFYVXFUbklpWXNFaDVVN2ZrcVpmRlF1bUFKOXJmV3UtWUhSNW02V19UcGlRWk1lT1NJOWttSGVDdF9NOA?oc=5",
-   "date": "2026-08-01 15:00",
-   "cats": [
-    "market"
    ]
   },
   {
