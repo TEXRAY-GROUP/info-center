@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-25T18:04:45+08:00",
+ "fetched_at": "2026-08-25T19:58:03+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -130,7 +130,7 @@
   },
   {
    "title": "一片鳳梨葉翻轉紡織業！台灣品牌打造永續新纖維，掀起時尚綠色革命",
-   "source": "女人我最大",
+   "source": "TVBS 女人我最大",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sRFBBaXQyTUc5UlRFZTZ2N1o5RS05a3NpZjFyaFJqcWx1NEVyRGktckxhcThMQlhvUjl1TGNsZXI2aXlkbnlpWEI4UzlWbjE4?oc=5",
    "date": "2026-08-06 15:00",
    "cats": [
@@ -179,7 +179,7 @@
   },
   {
    "title": "舊衣回收邁入新時代！循環標誌上路，台灣紡織拚「衣服再變衣服」",
-   "source": "女人我最大",
+   "source": "TVBS 女人我最大",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UMnU5bUxkZGFZUTlwRzNQLVRpeW9mT3hBVGVkVDFPQlV4MmxDSFhqVmMxd2VURzB1MW5YLWtrQ3VLbWhZS2p1elg1MzhrM2ow?oc=5",
    "date": "2026-07-31 15:00",
    "cats": [

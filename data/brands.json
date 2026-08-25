@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-25T18:04:47+08:00",
+ "fetched_at": "2026-08-25T19:58:05+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,46 @@
  ],
  "items": [
   {
+   "title": "RBC Capital reiterates Nike stock rating after CEO meetings",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGpCa2JIalRXZWVPMjUySzNicEowemJCX2hON2EyakN5SFpLdTVYbUg1dW1XOGtqUldBMVhXdk5pbUstTXlNUlVEa0NuSFNTWkhCNlVtS2I5RzJjbzM2U19pdENEeF9LZ3VWQ1lKZnhJV3FRQVNRZTItaXducHhOblAyTlZkQVlFdjVwVWJES1kxNm9GdGNqRXhsMU8zNkhTSWFNdFR0dzZnRmdaZlpKWmJFSDYyR005S19j?oc=5",
+   "date": "2026-08-25 19:41",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Should you own Lululemon stock as CEO reset begins? Morgan Stanley answers",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT21aS1paQmFnS1Z4SGZmUS1BWTBOSzJENHpwYm5OZzZYd1RZNGtsWEZJNW1jVmZEWnBCY1B1MDktZVR1Q0pGczROTldCTWtVS0tlS2s4WWZsbkpZcWs2eXpSTFNxLWJjZnduV1pPUS1UZ0lodHBTZmx4UDR3Ulk3Tm5DZTdkTVFjYVlxMEFodGY1RGN2MEVhdmdOT2M2NHZPbm9xemZ6Tk84S04zLThhSmNvTDNfakFaZVRod2VoT0ZjOWRDa3JCeW4tNDFvSi1M?oc=5",
+   "date": "2026-08-25 19:37",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "MS Sees Earnings Drag for Lululemon Amid CEO Change",
+   "source": "TradingPedia",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkhHOEM0OWVCcE5LcDBVS2JvbnhuLXhIblEzNlFoM0x6dHdSTzVoTkRMWjlMWXppSEh0elhNaXZOQWRZTW5FR1ZNNnpVdDVBZXNtVkRvVUlaTGFxY1d0bDZibkdzLUpJNm9mR25wYVNhU21URmp1UU5wVUJIY25UZ3poWXM5cGVnYktMSXhpV1VYWlZ6UktF?oc=5",
+   "date": "2026-08-25 19:17",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "The tariffs that ended up benefiting Nike: how they impacted its earnings",
+   "source": "Revista Merca2.0",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWJVcHBiUVpxazl3TVRGVjd3TmZ4T0VvVENEZzV6eEhLUmtkMjllLWQ0NWtJWTFWZFZRYzIwY1Boa0xnQWdrYTdTbWpuN3pVUlpDRDdjNURSMjNyVXhlMnVaZ1Q3LUpDWHZrSU1naXVDSnZTSVBfNXM1VW1yeURoZGNoU2d6YjctUDFvLTVURUhWZ3NMeW5mS0c2U1JIdw?oc=5",
+   "date": "2026-08-25 18:08",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "RBC Updates Forecasts for H&M on Expected 'Slightly Lower' Sales, Higher Tech Spend in Fiscal H2",
    "source": "marketscreener.com",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlloZlI0YVd2M3ZFa2pLbFRHRHdsbTZfWWc0Y3E3S01rYWpXamlUdno4cWtsZExpTWx3RFZxWTZTRGpVMDI0VXhvaThWVE01enJBUDNGazBTaDE5LU5wdXc2VFpqZzFHUUNxZFhqSFdTNFQ4S1AyRGRfRS1qaFpTLS1KRlRJa2JsTzJFc25DbTN4QmdyYnBjRk04czEtOV9KMFZBVk52WDJiMW1RQ3o5azI1SDJaZFM4Tlg0X3hlZVJGaUlGQ1Z4d1FZVjZZcTdId3pxc2lseTZxMG1vQ3dj?oc=5",
@@ -239,7 +279,7 @@
   },
   {
    "title": "Alibaba, Shein’s Hong Kong Share Sales Mark a Dramatic Repricing of China",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVU0WmVWTU9FcU52dXFVLWJKLVVKYnIwQ0d1anpkU3A2VmxKRGxXazNEMHdrVUhpMGhWVWVzY1QzUzhXd1JmbUd2U3BSa1lBdHQ3VngyaFliZWpEUjJRZ0tXamVsVGV6M2puUy1pNGFEZGxMaHNGdTFvclppZ2dZNzU0SmhSS19nLWFIOHhBWFFpdUtRUkd4RFRnWnAza0ZJU0owNGdHbVdVbFRBZTNsdVAydzJrdEw0UGE3cm91OHJNWk40?oc=5",
    "date": "2026-08-24 17:39",
    "lang": "en",
@@ -248,11 +288,11 @@
    "region": "apac"
   },
   {
-   "title": "新股概要｜希音首季度盈轉虧 2025盈利降近四成 估值下跌產生公允值虧損",
-   "source": "bastillepost.com",
-   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNczFpLWgwUE5JVzZSSEpFdHZWUHFHT2dyaHp4ZWlFRU1Rbkw4Qm5kdVpCZWZBRThHbkpBUmE3LVY3T3JaeGV3UXlXZExjeWVTOUk5dUpPWlFIT01LblRyS0RCWEU0RTFvOFBjOE53Y0t4ME5uNTJGV2IzX0pnUGtfN3VfekJYMUh4VENyQll1M2JfWkNncUhtQ0k4eVcyX180dVpjUVBhSWM4UXJBM2U4d1pUZFlwMHZYOGZMQWMwd0FHZnY1U1ZvSkpxeGtfbGY0dDVHcHliaXRtZFo2VWFJLTNHb25rUVJPdXN3RnVlWDVjaHNTdnowLUlCM2JTZmtENFBraDM5RjVwVndQbEYzTU5xWUJveFdDOHRDa3dZSjB2dzE1NnVFdFlwOUVvY0x3OHpkdjl2X1V6ZmVhU2VQYWR6cVNUTGZQTjlnVjV6S3NLNnhYNEV0eFNjcGhzWUtCc00wUlM5Q0piZw?oc=5",
-   "date": "2026-08-24 15:58",
-   "lang": "zh",
+   "title": "Shein heads to Hong Kong IPO at quarter of 2022 peak value",
+   "source": "Daily Sabah",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjJDdFR6WklENVVQY1dhbnlDZXM1Y0hVa3N6LVhJMVpiZDF0dnFwbkpNSlZvaWVDb2Fadk9UY0k0bVhlUkhuUWVldGpCT2ZPZlJVb2JSWmhvUWVWdHVLcFdBVW5wRDNYWU5YSGJ0VG1iQzlYYXgtNlVfb1FZUUJPcENrNl9VdjR3YjRtTGhOaXN4WWw1dnRURElqTV9uMDBvSUtEQQ?oc=5",
+   "date": "2026-08-24 16:27",
+   "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
@@ -312,16 +352,6 @@
    "source": "Yahoo Finance",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdncxSFBndm9CU2IyQzNkVnFNS0lFRDFrb0pWaWQyYzh1ZlotU0pZZHI4OUN0cUo3YzdqV01WaU5qd1NhQURhU0otTFpWdEZoeURadnVPWWVjcFlYc2NydWZQeklZbDJKaFV2QmtURHlaWV80UjZiU3JwNEhOc1J6ZmxwRzNuaXZPUFBFTWZuUHdGRDBoMWxB?oc=5",
    "date": "2026-08-19 18:51",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
-   "title": "Amer Sports Aims Higher After Firm Beats Q2 Forecast, Raises Outlook",
-   "source": "WWD",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmlnRHJfdFgwXzNkcGNkUS00akU4MEhNV0ktdWhObVI1ZERUNWN1OVEtU2FlUlJ3RnZqVy01TjQyazM2OWk5RFozQ2JiMnAtZUhoamZtNzU1NlhvU3NYVlVLc0VyYWtvMmUxU0tNalZheFF0TEVYMFdycnJZazZsY29oRXBlUEFJM21uQnY1QW9sbS1mM0N2WDZra3E0anZ5VW5WWGdjVXltS0dEYlpFeTB5LWpURmo0dTZZ?oc=5",
-   "date": "2026-08-19 16:07",
    "lang": "en",
    "brand": "amer",
    "brand_name": "Amer Sports",
