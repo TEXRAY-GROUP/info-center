@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-26T12:06:57+08:00",
+ "fetched_at": "2026-08-26T18:20:24+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,15 @@
   }
  ],
  "items": [
+  {
+   "title": "《類股行情2-1》紡織纖維股跌0.3%；塑膠股漲7.6%",
+   "source": "富聯網",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcGdFTDVEUEtIbENqRHFONl9DM3RLSUtJZUJSX0dlbjJ0NlhlQmt6WHdmUkNVMzJGTXUwXzdpU1QtMjVyZkRzNzhieXVsSUlWLW5XUnVkT2d5TEZsNm53NmNvV2xiN2NocUdzTElNRkt5Y2gydGpRUlN0amtSZFdMQTBlT3NaYmlw?oc=5",
+   "date": "2026-08-26 14:09",
+   "cats": [
+    "material"
+   ]
+  },
   {
    "title": "香港紡織商會常務副會長關淑敏：大灣區時尚產業融合發展助中國時尚品牌走向世界舞台",
    "source": "香港商报",
@@ -89,21 +98,21 @@
    ]
   },
   {
-   "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
-   "source": "理財周刊",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LR0hyV3htNkd6NDRMeXUzMDBnbTFBMWZ6TllvdGhEYlJCYnNHdkNGVTd5QUhEVEx0MXNVUHdfLUtQbmZQY29lbkVJYzBobXJMNVg4a1ZacDgtb05jRmVna3FLM1hka3NaYl9BRXUzUQ?oc=5",
-   "date": "2026-08-17 08:56",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
    "title": "轉型見效紡織業Q3前景可期",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
    "date": "2026-08-17 03:00",
    "cats": [
     "market"
+   ]
+  },
+  {
+   "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTUtPYWRCV2UxM2ZOX3I1V1poUTljQ1JhbW83ellFZ3FycDZWeXYzM0tHanJYcDc4TVBQZlBSZ19FN2FlZGxtaGxTdDJGZjNKeGFkdlRaT0l6TU93dmhJXzRDTlY1dkNaY0w4WERPWW5fWEQtTmI2TDB3ZDc2b2JCUFpLVW56NkhLU2U4ZTRZN1hRTFZWdzUyQTJiaTJMaUllWmxDenplVnlpNnRmVmhvRllKNzNqNDlsM21LbHNtVGl6NWxfVF9QRV9UQzJJQTFDa19fQUUyZUNXeXlKN2YxY3BYU3FBR1o0emlKMGpodmEtcnRSc0lidTFoSWNjNHBubElWMncxaHpWNmp5cnNDc0JRV2ExLTVVMk9yV0haZmx4Nk1hcl9Kc2F6eWF5cVAtMDkxTjA5YUFtNi1sbGdhaTdyNEsxNGExY3pzQlZfS1JfN0E0aWYzaUpVR09oeDBkVm9yRTZQQm1HRmpsVG0zRS1qeXZNMVVmM3Y4ajNqSQ?oc=5",
+   "date": "2026-08-16 15:00",
+   "cats": [
+    "trade"
    ]
   },
   {
@@ -168,16 +177,6 @@
    ]
   },
   {
-   "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造 - 財經新聞 - PChome Online 新聞",
-   "source": "PChome Online 新聞",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDQ1cHlrbmk1bUpzZkIzVWt5TXE5NWZIbGtEYkhWSWNfdGFYdmRaZjJ5WklUSWNwelM5UGVfVlRBeFNFTmttNXBIN1NCSUR6ZWNvM2lTRFVFdXdjR2MzV1ExUTRQOUQtcXRlY1hod1hJSGpfU0NXelVPanhlSkZXRjhhak81ak9QWU9lYg?oc=5",
-   "date": "2026-08-05 15:00",
-   "cats": [
-    "market",
-    "trade"
-   ]
-  },
-  {
    "title": "《商情》成本端支撐乏力 中國EG化纖價格指數連2跌",
    "source": "富聯網",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRS1wdldHbi01WUtTeVlVVUpTRXdsZk5fRHgtUjVmY05sYkE2aWx4STBZU3ZRVmFLaEh2S1JDU2ZvZzZuM3J1SC1SOXJ4S1J4VkMyUTFrakJFakpISTNCazY1ME1BZGdHNF9DMktLRmZrNUNJdHNoU29zQ2ZYUWx4Ty1GdXlrTEFQ?oc=5",
@@ -196,39 +195,12 @@
    ]
   },
   {
-   "title": "舊衣回收邁入新時代！循環標誌上路，台灣紡織拚「衣服再變衣服」",
-   "source": "女人我最大",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UMnU5bUxkZGFZUTlwRzNQLVRpeW9mT3hBVGVkVDFPQlV4MmxDSFhqVmMxd2VURzB1MW5YLWtrQ3VLbWhZS2p1elg1MzhrM2ow?oc=5",
-   "date": "2026-07-31 15:00",
-   "cats": [
-    "green"
-   ]
-  },
-  {
    "title": "僑生成企業國際布局助力重電與紡織先驅分享留用國際人才經驗",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zX3R1VEFCX04wdHVva1VLTHo4Vl9MM2tqZjV1cDFSUDVEVG5RZFNXaXIxNDNJbnZPTzVCRHpkSnhSTnlDaHBfMTBkV0pCMUdIcS1BVUpVVzl2YTA5NEJn?oc=5",
    "date": "2026-07-30 15:00",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "美揮301關稅大刀 越南紡織出口競爭力拉警報-新聞內容-基金",
-   "source": "MoneyDJ",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWlYV3lRUEp3SzhFcU8tcy1QcmZIZmtLSmhxWVdlQkF4UUFRaVpQb0VrSGpWQVVha2Jwbnltam1nZmE0Z25Yc0h2WWtzVHZuNmJGd3otczlFSmxlQTZ1QjBDWUZ6My1Ta0tTRTkzeHRtNmtTY0psU1kyeVV4cl9JUi1uY3BxU3FWTlVvbm13Slg?oc=5",
-   "date": "2026-07-27 15:00",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
-   "title": "美揮 301 關稅大刀 越南紡織出口競爭力拉警報",
-   "source": "TechNews 科技新報",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2tMOWFLcGZwTGtXMDg5OU1wQlZJLUR0QzhXSTFfUW5nMVJ3OXBUak9uOUFJOUhVOTlLcFhBVUVtNzZPR2tLS2dIdVM2R3o4Sk5sVmFfYXAzSXBxZmxRVWlBYnhwMGNmQWdjbVM1M3JIZVppckN5VG9FajJmYnU4SE1TeVpOUkdDR1RBSEtnT0RZS1IxeHNoQXJBd2JORTZPMHR5dlRYQTVKbV9UU1E?oc=5",
-   "date": "2026-07-27 15:00",
-   "cats": [
-    "trade"
    ]
   }
  ]

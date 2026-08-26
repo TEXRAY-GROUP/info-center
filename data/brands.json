@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-26T12:06:59+08:00",
+ "fetched_at": "2026-08-26T18:20:26+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,14 +158,44 @@
  ],
  "items": [
   {
-   "title": "Amer Sports (AS) Q2 2026 Earnings Call Transcript",
-   "source": "AOL.com",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGZzVialNXc3R4cVQ3VEpwcGpKYmJVbXZVd2w4SUZSOFhzOWowZmx6WUFHQWNpakpyckNDX3JrQjdUTzJpTVFRaVZnYndJUFdCbS1Va19vUDJPS3U1M0dCXzhydmF3Z3FIeHpnS2h6U1l2NDZsU2dHODhJQzE?oc=5",
-   "date": "2026-08-26 04:06",
+   "title": "ANTA H1 net profit jumps 35pc, sending shares up over 9pc",
+   "source": "The Standard (HK)",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVC04YmNWdEd3dDBjdEh2UzN5elAwaXd1WmxFaFhlSDFJamVoR3NEcVpmZWlnWFhkZUtoMkdJUW9UNWZia1FpN3FBQzV5eWt5ajNsam1YZ0pYdmoxeEZiWnJ4aFZXT3hrbjVwNWh5SW9fWFBQMnVsTzR1QkFuWkhpVjc0bUtVRzl1VjZBX2xqTGdzaFUxS1RHbGVERnJYUzlLMDdsQzdrSFdtbjVIcEt3?oc=5",
+   "date": "2026-08-26 15:51",
    "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
+   "title": "業績︳安踏半年多賺35%！擬收購PUMA近3成股權 股價急抽逾6%",
+   "source": "經濟一週",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHpYTkJEdldZVGgxMzg2QkVhRndiOUZPbnlTTjREZVFETVNUZS1QTEluRG4wY3NLZlIxcEp4NWE0V0x6NWVMNThVVHh4V21ISVltNTBJVm1QNzdJSEhUQ25UY0M1QTJTYzN4VVp0WHE5dTBwUlBPYkg0SFlsNTc4NW11RjZPOUpvUEVKOHMtRlhleUk0WjNpYlE1RTM5S01jTm43STBlSWNzN2xxaEdfVkM2aVhLMnU2M3J1dkp1Y2hfTUpCMFlVS09yRjNsZWRxUUNIMg?oc=5",
+   "date": "2026-08-26 15:21",
+   "lang": "zh",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
+   "title": "Anta Sports shares jump on strong first-half earnings",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnJhcEdOYlEzSmpYRXViNi11ZzlVelJ6Y0kyV0lxZ0NqNVhrVkpGRTNsdXl1U1Zpa1ZRMjR2VGprY2FuMThIVmFENUx1eDN1SGFhUkNYRHZTS3JpUTBlcEFDOVZoTnlCV0NWLURjMFJ6QXZ0M1QyMXJ3NHFmNS1veTRhRTRnZkhRWlpzLVQ3d0UxRnFoNFZwcng2UFR5ZGZoVlE?oc=5",
+   "date": "2026-08-26 15:06",
+   "lang": "en",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
+   "title": "異動股｜申洲跌幅擴至近8%，大和削目標近兩成憂Nike及Puma訂單調整|香港經濟日報",
+   "source": "香港經濟日報HKET",
+   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOc0ZiY2tBdzVJNHRoT0VvVTNSXzVYMjd5SnBaVk80X2NJY1B3QXhYNFBkUWcxQ3Z0WHJ4cHVzb3F1d0FNWldZQlVzbHRlOU9jVlJ6MGtKaTRKNVFvRkVCNE11TkhDVGRpTFFhdnlHM3l6Qk5fbzdPS3plR1NXMEFzWFlfTV9aRndPWGFtaFMwMk5fUFVwbFNZdGthb0RvR2dtZEFsNVc4aUYyVXZ5MEZjNVlVNmNySnJDbjhqSkwwdEtidExfdVhabFB4SHJaVVR0aDVEeEFab1I0TDJvMGVuYXVVRi1VVXNMM0pVRkU5NDk3TUhqa0Naampsemp1azk2bFU1blYyLVFlMGRKcXN0QWNFTDJUQ0czbUtXa2JvaDhqRkRJS0txbFZjWlpVMExhaU1ZTlZPczQ3UVV6ZElaS2pNOExMRzBia005X1VTWlp1aVdlSzJYUlFqTDNuQVFGUlEzdkQxQkJmdlJXU1EwNW1RV1I5alYtQXFLc1dmTDJUc3NnbEtoU0VlaEV4V0pkdHlZZ2psbw?oc=5",
+   "date": "2026-08-26 15:02",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
   },
   {
    "title": "Nike Stock Pays the Price for Dick’s Earnings Wipeout",
@@ -195,16 +225,6 @@
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon May Cut Annual Earnings Outlook Amid Weak US, China Sales, Warns UBS",
-   "source": "Stocktwits",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtCcnR3Mlk5ZjcxS0J1Z1hQdWJhZTNEWXoxMGZpdjBCLUdoSjRORk5NOWxGeldNeGRFMGlIMUlwMkd6TEVaYUgycWJKcGJ2Wjk4d05wU01qV3QybkpLT2J0bF9XZk8zdDRQUkM1QmRJcy1ZSF92UDljcm1BWW1UT0VucE1Ld0gyZTJmZTgwdmQ2ZVFYOGE4aDQ0NUdoaVlLZGRvcVU0U3A2YmdQZGJfSVJGZzJ4R2RpRmgtNlBQdkgyc01lZ1ZKWEFxS2FVY3dnZURUdjBEYw?oc=5",
-   "date": "2026-08-26 00:07",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
    "region": "americas"
   },
   {
@@ -238,36 +258,6 @@
    "region": "americas"
   },
   {
-   "title": "MS Sees Earnings Drag for Lululemon Amid CEO Change",
-   "source": "TradingPedia",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkhHOEM0OWVCcE5LcDBVS2JvbnhuLXhIblEzNlFoM0x6dHdSTzVoTkRMWjlMWXppSEh0elhNaXZOQWRZTW5FR1ZNNnpVdDVBZXNtVkRvVUlaTGFxY1d0bDZibkdzLUpJNm9mR25wYVNhU21URmp1UU5wVUJIY25UZ3poWXM5cGVnYktMSXhpV1VYWlZ6UktF?oc=5",
-   "date": "2026-08-25 19:17",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "新股上市｜希音IPO傳已獲足額認購，認購訂單主要來自現有股東及基金|香港經濟日報",
-   "source": "香港經濟日報HKET",
-   "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNS2gtRk9EdGFyWHFqYTZ5akN2elhyQXZoQWdMYzRKamxmU0puR0dLNnpybE1QM0E2VTc1bThJX29uY2JkOUN1S3o3MWt5alhwa1BxeWxLS2VJSC13dFJKZ2lqNHlyR2ZZa2JUNVdyUzFBREJEajB6eDZtY1oxN0ROUFRpQ1lpVHk2ZGJqLXpwcjdOdkE4TE9uZ2stZ2N0YVkzWGQzdmZ4VDFfczdKNkdJbGlDY25fLW55Tk95QnlkV1lNem5MdV9YM2YxOHd1cFBNNzJxX29EZW14UXZzWWFlUUwwTzd4TW5uQUlkdEtrWjdiLXZZNnNZeGtRS2x6V1lVV3doeEVHTW5oNWUxckxLX0lyd2YySDlWWFZkeGRhVW9QZE5zSy0zaktiR1AyeEhFYk5HZTFTOE5PQXNBRzJFOTRpdm9uaGVMQko4TzFhemY5a0d1NnJ5ckFQUGk2amhIZ0RrWF9ZTFpaZDR2aFI3LWtCZ1RMd1FPaUZhTGdHVmJWRmhJcHNYbm1VNTlHMFZUbnczR3RfVjV3clRZWUdZdTZxd3dwTl8zVjRjRG1rX3U5RjkxbWRBemJLNHJNZw?oc=5",
-   "date": "2026-08-25 15:10",
-   "lang": "zh",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "ASICS (TSE:7936) Is Down 7.4% After Upgrading Guidance And Dividends What’s Changed",
-   "source": "simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeDE5ODE4MWxtWVY1ZE9mWUV4N0plMkhYMTFxTXgwcGxKRVNjQ25nelJlUDREQ01kUHE5c3BJa0xwUDFtckhBaHU1ZElGcFJnLVB1bWpFYWgyS0NNbi1yc2YxUEljYmRjNWxsWnVfck1OTXA5aUxBTGpzTzA5NnBmOWZVQ2dOU0t5cndfbkNPUU1rS3lhX0xNdTZIczd0UFZuWkdVSFdESUJfRHppd3hTWFV5WHRhVEgwRUFqY1FOYXM1ejNFYlFQWDkxdG5LTS0xQ0tr0gHYAUFVX3lxTE5faENwdUloYldXQ1NiVUVlXzhpQmZBZDNORHVVaDVHV2tHUC1GLVZ1d2dSZnExeU55ZWtnS2F4QkROc0s5eEVUeWE4RGZoTUphcXQ0Ull6TTNuUGdSekpUUWFGemtFN19kYU5zcDg4RS12cWFCdWwwRXU3VF9Hd3M4bVF3aGFLc2pHWk9uR2czU0NGTURabXg5UDVTbmJONVRXM1RsMzVxb3ZIQlJhMzVuYkhSeWtGaTgtbVR0Z3BBNy15RkJURGpGNGptclNTdXF0TW5oV0RYYw?oc=5",
-   "date": "2026-08-25 13:28",
-   "lang": "en",
-   "brand": "asics",
-   "brand_name": "Asics",
-   "region": "apac"
-  },
-  {
    "title": "《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVRXYnhRbE1lREVyWGM2S1A5UFRfME5CNjM4aW9Lb21BYXlMcThxWUxocWJaT1JaY1kzOFpIRWtaOGphVDIyWWREMjFSb0F2aHhKRHpnX2s0ZlV6Y2xZNE5ic2VoOGpXdDlselpMR2NrMXp1MFd3MWRyRmhiTXZjblVETzl5QXRTcmQzMU4zbjhPZw?oc=5",
@@ -298,11 +288,11 @@
    "region": "apac"
   },
   {
-   "title": "Shein heads to Hong Kong IPO at quarter of 2022 peak value",
-   "source": "Daily Sabah",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjJDdFR6WklENVVQY1dhbnlDZXM1Y0hVa3N6LVhJMVpiZDF0dnFwbkpNSlZvaWVDb2Fadk9UY0k0bVhlUkhuUWVldGpCT2ZPZlJVb2JSWmhvUWVWdHVLcFdBVW5wRDNYWU5YSGJ0VG1iQzlYYXgtNlVfb1FZUUJPcENrNl9VdjR3YjRtTGhOaXN4WWw1dnRURElqTV9uMDBvSUtEQQ?oc=5",
-   "date": "2026-08-24 16:27",
-   "lang": "en",
+   "title": "新股概要｜希音首季度盈轉虧 2025盈利降近四成 估值下跌產生公允值虧損",
+   "source": "巴士的報",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNczFpLWgwUE5JVzZSSEpFdHZWUHFHT2dyaHp4ZWlFRU1Rbkw4Qm5kdVpCZWZBRThHbkpBUmE3LVY3T3JaeGV3UXlXZExjeWVTOUk5dUpPWlFIT01LblRyS0RCWEU0RTFvOFBjOE53Y0t4ME5uNTJGV2IzX0pnUGtfN3VfekJYMUh4VENyQll1M2JfWkNncUhtQ0k4eVcyX180dVpjUVBhSWM4UXJBM2U4d1pUZFlwMHZYOGZMQWMwd0FHZnY1U1ZvSkpxeGtfbGY0dDVHcHliaXRtZFo2VWFJLTNHb25rUVJPdXN3RnVlWDVjaHNTdnowLUlCM2JTZmtENFBraDM5RjVwVndQbEYzTU5xWUJveFdDOHRDa3dZSjB2dzE1NnVFdFlwOUVvY0x3OHpkdjl2X1V6ZmVhU2VQYWR6cVNUTGZQTjlnVjV6S3NLNnhYNEV0eFNjcGhzWUtCc00wUlM5Q0piZw?oc=5",
+   "date": "2026-08-24 15:58",
+   "lang": "zh",
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
@@ -346,16 +336,6 @@
    "brand": "amer",
    "brand_name": "Amer Sports",
    "region": "europe"
-  },
-  {
-   "title": "lululemon athletica inc. Announces Second Quarter Fiscal 2026 Earnings Conference Call",
-   "source": "Lululemon",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ1ltNzJjaFFRSU41bzhPRmtsSGEtWDhmR193SnA4N2lCWTJWV08ySDB3U3h3UHhmM24wczAwc1VDQWpxNG1DaEM0bVc4Vm5SYjN1aEt1Q1hMaEZ2dFBGWDFjdzZfeXVTMDhScEJDNkhuWnJwTXdnRk1MSjhlREdFOTM1dmk?oc=5",
-   "date": "2026-08-20 18:32",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
   },
   {
    "title": "不學Uniqlo反而活得更好！思夢樂營收創新高祕訣：讓顧客FOMO",
