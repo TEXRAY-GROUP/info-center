@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-25T19:58:05+08:00",
+ "fetched_at": "2026-08-26T12:06:59+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,23 +158,83 @@
  ],
  "items": [
   {
-   "title": "RBC Capital reiterates Nike stock rating after CEO meetings",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGpCa2JIalRXZWVPMjUySzNicEowemJCX2hON2EyakN5SFpLdTVYbUg1dW1XOGtqUldBMVhXdk5pbUstTXlNUlVEa0NuSFNTWkhCNlVtS2I5RzJjbzM2U19pdENEeF9LZ3VWQ1lKZnhJV3FRQVNRZTItaXducHhOblAyTlZkQVlFdjVwVWJES1kxNm9GdGNqRXhsMU8zNkhTSWFNdFR0dzZnRmdaZlpKWmJFSDYyR005S19j?oc=5",
-   "date": "2026-08-25 19:41",
+   "title": "Amer Sports (AS) Q2 2026 Earnings Call Transcript",
+   "source": "AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGZzVialNXc3R4cVQ3VEpwcGpKYmJVbXZVd2w4SUZSOFhzOWowZmx6WUFHQWNpakpyckNDX3JrQjdUTzJpTVFRaVZnYndJUFdCbS1Va19vUDJPS3U1M0dCXzhydmF3Z3FIeHpnS2h6U1l2NDZsU2dHODhJQzE?oc=5",
+   "date": "2026-08-26 04:06",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "Nike Stock Pays the Price for Dick’s Earnings Wipeout",
+   "source": "Barron's",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdnAyMjFUR1ppazJNZDFaLWxRai1vbThjU05NWUV5SmR3YVhVVWVPMGJib2hzaHBsWmxLVkVTb3djU2xLMnV4eHhaSHlvazB6b3BLdmJBOW8tY2MzWnl3MTNtYU5JSEZmTUx6T0ZtNzBuc0FmVzFhN2tqU3d0dmlrMF9zYkpWZw?oc=5",
+   "date": "2026-08-26 03:07",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "Should you own Lululemon stock as CEO reset begins? Morgan Stanley answers",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT21aS1paQmFnS1Z4SGZmUS1BWTBOSzJENHpwYm5OZzZYd1RZNGtsWEZJNW1jVmZEWnBCY1B1MDktZVR1Q0pGczROTldCTWtVS0tlS2s4WWZsbkpZcWs2eXpSTFNxLWJjZnduV1pPUS1UZ0lodHBTZmx4UDR3Ulk3Tm5DZTdkTVFjYVlxMEFodGY1RGN2MEVhdmdOT2M2NHZPbm9xemZ6Tk84S04zLThhSmNvTDNfakFaZVRod2VoT0ZjOWRDa3JCeW4tNDFvSi1M?oc=5",
-   "date": "2026-08-25 19:37",
+   "title": "MUJI Opening New Stores in New York Area in 2026 and 2027",
+   "source": "New York Family",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vcGhzbmhYQlZvcTV0eWQyb2kxeGNuaGZCV1RrZy12R1dQX25QT1hqbXVSTnJFVEE3d3EzMTFSdXBjYW43YURkamVIVWw3aUZ4RTlqSTRGTjJpWWJKYlRnNHRpU25PUU9GZ0owRWc1QjY1ZWc?oc=5",
+   "date": "2026-08-26 02:34",
+   "lang": "en",
+   "brand": "muji",
+   "brand_name": "MUJI",
+   "region": "apac"
+  },
+  {
+   "title": "Nike Stock Slides After Dick's Disappointing Q2 Results",
+   "source": "Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQU1RWTlqczIyQzhiZU5MdFhINXJHVUpjODc1RTR3TTRkUTJ0UUFLbk9Ec2pkaGFjXzROOTRhaFZKMnY4cUFmQ3o1NGpwRW1qWjg1VFcwR21TRDdBeFpzM0Y4bVVVZTAyXzhOcmpnYUlKcjNkQ3p3a3pYcDVmc2NwMWNFLXBZbVk1OFRTMm1kbGxPZnBDT1JQU3FiRkhTd3RmbkFPbkw1ZzV1ZUZUeU84b18xWmFxdw?oc=5",
+   "date": "2026-08-26 01:35",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon May Cut Annual Earnings Outlook Amid Weak US, China Sales, Warns UBS",
+   "source": "Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtCcnR3Mlk5ZjcxS0J1Z1hQdWJhZTNEWXoxMGZpdjBCLUdoSjRORk5NOWxGeldNeGRFMGlIMUlwMkd6TEVaYUgycWJKcGJ2Wjk4d05wU01qV3QybkpLT2J0bF9XZk8zdDRQUkM1QmRJcy1ZSF92UDljcm1BWW1UT0VucE1Ld0gyZTJmZTgwdmQ2ZVFYOGE4aDQ0NUdoaVlLZGRvcVU0U3A2YmdQZGJfSVJGZzJ4R2RpRmgtNlBQdkgyc01lZ1ZKWEFxS2FVY3dnZURUdjBEYw?oc=5",
+   "date": "2026-08-26 00:07",
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon Athletica Set to Top Second Quarter Earnings Expectations on Cost Control, Share Repurchases, UBS Says",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORk9DMldfZXdDb19YRm5qYUI1Rnp5SWdyd1kyRldNVWM3SkQxTkh2bFhqa19oVlh2Nk1Rbzk0Wl85YnpIcWVTUGFfOXM2c1gwVHZhRVE3Z2tSZ05YdHhvenBrTDZ6Vmo1eldWRmtZQmhDUHJSUTluSjNTTDROeHpFd0QtUzJUdTI0U19wVzhPNEpqNm9OYkNUUHVDUlpwR1Uy?oc=5",
+   "date": "2026-08-25 23:20",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "瑞銀下調Lululemon目標價，銷售前景疲弱引發擔憂 作者 Investing.com",
+   "source": "Investing.com 香港 - 股市報價& 財經新聞",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kYUlCeW5LanY2WkktT1d0d3NWTHBkN0hodU9JdzB2WXNCaURJQ3Y5MnRQV0h4MDh6YUxGbU9WeTR0MklNeTFKbVJnMW1fNmFFbUp2aXBsVzlSWGpibE1qeFpMY2k5ZjVlejJWTnY3LWJiM3R5?oc=5",
+   "date": "2026-08-25 22:14",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "中國運動市場大洗牌，國牌大翻倍 Nike營收跌至8年新低!",
+   "source": "巴士的報",
+   "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPWS1TaXIzVkM1RXlPYnhIVm84QTVQZ0t6a0FNOWlQSkR1a1NtX2FLWUxaUzBHZ3JNWW8tM0N5NUFkVTBVbHJHbzFVMzNmaUlFUkMta3FVU28xTUhnaEFyS2U5T25IVlBEQVNyTDlmcWM2bFVOR1F6YkRGRGtjSmE5V05URS1pdFpnZnFwS01kRFFRNkJ6dGdIZVh6NFJaOUtvZnJSTVFEM19wSkxxa21Zbk9WVXduSzVBS0wyVTdHTDFNQUlYbWFLX1p3THMtZDA5cXVuZl94Q3I3MUxFRmFQWm9LLWFQZ2IwUXhEaHFHZHhXMzEzYTJ6OHBXVkdROXQ4ZVF0NnpsaFJJakZDQzN4eV9iOGtsd05yM2Noc1BtRGRVV2IyUEJtaWxlQTcwS0RncjB1ZVd3OGtvUmdDakcxTmU0ckpYanljOENacXY3bjBFd0xGVldMZVZHZWFsMmRmNEFhNG5zeVItZw?oc=5",
+   "date": "2026-08-25 22:05",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
    "region": "americas"
   },
   {
@@ -185,46 +245,6 @@
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "The tariffs that ended up benefiting Nike: how they impacted its earnings",
-   "source": "Revista Merca2.0",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWJVcHBiUVpxazl3TVRGVjd3TmZ4T0VvVENEZzV6eEhLUmtkMjllLWQ0NWtJWTFWZFZRYzIwY1Boa0xnQWdrYTdTbWpuN3pVUlpDRDdjNURSMjNyVXhlMnVaZ1Q3LUpDWHZrSU1naXVDSnZTSVBfNXM1VW1yeURoZGNoU2d6YjctUDFvLTVURUhWZ3NMeW5mS0c2U1JIdw?oc=5",
-   "date": "2026-08-25 18:08",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "RBC Updates Forecasts for H&M on Expected 'Slightly Lower' Sales, Higher Tech Spend in Fiscal H2",
-   "source": "marketscreener.com",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYlloZlI0YVd2M3ZFa2pLbFRHRHdsbTZfWWc0Y3E3S01rYWpXamlUdno4cWtsZExpTWx3RFZxWTZTRGpVMDI0VXhvaThWVE01enJBUDNGazBTaDE5LU5wdXc2VFpqZzFHUUNxZFhqSFdTNFQ4S1AyRGRfRS1qaFpTLS1KRlRJa2JsTzJFc25DbTN4QmdyYnBjRk04czEtOV9KMFZBVk52WDJiMW1RQ3o5azI1SDJaZFM4Tlg0X3hlZVJGaUlGQ1Z4d1FZVjZZcTdId3pxc2lseTZxMG1vQ3dj?oc=5",
-   "date": "2026-08-25 18:00",
-   "lang": "en",
-   "brand": "hm",
-   "brand_name": "H&M",
-   "region": "europe"
-  },
-  {
-   "title": "Shein and Everlane: how an 80 million dollar acquisition serves a 27 billion dollar IPO strategy",
-   "source": "Fashion United",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa0xvaWVjMkoxSzduWWZRX3l3ZHdfODZrZkJYd2NWTmZWTVVIbHVsbjJvWW5NWjctRFhWTVN4NU1YQzRZZWZnTm5TRlp3WlV3QkdqTzNXXzRLMkxnS3pERmhzZFZfajU5RzVEOXI4WG1UV1liQlVLN1ZpdVBVbmpKdm9zT1oyUWZvckxreXowcjluR0MzakhTRHE2X2RIaDdBTGdsUm9uSVREOHpfN2YzbGthd3lBUl9NRHFoN0ZHaEdqVmp6NWdwUmctUzJmRnZhVUVPT25YaFl4MGktaW1WQndR?oc=5",
-   "date": "2026-08-25 16:30",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "Algert Global LLC Acquires 120,596 Shares of Levi Strauss & Co. $LEVI",
-   "source": "MarketBeat",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcG9DQXZnRlFjM1JRSzN4d2lMRFJqdF9DX3YwT0dOQm9tMzVBTV9SUUxhRlEtZDdJLWJ4UTF3eUd0S1pEMTV4S1QyRUlSeFJaWlhoTEgxMDlwZmhCMTRaMWxUVTM1Yk14MURMOHZ0eHF4Tm44RW92c3cxSlpLakYzRUtnaXVsQzJGR21JcTNLSnpRbWx6anFlckZqcEJ0dVYybTdCMG9QZEdMTUNMZFB0ZGFzc3FXM0tZSk9nQ2puWVA5VEk?oc=5",
-   "date": "2026-08-25 15:35",
-   "lang": "en",
-   "brand": "levis",
-   "brand_name": "Levi's",
    "region": "americas"
   },
   {
@@ -258,16 +278,6 @@
    "region": "americas"
   },
   {
-   "title": "Amer Sports raises guidance after strong Q2 financial results",
-   "source": "Ecotextile News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLU9BOWZEb3RZVXBaQl9fV1oyQk0zb3JNRzZRUTU1ZktFMHJiQTFHOWJlS0lHNlR5WFpXeC0yY3VNeU8xOG1aczV6NzdpczVKbDY2b0otcnFzU05rbTR3M0JZNE5JQ2w3NDQzR000VXVCc3A0SzAtMzJqeV9tSkJab1E3ZV84QWFTTGxWMlh0ZFdkbDA1d0NuaGRoWW15VnZZNkVVVUZjRVl0anhsNEE?oc=5",
-   "date": "2026-08-25 00:26",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
    "title": "希音收購服裝零售商 Everlane 一事據悉正接受美國國家安全審查 | 國際焦點 | 國際",
    "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92clVtLVAwdEVpZ1pJNjNtVkZjbGNSOUo0cUN1Z0hPLTFkZlNkaXVlcy1KTEdsNnhEWk9BMDdYUlZQUHZhbDhRdzJqZEphMGhvaEtSanBnYjdJUQ?oc=5",
@@ -279,7 +289,7 @@
   },
   {
    "title": "Alibaba, Shein’s Hong Kong Share Sales Mark a Dramatic Repricing of China",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVU0WmVWTU9FcU52dXFVLWJKLVVKYnIwQ0d1anpkU3A2VmxKRGxXazNEMHdrVUhpMGhWVWVzY1QzUzhXd1JmbUd2U3BSa1lBdHQ3VngyaFliZWpEUjJRZ0tXamVsVGV6M2puUy1pNGFEZGxMaHNGdTFvclppZ2dZNzU0SmhSS19nLWFIOHhBWFFpdUtRUkd4RFRnWnAza0ZJU0owNGdHbVdVbFRBZTNsdVAydzJrdEw0UGE3cm91OHJNWk40?oc=5",
    "date": "2026-08-24 17:39",
    "lang": "en",
@@ -346,16 +356,6 @@
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
-  },
-  {
-   "title": "Amer Sports Q2 sales, profit surge on Arc’teryx, Salomon growth",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdncxSFBndm9CU2IyQzNkVnFNS0lFRDFrb0pWaWQyYzh1ZlotU0pZZHI4OUN0cUo3YzdqV01WaU5qd1NhQURhU0otTFpWdEZoeURadnVPWWVjcFlYc2NydWZQeklZbDJKaFV2QmtURHlaWV80UjZiU3JwNEhOc1J6ZmxwRzNuaXZPUFBFTWZuUHdGRDBoMWxB?oc=5",
-   "date": "2026-08-19 18:51",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
   },
   {
    "title": "不學Uniqlo反而活得更好！思夢樂營收創新高祕訣：讓顧客FOMO",

@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-25T19:58:03+08:00",
+ "fetched_at": "2026-08-26T12:06:57+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,15 @@
   }
  ],
  "items": [
+  {
+   "title": "香港紡織商會常務副會長關淑敏：大灣區時尚產業融合發展助中國時尚品牌走向世界舞台",
+   "source": "香港商报",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hOEhxNWhLMXc2VFc1SEFuNFVkbWZFdU5NTVRDdW1sa0xaU2dKRHM4dDAzMHlxNjlTTTk1alZuVUZOSUIyajU0SDcyNlJyZm9QVTR1Q2l6LTdVMDAwZW4zcVBURC1zUFlhNEZzb1ZQVkV2eng2eUQxX1VDNA?oc=5",
+   "date": "2026-08-25 22:37",
+   "cats": [
+    "market"
+   ]
+  },
   {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
    "source": "Newtalk新聞",
@@ -80,21 +89,21 @@
    ]
   },
   {
+   "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
+   "source": "理財周刊",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LR0hyV3htNkd6NDRMeXUzMDBnbTFBMWZ6TllvdGhEYlJCYnNHdkNGVTd5QUhEVEx0MXNVUHdfLUtQbmZQY29lbkVJYzBobXJMNVg4a1ZacDgtb05jRmVna3FLM1hka3NaYl9BRXUzUQ?oc=5",
+   "date": "2026-08-17 08:56",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
    "title": "轉型見效紡織業Q3前景可期",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
    "date": "2026-08-17 03:00",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTUtPYWRCV2UxM2ZOX3I1V1poUTljQ1JhbW83ellFZ3FycDZWeXYzM0tHanJYcDc4TVBQZlBSZ19FN2FlZGxtaGxTdDJGZjNKeGFkdlRaT0l6TU93dmhJXzRDTlY1dkNaY0w4WERPWW5fWEQtTmI2TDB3ZDc2b2JCUFpLVW56NkhLU2U4ZTRZN1hRTFZWdzUyQTJiaTJMaUllWmxDenplVnlpNnRmVmhvRllKNzNqNDlsM21LbHNtVGl6NWxfVF9QRV9UQzJJQTFDa19fQUUyZUNXeXlKN2YxY3BYU3FBR1o0emlKMGpodmEtcnRSc0lidTFoSWNjNHBubElWMncxaHpWNmp5cnNDc0JRV2ExLTVVMk9yV0haZmx4Nk1hcl9Kc2F6eWF5cVAtMDkxTjA5YUFtNi1sbGdhaTdyNEsxNGExY3pzQlZfS1JfN0E0aWYzaUpVR09oeDBkVm9yRTZQQm1HRmpsVG0zRS1qeXZNMVVmM3Y4ajNqSQ?oc=5",
-   "date": "2026-08-16 15:00",
-   "cats": [
-    "trade"
    ]
   },
   {
@@ -120,6 +129,15 @@
    ]
   },
   {
+   "title": "紡織所「膝關節炎在宅系統」 獲選高齡健康產業博覽會十大友善科技",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BU3N2ckZ4bERfTmg0b3lNZElUNmdjclNyVGNiQy1ZWXIxSW1yTmtGOTZQZDhLbXZoNG5jM3dEMDdmTFZTQlp5S2RMNmk1aTg4TFh4QWVLVXJodw?oc=5",
+   "date": "2026-08-07 15:00",
+   "cats": [
+    "tech"
+   ]
+  },
+  {
    "title": "儒鴻7月成衣放量，下半年看優上半年",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVpKTENqMEtaU0pkeWh3Wl9XVDdZVVB2NG5BajI0ZzdVWVAyam1QX3VpRXJ2bEh6VmpfUUJXSEJSUnoyZC05VjVHUDJ1VE9YRmUyLUF3TTNXWXZmZURuTTFRY24yRk1sSHFnbDgyX2JCcXl3X3lJLXUyNkdHWGVSVGNpYVN3eUJWcVVITUx1S1Zkdw?oc=5",
@@ -130,7 +148,7 @@
   },
   {
    "title": "一片鳳梨葉翻轉紡織業！台灣品牌打造永續新纖維，掀起時尚綠色革命",
-   "source": "TVBS 女人我最大",
+   "source": "女人我最大",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sRFBBaXQyTUc5UlRFZTZ2N1o5RS05a3NpZjFyaFJqcWx1NEVyRGktckxhcThMQlhvUjl1TGNsZXI2aXlkbnlpWEI4UzlWbjE4?oc=5",
    "date": "2026-08-06 15:00",
    "cats": [
@@ -179,7 +197,7 @@
   },
   {
    "title": "舊衣回收邁入新時代！循環標誌上路，台灣紡織拚「衣服再變衣服」",
-   "source": "TVBS 女人我最大",
+   "source": "女人我最大",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UMnU5bUxkZGFZUTlwRzNQLVRpeW9mT3hBVGVkVDFPQlV4MmxDSFhqVmMxd2VURzB1MW5YLWtrQ3VLbWhZS2p1elg1MzhrM2ow?oc=5",
    "date": "2026-07-31 15:00",
    "cats": [
