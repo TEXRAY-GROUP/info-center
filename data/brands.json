@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-26T18:20:26+08:00",
+ "fetched_at": "2026-08-26T19:59:47+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,30 +158,40 @@
  ],
  "items": [
   {
-   "title": "ANTA H1 net profit jumps 35pc, sending shares up over 9pc",
-   "source": "The Standard (HK)",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVC04YmNWdEd3dDBjdEh2UzN5elAwaXd1WmxFaFhlSDFJamVoR3NEcVpmZWlnWFhkZUtoMkdJUW9UNWZia1FpN3FBQzV5eWt5ajNsam1YZ0pYdmoxeEZiWnJ4aFZXT3hrbjVwNWh5SW9fWFBQMnVsTzR1QkFuWkhpVjc0bUtVRzl1VjZBX2xqTGdzaFUxS1RHbGVERnJYUzlLMDdsQzdrSFdtbjVIcEt3?oc=5",
-   "date": "2026-08-26 15:51",
-   "lang": "en",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
-  },
-  {
-   "title": "業績︳安踏半年多賺35%！擬收購PUMA近3成股權 股價急抽逾6%",
-   "source": "經濟一週",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHpYTkJEdldZVGgxMzg2QkVhRndiOUZPbnlTTjREZVFETVNUZS1QTEluRG4wY3NLZlIxcEp4NWE0V0x6NWVMNThVVHh4V21ISVltNTBJVm1QNzdJSEhUQ25UY0M1QTJTYzN4VVp0WHE5dTBwUlBPYkg0SFlsNTc4NW11RjZPOUpvUEVKOHMtRlhleUk0WjNpYlE1RTM5S01jTm43STBlSWNzN2xxaEdfVkM2aVhLMnU2M3J1dkp1Y2hfTUpCMFlVS09yRjNsZWRxUUNIMg?oc=5",
-   "date": "2026-08-26 15:21",
+   "title": "安踏上半年純利按年升34.9% 擬年內完成收購PUMA股權",
+   "source": "singtao.ca",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYkl2M1VZdzBaNnNjU2VQZnFjWVh2aS1tYi1pbXZjSHdnWGN6blpTS3BGckxLV3ZxbU5lak9zaHhDc1ljNnRVVUsxbFZzN0FOSjA1N3RiNHFtX0hMdmVrSW5LZmE4QlUzS0xTSzB6NTROTVNOaXd3UmoxREgwLXJ0Tm1qOGtIWHVxX01HTGNEVVE5QmhEeHJkMW9aQlVHd0dIZk11VE9vODhNOHh5ZDRjNmpZai1QR2xkdzFBdFU3ZFB1M3pIbk9ITVBjVlNQeFFra09Id3BreDc3Z294V0h4UW9FcVJORVpHLThCLVdvV2xfMDZrZmd4V3NwREJJRWRSenNIcENvSnprZHlFLVlWaXV4bldqdHZhdGxOcmMyUW5OWEdNNzM5MlNWalZTM2QzTTFDTFNGdzlzb0dzM1dYUWpJbUxBMjNzWklTaVZZdG3SAYwBQVVfeXFMTS02MUlITW1tb0J2NHBpTFJRN0pTdGdGcEEzdWZGWUVfM1V2THJzanVyRU5xWGFHdDlYYVlJNlV6SDJhVzNEdkpNdTkzbjFMV2xBZ0MyWVYwZFVWLXpMdE1lXzJTUGZjZGp6bzlhMm9SblkzQjNTRlRrVXdWU1VJR2s3eUZib3YwUkJlcE0?oc=5",
+   "date": "2026-08-26 19:26",
    "lang": "zh",
    "brand": "anta",
    "brand_name": "Anta",
    "region": "apac"
   },
   {
-   "title": "Anta Sports shares jump on strong first-half earnings",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnJhcEdOYlEzSmpYRXViNi11ZzlVelJ6Y0kyV0lxZ0NqNVhrVkpGRTNsdXl1U1Zpa1ZRMjR2VGprY2FuMThIVmFENUx1eDN1SGFhUkNYRHZTS3JpUTBlcEFDOVZoTnlCV0NWLURjMFJ6QXZ0M1QyMXJ3NHFmNS1veTRhRTRnZkhRWlpzLVQ3d0UxRnFoNFZwcng2UFR5ZGZoVlE?oc=5",
-   "date": "2026-08-26 15:06",
+   "title": "Warren Wise Cracks the adidas Riddle Behind Record Revenue",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2Y1QjB6SS1sZzUyX0RLNFhWQU1oNlg4Tk5SSnVJMkRrMzBLdWlmZnNYQlpIcDFCMGZQX2ZhUmE0cUZxdEFHNVc1NElkTEhYbG05WnlLRDR3cDFCZndCMW9NWEZmTWpwZlZ1RjJHM0gwNHZ3NU1VUzE0dzhwam1Vc2tSQV9MTVNiRWRQbUdYUXQzaFR2bjBzaV9BcmhIVGN1QnJGc3FvWEE4aHFvTzI4czVn?oc=5",
+   "date": "2026-08-26 17:00",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
+   "title": "安踏體育中期多賺近三成半 今年內完成收購PUMA股權",
+   "source": "i-cable.com",
+   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPczEzODg5X1A1UndzRmloNmgzRUxsc3NaaUFYMmdGYXpzTElCUGdxczI3MlBiR1ZmR0xmdGFSRW1OS2NnWTRaWEloV0VtNERfNUNHQWhKSFpheG50VjlfWVF4TWlxYnJNZ0gxcWZoTHByQVlhOEVQVXh4VlBCdFFUMWt6WTdJY29qWU9sNVIwa1hrei05b2RjNGcwSWVwdG1xUkJaQ2swN2NkMnZQY1d2MFNqcmotaVliMnAzQ21DX3lCUlMtNmNremRHNVF0NC1ULVpQMF82STNJaGt4SE1VTWZsa0ZScWtxalVBaGFHbldtTlpSZVA5cmRWbDhoUlZtUk1ENm5TckQ1QW1OQjFrc1ZqWWtxdkJTNGdyd2Zmdkw4amxmNnRNSWNOeEllNnRQei1fQmtLdGhlUzh0OHlYSVJtUy1feU9WVmdiMU40UU1fbVVzdm1pbi04bmhCQ2prbW5YOWZpV1ZGTFh0aHc?oc=5",
+   "date": "2026-08-26 16:04",
+   "lang": "zh",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
+  },
+  {
+   "title": "ANTA H1 net profit jumps 35pc, sending shares up over 9pc",
+   "source": "The Standard (HK)",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVC04YmNWdEd3dDBjdEh2UzN5elAwaXd1WmxFaFhlSDFJamVoR3NEcVpmZWlnWFhkZUtoMkdJUW9UNWZia1FpN3FBQzV5eWt5ajNsam1YZ0pYdmoxeEZiWnJ4aFZXT3hrbjVwNWh5SW9fWFBQMnVsTzR1QkFuWkhpVjc0bUtVRzl1VjZBX2xqTGdzaFUxS1RHbGVERnJYUzlLMDdsQzdrSFdtbjVIcEt3?oc=5",
+   "date": "2026-08-26 15:51",
    "lang": "en",
    "brand": "anta",
    "brand_name": "Anta",
@@ -216,16 +226,6 @@
    "brand": "muji",
    "brand_name": "MUJI",
    "region": "apac"
-  },
-  {
-   "title": "Nike Stock Slides After Dick's Disappointing Q2 Results",
-   "source": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQU1RWTlqczIyQzhiZU5MdFhINXJHVUpjODc1RTR3TTRkUTJ0UUFLbk9Ec2pkaGFjXzROOTRhaFZKMnY4cUFmQ3o1NGpwRW1qWjg1VFcwR21TRDdBeFpzM0Y4bVVVZTAyXzhOcmpnYUlKcjNkQ3p3a3pYcDVmc2NwMWNFLXBZbVk1OFRTMm1kbGxPZnBDT1JQU3FiRkhTd3RmbkFPbkw1ZzV1ZUZUeU84b18xWmFxdw?oc=5",
-   "date": "2026-08-26 01:35",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "Lululemon Athletica Set to Top Second Quarter Earnings Expectations on Cost Control, Share Repurchases, UBS Says",
