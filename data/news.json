@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-26T19:59:45+08:00",
+ "fetched_at": "2026-08-28T15:02:49+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,26 +32,8 @@
  ],
  "items": [
   {
-   "title": "《類股行情2-1》紡織纖維股跌0.3%；塑膠股漲7.6%",
-   "source": "富聯網",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcGdFTDVEUEtIbENqRHFONl9DM3RLSUtJZUJSX0dlbjJ0NlhlQmt6WHdmUkNVMzJGTXUwXzdpU1QtMjVyZkRzNzhieXVsSUlWLW5XUnVkT2d5TEZsNm53NmNvV2xiN2NocUdzTElNRkt5Y2gydGpRUlN0amtSZFdMQTBlT3NaYmlw?oc=5",
-   "date": "2026-08-26 14:09",
-   "cats": [
-    "material"
-   ]
-  },
-  {
-   "title": "香港紡織商會常務副會長關淑敏：大灣區時尚產業融合發展助中國時尚品牌走向世界舞台",
-   "source": "香港商报",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hOEhxNWhLMXc2VFc1SEFuNFVkbWZFdU5NTVRDdW1sa0xaU2dKRHM4dDAzMHlxNjlTTTk1alZuVUZOSUIyajU0SDcyNlJyZm9QVTR1Q2l6LTdVMDAwZW4zcVBURC1zUFlhNEZzb1ZQVkV2eng2eUQxX1VDNA?oc=5",
-   "date": "2026-08-25 22:37",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
-   "source": "Newtalk新聞",
+   "source": "Newtalk 新聞",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
    "date": "2026-08-24 10:40",
    "cats": [
@@ -71,7 +53,7 @@
   },
   {
    "title": "雙外資給予目標價460元！「布料及成衣代工大廠」訂單看到6個月 下半年拚單月營收逾30億元",
-   "source": "FTNN 新聞網",
+   "source": "FTNN 新聞",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2aExvczJfWi1mT2FFTlBzWWJtUTA0NTQzYlVVdVFuTThkaFpETEgwM2k3OGhUUmdYNVNpcnp0U1hXcGtyVVVYbEtZOA?oc=5",
    "date": "2026-08-19 21:15",
    "cats": [
@@ -80,19 +62,19 @@
    ]
   },
   {
-   "title": "儒鴻法說》成衣動能升溫！Q2營收100.86億元創16季高、EPS 5.66元！洪瑞廷：2027上半年「深度樂觀」",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFd4RHRKQXJxZTRrY0dVZzdnc0pzaEphSlNrTE5VMExwRy10d1pRZUIwdkRld0xyWlR1T0lMSS1TVWllNURYZDByX0RRSTBrNERjQmU3UTBfRDZTOWlaOFpvT1pWYjh4Nnk4YzFNb0YyZjh5eGpqX0Y4T0x0bkFtOFdTdnlYUTl2bW96ZTR1NURrZkFGa3JfbE5pdkxFbGYyaENlM1NrSldFeHlwdDB3dEt1NUEtMFNocHZjc0trSG12bHl3aC1mLXFTR3hjbzBQZEpZUnYtbktVZjlmWlFCN1g5RVdVYnAwMnFoUnotT0N2LXN1cUc2MnpGRlhLNG1rYzB0QWpGNmFXamh4ZXg5aGpncHhoMzhDUy1BcDEyZFB6anhiSDB4ZFloMTE2QzhQZnJmMg?oc=5",
-   "date": "2026-08-19 00:16",
+   "title": "【12:13 即時新聞】力麗(1444)股價小幅走強，受紡織股補漲題材支撐＋法人近日偏多回補帶動低檔承接",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblIzTzA0MVRhTE53RXhPS0d0WHY1NFhlUDNETm9CMTRLMjd1WXFzVnR2a19SdzU0NFZLNDZ2SmJZbzA0eHBlSEVabUo5cnZqUzluLVVvYzI3OW5ZeTFSWElkV3RDM09DdFdpd0NKTHE1YXN4MVR3RlFHdFhrNU8yUUluMHBnYXZKZDA3YlRn?oc=5",
+   "date": "2026-08-18 15:00",
    "cats": [
     "stock"
    ]
   },
   {
-   "title": "【12:13 即時新聞】力麗(1444)股價小幅走強，受紡織股補漲題材支撐＋法人近日偏多回補帶動低檔承接",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblIzTzA0MVRhTE53RXhPS0d0WHY1NFhlUDNETm9CMTRLMjd1WXFzVnR2a19SdzU0NFZLNDZ2SmJZbzA0eHBlSEVabUo5cnZqUzluLVVvYzI3OW5ZeTFSWElkV3RDM09DdFdpd0NKTHE1YXN4MVR3RlFHdFhrNU8yUUluMHBnYXZKZDA3YlRn?oc=5",
-   "date": "2026-08-18 12:14",
+   "title": "儒鴻法說》成衣動能升溫！Q2營收100.86億元創16季高、EPS 5.66元！洪瑞廷：2027上半年「深度樂觀」",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFd4RHRKQXJxZTRrY0dVZzdnc0pzaEphSlNrTE5VMExwRy10d1pRZUIwdkRld0xyWlR1T0lMSS1TVWllNURYZDByX0RRSTBrNERjQmU3UTBfRDZTOWlaOFpvT1pWYjh4Nnk4YzFNb0YyZjh5eGpqX0Y4T0x0bkFtOFdTdnlYUTl2bW96ZTR1NURrZkFGa3JfbE5pdkxFbGYyaENlM1NrSldFeHlwdDB3dEt1NUEtMFNocHZjc0trSG12bHl3aC1mLXFTR3hjbzBQZEpZUnYtbktVZjlmWlFCN1g5RVdVYnAwMnFoUnotT0N2LXN1cUc2MnpGRlhLNG1rYzB0QWpGNmFXamh4ZXg5aGpncHhoMzhDUy1BcDEyZFB6anhiSDB4ZFloMTE2QzhQZnJmMg?oc=5",
+   "date": "2026-08-18 15:00",
    "cats": [
     "stock"
    ]
@@ -101,7 +83,7 @@
    "title": "轉型見效紡織業Q3前景可期",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
-   "date": "2026-08-17 03:00",
+   "date": "2026-08-17 15:00",
    "cats": [
     "market"
    ]
@@ -119,7 +101,7 @@
    "title": "成衣廠營收靚下半年看好",
    "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IRUN1dTJLSzBrekxwOWhzUTdfVGcxTF80cjZ5Z3dUSmczeEM2djV6VWpybnBmS0lGNHJ6S1hqTEJkeHJuTzZ5WjdpbEVNbi10TUt2MmZmUzFlMDNCLTdj?oc=5",
-   "date": "2026-08-11 03:00",
+   "date": "2026-08-11 15:00",
    "cats": [
     "market",
     "stock"
@@ -127,7 +109,7 @@
   },
   {
    "title": "「機能布大廠」Core Item訂單發威！7月營收飆77％創同期次高 越南擴產可望下半年放量",
-   "source": "FTNN 新聞網",
+   "source": "FTNN 新聞",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LT3NKbmI4dlhONG81VVdxMDh6Q0p5cXZNdzNrQmJIMXVfcWNwYkxCYUpfTHNDMmVCMlBVV2VEWUIxWWVGd19LQ2V6UQ?oc=5",
    "date": "2026-08-10 15:00",
    "cats": [
@@ -177,21 +159,30 @@
    ]
   },
   {
-   "title": "《商情》成本端支撐乏力 中國EG化纖價格指數連2跌",
-   "source": "富聯網",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRS1wdldHbi01WUtTeVlVVUpTRXdsZk5fRHgtUjVmY05sYkE2aWx4STBZU3ZRVmFLaEh2S1JDU2ZvZzZuM3J1SC1SOXJ4S1J4VkMyUTFrakJFakpISTNCazY1ME1BZGdHNF9DMktLRmZrNUNJdHNoU29zQ2ZYUWx4Ty1GdXlrTEFQ?oc=5",
-   "date": "2026-08-04 14:37",
-   "cats": [
-    "material"
-   ]
-  },
-  {
    "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角",
    "source": "自由財經",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qUEhLbS1PbFBWb2o0Z3NZMFd6bXZJbjhvSGdmMUlPMHVFb2E4SlMzUmtPdktPVEdtTFUwOTFpRmo5ek93dXE4aDg2UHYweFR3THJzb25OWElJTGFTUkpr?oc=5",
    "date": "2026-08-02 15:00",
    "cats": [
     "stock"
+   ]
+  },
+  {
+   "title": "紐約成衣布料展 紡織台企鞏固客戶",
+   "source": "世界新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ZDltekpxaGJkSW1LRFl2UnEwUWwxTTFPTUc3UDE5T3hYRllodVUwcnJTLXZELUZrdGlTdGhSTjRySzRDU2U4LVgtTFZYckNvc0ExaWtqOEVnWC12ZkNPM3dR0gFnQVVfeXFMT2J5bHJQNUk0Y0dlMDVybEd4RXdoaEFOLWNYdGNzbVItVkVGQjFYVXFUbklpWXNFaDVVN2ZrcVpmRlF1bUFKOXJmV3UtWUhSNW02V19UcGlRWk1lT1NJOWttSGVDdF9NOA?oc=5",
+   "date": "2026-08-01 15:00",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "舊衣回收邁入新時代！循環標誌上路，台灣紡織拚「衣服再變衣服」",
+   "source": "TVBS 女人我最大",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UMnU5bUxkZGFZUTlwRzNQLVRpeW9mT3hBVGVkVDFPQlV4MmxDSFhqVmMxd2VURzB1MW5YLWtrQ3VLbWhZS2p1elg1MzhrM2ow?oc=5",
+   "date": "2026-07-31 15:00",
+   "cats": [
+    "green"
    ]
   },
   {
