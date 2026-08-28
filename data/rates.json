@@ -3,29 +3,25 @@
  "title": "臺灣銀行牌告匯率",
  "source": "臺灣銀行牌告匯率(FinMind 開放 API)",
  "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
- "data_date": "2026-08-27",
- "fetched_at": "2026-08-28T15:02:48+08:00",
+ "data_date": "2026-08-28",
+ "fetched_at": "2026-08-29T05:48:30+08:00",
  "primary_note": "主要顯示「現金賣出」;台銀未掛現金牌價之幣別改列「即期賣出」並標註。",
  "currencies": [
   {
    "code": "USD",
    "name": "美元",
-   "date": "2026-08-27",
-   "cash_buy": 31.29,
-   "cash_sell": 31.96,
-   "spot_buy": 31.64,
-   "spot_sell": 31.74,
+   "date": "2026-08-28",
+   "cash_buy": 31.215,
+   "cash_sell": 31.885,
+   "spot_buy": 31.565,
+   "spot_sell": 31.665,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 31.96,
-   "prev": 32.09,
-   "change": -0.13,
-   "change_pct": -0.4051,
+   "primary": 31.885,
+   "prev": 31.96,
+   "change": -0.075,
+   "change_pct": -0.2347,
    "history": [
-    [
-     "2025-07-24",
-     29.665
-    ],
     [
      "2025-07-25",
      29.7
@@ -1101,28 +1097,28 @@
     [
      "2026-08-27",
      31.96
+    ],
+    [
+     "2026-08-28",
+     31.885
     ]
    ]
   },
   {
    "code": "CNY",
    "name": "人民幣",
-   "date": "2026-08-27",
-   "cash_buy": 4.619,
-   "cash_sell": 4.781,
-   "spot_buy": 4.691,
-   "spot_sell": 4.741,
+   "date": "2026-08-28",
+   "cash_buy": 4.606,
+   "cash_sell": 4.768,
+   "spot_buy": 4.678,
+   "spot_sell": 4.728,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 4.781,
-   "prev": 4.8,
-   "change": -0.019,
-   "change_pct": -0.3958,
+   "primary": 4.768,
+   "prev": 4.781,
+   "change": -0.013,
+   "change_pct": -0.2719,
    "history": [
-    [
-     "2025-07-24",
-     4.176
-    ],
     [
      "2025-07-25",
      4.171
@@ -2198,28 +2194,28 @@
     [
      "2026-08-27",
      4.781
+    ],
+    [
+     "2026-08-28",
+     4.768
     ]
    ]
   },
   {
    "code": "JPY",
    "name": "日圓",
-   "date": "2026-08-27",
-   "cash_buy": 0.1896,
-   "cash_sell": 0.2024,
-   "spot_buy": 0.1969,
-   "spot_sell": 0.2009,
+   "date": "2026-08-28",
+   "cash_buy": 0.1889,
+   "cash_sell": 0.2017,
+   "spot_buy": 0.1962,
+   "spot_sell": 0.2002,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 0.2024,
-   "prev": 0.2037,
-   "change": -0.0013,
-   "change_pct": -0.6382,
+   "primary": 0.2017,
+   "prev": 0.2024,
+   "change": -0.0007,
+   "change_pct": -0.3458,
    "history": [
-    [
-     "2025-07-24",
-     0.2043
-    ],
     [
      "2025-07-25",
      0.2032
@@ -3295,28 +3291,28 @@
     [
      "2026-08-27",
      0.2024
+    ],
+    [
+     "2026-08-28",
+     0.2017
     ]
    ]
   },
   {
    "code": "EUR",
    "name": "歐元",
-   "date": "2026-08-27",
-   "cash_buy": 36.12,
-   "cash_sell": 37.46,
-   "spot_buy": 36.74,
-   "spot_sell": 37.14,
+   "date": "2026-08-28",
+   "cash_buy": 36.01,
+   "cash_sell": 37.35,
+   "spot_buy": 36.63,
+   "spot_sell": 37.03,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 37.46,
-   "prev": 37.66,
-   "change": -0.2,
-   "change_pct": -0.5311,
+   "primary": 37.35,
+   "prev": 37.46,
+   "change": -0.11,
+   "change_pct": -0.2936,
    "history": [
-    [
-     "2025-07-24",
-     35.1
-    ],
     [
      "2025-07-25",
      35.12
@@ -4392,13 +4388,17 @@
     [
      "2026-08-27",
      37.46
+    ],
+    [
+     "2026-08-28",
+     37.35
     ]
    ]
   },
   {
    "code": "VND",
    "name": "越南盾",
-   "date": "2026-08-27",
+   "date": "2026-08-28",
    "cash_buy": 0.00099,
    "cash_sell": 0.0014,
    "spot_buy": null,
@@ -4406,14 +4406,10 @@
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
    "primary": 0.0014,
-   "prev": 0.00141,
-   "change": -1e-05,
-   "change_pct": -0.7092,
+   "prev": 0.0014,
+   "change": 0.0,
+   "change_pct": 0.0,
    "history": [
-    [
-     "2025-07-24",
-     0.00131
-    ],
     [
      "2025-07-25",
      0.00131
@@ -5489,28 +5485,28 @@
     [
      "2026-08-27",
      0.0014
+    ],
+    [
+     "2026-08-28",
+     0.0014
     ]
    ]
   },
   {
    "code": "ZAR",
    "name": "南非幣",
-   "date": "2026-08-27",
+   "date": "2026-08-28",
    "cash_buy": null,
    "cash_sell": null,
-   "spot_buy": 1.946,
-   "spot_sell": 2.026,
+   "spot_buy": 1.938,
+   "spot_sell": 2.018,
    "primary_field": "spot_sell",
    "primary_label": "即期賣出",
-   "primary": 2.026,
-   "prev": 2.037,
-   "change": -0.011,
-   "change_pct": -0.54,
+   "primary": 2.018,
+   "prev": 2.026,
+   "change": -0.008,
+   "change_pct": -0.3949,
    "history": [
-    [
-     "2025-07-24",
-     1.71
-    ],
     [
      "2025-07-25",
      1.702
@@ -6586,6 +6582,10 @@
     [
      "2026-08-27",
      2.026
+    ],
+    [
+     "2026-08-28",
+     2.018
     ]
    ]
   }

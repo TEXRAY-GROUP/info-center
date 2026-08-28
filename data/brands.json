@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-28T15:02:51+08:00",
+ "fetched_at": "2026-08-29T05:48:33+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,14 +158,64 @@
  ],
  "items": [
   {
-   "title": "Gap jumps after raising profit targets despite Old Navy weakness",
-   "source": "marketscreener.com",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNG81TEwxakh0TnlTWW5MX255Rkc0dTRITnVzUDkyRnFrZ3hvVi0tTXJVWnRkVXR6aEE4T1Q4NkxpS3Q0dTJKSWwwX3oyQ0s2QkpkOE5VSk03YjlGODNmZlQ4V0hmRkJydWlia3ZEN3dPbDJwTnVnX1NCSVM4VXRMa0xES1l5WVo5NkRVQTJNMHo4MkF6dnF3blQ2eWhSMGFTZy1GeEpYRzhNLXJyQnJBcjRPZGZjMl9tSFc2bjcxSDVxb09SMVVWbWZoQ1FxU1c5UHVZcjhHTQ?oc=5",
-   "date": "2026-08-28 14:25",
+   "title": "NIKE, Inc. Announces First Quarter Fiscal 2027 Earnings and Conference Call",
+   "source": "Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPek1QNHlPRjNGcF8tOGhrRzk1RkdtLUN1RGZqRnlvZkYtcWpELVhfT1JPVDRPQU9IYksyZXM3eEZwUGtCUFRpSDBBS1JWVy1mcVJKSTlrdHNiQWI3VXZEQlVZLXlqZkR5T3RDb3ZqWE5kUmMyZFVFaklSV2wyZkxhOU1VQ1llNGlUazBBSnhiS0c3UzVBWklrVkNCTWRWZ2V3RnpZLVRlaWljR2RQNU5sNGxwSEo1UmtydHpvRkdBcnlfTW5tdkgyMkNyYw?oc=5",
+   "date": "2026-08-29 05:00",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Must Read: CFDA Reveals 2026 Scholarship Fund Winners, Gap Inc. Sees Sales Decline Amid Old Navy Leadership Change",
+   "source": "fashionista.com",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NX2NBd2FqS0VZVFBDXzAwX21weVdkZU9OenF2U2tOaHB3TFlnWVVmOFpWQ2lQT254WmFSZkJuYlN5M3BvWXpQXzhndUNwbEJKV3hSRnlTS0Z3V3ZnTkh4Zmh5NzBkUEtFSjRQaVk5ZkY?oc=5",
+   "date": "2026-08-29 00:00",
    "lang": "en",
    "brand": "gap",
    "brand_name": "Gap",
    "region": "americas"
+  },
+  {
+   "title": "Gap climbs after leadership change at Old Navy, profit forecast raise",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHVIQ0Y2V2o2Z19tSk0wdXMzTzJOUjh6S2xuZmRwZkpTRnRZcXdOUE9KMGxlTG9uRU4tS3JZTHJwdW5LVHNoS1lZOEgyQXVJNXhuSWRWazgyWVJJSmR6YWhNbVpuMS1Fb2t5dUlsWEZHY3lQcDRLWGJmMXl5LWlKQVJuNDAxMU44SFVRWVRHbDVZSTB3d2FOMkFTWldETUZmMHFhd2ZnSnJzcjJBU2tZdHRqdVVDdVZDY0Nv?oc=5",
+   "date": "2026-08-28 23:08",
+   "lang": "en",
+   "brand": "gap",
+   "brand_name": "Gap",
+   "region": "americas"
+  },
+  {
+   "title": "Shuffle Board: Old Navy Names CEO; Kohl’s Creates Customer Role",
+   "source": "WWD",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXNiSTh2VVV0QWRJSlJPRll4R25EQ1ctYzdhQ0tKcFBnYTdRQWhWR1phZkYxOEhnNURXWXN0U1F6MDN3aVRSTlM2aDBQWDNLblNRZFpwdDQ2cVdjVko0UFdRUk9ocE9iNjZSN0ktb3JZR09OeF9jM29IMzdvSWFoakpoVEpCTF8yVTFzdXBHV1JocS1NejFfRXVxS0FDd0ZLMmVDeUt6TzBOOGFh?oc=5",
+   "date": "2026-08-28 22:52",
+   "lang": "en",
+   "brand": "gap",
+   "brand_name": "Gap",
+   "region": "americas"
+  },
+  {
+   "title": "Zara, Uniqlo, Banana Republic, and More Stores With the Best Clothing Deals Right Now",
+   "source": "Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnpSdEJzUkRMLW1zeTFIMGptMUhLY1VyWHI0YV9tTk53aW56LU9mTWliU0FDM2c3UDBQMWk1em9LZVQ3TGhlU25KS0pyN2xDaEpKcXdiSUdUNUFJU3NocE1DWmtLOXgzbkJFRjlXR29TN0Vxdy1uc2hYbzg0dFhRV01aQnZDc2xCTHFpR2xtMnlNWjc0TWZGVGJPdDVtd28?oc=5",
+   "date": "2026-08-28 22:27",
+   "lang": "en",
+   "brand": "gap",
+   "brand_name": "Gap",
+   "region": "americas"
+  },
+  {
+   "title": "Newsflash: Antalpha Platform Holding Company (NASDAQ:ANTA) Analysts Have Been Trimming Their Revenue Forecasts",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMnlPWHBMaGFWVVBWdUlVV1FDSXl4dTlNM3pORVRCWFVubVVOSnIwdjBkOTl2ZWsza2lfNkVKTkhwaFpndFg0M0RhdTY4QmJYUVBaSGNfcFJaMHFYb0lCNGtDbGpKbDlRZm95NjhSTnZkd3lTVU5YTXhxZHFsY09ocllScFY4UjRPYkR3Rkk5Vnl3TGNOVkljbFZHaXhGbkFzRGxuR1hLY3RXN21qT3dhVVlIN2lDZmtKUGdIOEluOWZqNlZVODdEMTVpR1ZyZGRnX1lMOEo1QUNDVWNhd1k4bmJVbU5wYmxOLXRSMEJFUdIB9AFBVV95cUxOR04wWmtseFk3VHM5aEdGc1VMZmFCTkFNdmZFeXp5WFNJSFd3a1F5TVd0bEdfTXRaOXRpLVNiMTZzdEhxM0hQSGpQODduYWFVSGUtRmQzVThibU14NWJYUi1nMkFjakcyNjNBcmp3TEVUdmhLWnVfSFdtTmNHdkVxUWIyYUgzaXViZUVsTW00aXpIb0pVclUtTWE5ZXh0SVAzOWF1b3I3YXR3UVdDQmtucmlNV1VTWm9fUjY0aloteUx1Mm9CMWlNU2VVV1lWTG03aWZMU2hrRkU5V0tNcXJWN1pieTQ4bFo1VzN1WjZJc0I0R1Nv?oc=5",
+   "date": "2026-08-28 18:51",
+   "lang": "en",
+   "brand": "anta",
+   "brand_name": "Anta",
+   "region": "apac"
   },
   {
    "title": "Descente, Kolon Sport Surge Drives Record H1 Revenue for Anta Sports",
@@ -188,16 +238,6 @@
    "region": "apac"
   },
   {
-   "title": "【即時新聞】蓋璞(GAP)調升全年EPS預估！這主力品牌營收跳水，緊急換帥求突圍",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGV3MzlSTGo0TkV0ZGF1UVhuWnp1ZVB3N3BqZTczM3o2eVVhVEo0WGlMeE1VbXRqMDdLRWE5U3JQX1QteEZ1R1FwbF9oYndORlJXZF9UNXY0UGlLM2w1S1F1WDAtbEg4QVE2NmxPNjVyelZfalRqaU1TWmRSZGJnVTE5WTNvcU0wUnNzUFc2anA?oc=5",
-   "date": "2026-08-28 12:56",
-   "lang": "zh",
-   "brand": "gap",
-   "brand_name": "Gap",
-   "region": "americas"
-  },
-  {
    "title": "Anta Sports revenue rises 12.9 per cent in first half",
    "source": "Inside Retail Asia",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONXE5LWpldzdhTGFrSDRHM0JjTkVNa3c2S3FmTmd5MzM3UFp5dlp1UUhOTGhFOXdMMWl6aEh1c1RHVkxIbk8wWGV4VTRhM1djTTRCNHpFOGdjelUtajJSTkxhNzVvN1JjZUp2bFBrbHNmNWFZSmZuVnJBOTdGUUlKY0VqM184TXI1S3ltR29qbXE2Yk5sSmc?oc=5",
@@ -208,36 +248,6 @@
    "region": "apac"
   },
   {
-   "title": "Shein’s IPO Has Only One Winner: Its Chinese Supply Chain",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaEM5LXZIYWZVZkRRMXBMUUNROF9OT1hGVk9UczdhSXZfT2ROYnVzYjkwLWE2QUxHeGNvLVo1TmJoYXhLTjVpWEMycGxlY25IVjNUQ2ItWmZUVV80M0ZPeWFIUEdKN0dXaTI4eTN0T0pENkFQeEpfZzdJWEsyd3ZuVWJZWXdNMjAxRlBITHM5ZTZpMVRqR3d5aS1pSjlHWFBtNDlEM2FGLThrNkVDYU40?oc=5",
-   "date": "2026-08-28 10:00",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "Gap lifts annual profit forecast on strength of namesake brand, names new Old Navy chief",
-   "source": "FashionNetwork USA",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcnlZc1VnaEFyaUh5aUdxRnhRdkJqY2FlYnJOSjRyTm54THZraHJQbU5NV3ZXUWE5X0ZtOVJ2cXAtZXVKTlZvT0V5bDdZakpBR0ZIbjFvb0dFMU83eEdULUhiT0JuM2x1c0VGSkJpX2JYX21RUmdpeHkyZ2k3U3RVS21aNjlyVzExbk1kUmt3bFhITHUzN3gtM3gzUzJ6X0tfU2lnM1pnTlVrUFE4alkxV04wNXpCMDBZZGhoaVNjT0o3SnRqS3ppTFJoUVVQN1R1?oc=5",
-   "date": "2026-08-28 09:22",
-   "lang": "en",
-   "brand": "gap",
-   "brand_name": "Gap",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon Reports Q2 Earnings September 3: What the Stock Needs to Show",
-   "source": "TIKR.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1JoNVJrXzljU01OX2pfajF0NTlpM0hfcjgzQ3pYWnlZYW42SERfWVYxRWZpWW1pM1E4VDJ5M2RWY3NQSmN4MnJYLVFkVUlFdWstcG5WRUx0b1pJMlh4UndWc0oxckNuQ1U3dnNlcG5RSWtzRDkwZ2wwaFpZTjluTURDdjFoMzRGUjBpa3JQUHFFZklfRjhpQWF0NW4?oc=5",
-   "date": "2026-08-28 07:43",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
    "title": "PETA Turns Up the Heat on H&M, Mails Bloody ‘Sheep’ to CEO, Vows Nationwide Store Presence",
    "source": "People for the Ethical Treatment of Animals (PETA)",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUVSbk14QWdCX19sdEhKaFNNRmVGYk5ocU1UU1JjS19MR2dsU3R6QmtnREtNTTlBMVdUaDdHVHNjaXpUNDVzUFlsUjBVUVN5c0xkbWZ3Yk5QOVRodkY1Z01kUEZvdnJKR2gzanpGaEI2LXQ2M1JQWmNHcXgxWUtjYW5DNUdEQnRZSDlsSFNiYXVqQmVvNFM1T3FBZy12TmwtNm1YWmxEOXlSQ1hvaHBiZm14dk1JcHRBT2pwQlNxRXBkcHIxb3c?oc=5",
@@ -246,26 +256,6 @@
    "brand": "hm",
    "brand_name": "H&M",
    "region": "europe"
-  },
-  {
-   "title": "Will Lululemon (LULU) Beat Estimates Again in Its Next Earnings Report?",
-   "source": "Yahoo Finance Singapore",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1c2cEhXTlo5X1pMLVpVVXNlVkZFOXEwOVRNcVFRaUJWTjVFOW9lTVkxUWNvUFVORjNSSWxIc3EwbE0wRjhWNjVTUTUwTUZORkNzYXJULUd3aW9pcHMtZFpFTzBDVzFnRnVLWmY1RzIyb0w0cm5wQjZUSjB2SERxVzltZDYwdTBhc2trNw?oc=5",
-   "date": "2026-08-28 00:10",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "ANTA Sports (SEHK:2020) Stock Sees Profit Strength Despite Margin Drift",
-   "source": "simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLWw0c0JHNDNSWTVkVXUzVWZ4aWhUaEI3bmhIWkF4SHNCRFhEMXNHM3p1U0ZnVjd2MlRTUTMyU2pLQUJqSmdUQ09xWjZnTlViN2NIbDV4RXFsRTZLNHM5MGlFLWlJa2NiMFcwVUNIYVFRam5fRG1LRE5GSGlhN3o1V1B2QkVocVVzN0JlNkU1ZlNXelp0QXJjdnJrcGlmU29QVzBwM2xzSUZxeVZWa3YtQVJQV2VCM0dLSzI0ekIyVVFheElWTHE3UnZaeXFpRF9nVzAtMmYzdGRHLWp1eW9ZakxYX0J0VWvSAewBQVVfeXFMTlA5ejlrc1JhOUNUYVVlOUFwaWNlUkI2eTU4djhmSmRVTVFuUEN3bEZuRUdSQ2NfV0lUOWhqQWRmTldaekNtTHNlY0NVMUwyTDBxVnVRam1KVTN2Wmt0Vld4VFdfSFlqdmd5bXk4QmVzWlR0dVhFMFdDRFlBRnZKUml2NzBNejFxYTEwb0lBZmMzR3FMamRfdXpRZ29lN1NvaTM4WDR0b0tSaGNKVHY0TnkyXzhRUl91TWRUQ0d6Nk5QYjdqX29nRkNuSXhiZ0p6SmNQalVvUWJDaUlYQzNuX1BrYXpIb3BMX29pc00?oc=5",
-   "date": "2026-08-27 23:49",
-   "lang": "en",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
   },
   {
    "title": "Lululemon股價或於9月3日財報發布後波動8.1% 作者 Investing.com",
@@ -288,34 +278,14 @@
    "region": "americas"
   },
   {
-   "title": "lululemon Q2 Earnings Upcoming: Is It Likely to Surprise Investors?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDh6VVhBeTUzWXZvb0F1SFRDcVowalRRTzR6eDVXa1NwY3MxbnBCd2p5aEJIZjNodTdUVm1kdENzeXNhLUNIcjRqSFV1ak9tRjhPTXlpZDdKeXJmckw2M3dNRkZzYXM3QV9KajNfWVZNMjk3MFotU29XVG5mZ09DZDNOODJVRUQ2MzBmOXR6MWpENnhkM3lVWGxkQ29GS2MtdlVQYw?oc=5",
-   "date": "2026-08-27 22:04",
+   "title": "Amer Sports (AS) Lifts 2026 Outlook: Are Higher Margins Reframing Its Long-Term Profit Story?",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2dPYmk0dnE2eWRWaWF6bTVMOHplMnFxOUFxZGJ1RlNoUFdJNjkwR05famtEcFRKeEVJS3FTSGVjZFk0Ry1sbDc4b0g5cVYwZG1CbDQ0RUctNEJWT2k2SW1pNE9oTl80YTdmVmtteXlwMTE2MWRiY1FmRVZQYlVYYVcxcUFzVkp3WEkzbkhnZmFoV3NQTFA1a3c5eEJDUjhBaGtmejM0aWZ1NjRfV3djaDRncXFHX3g4Yk93TWZrLTNtcDhPcklUa2w3bEo2bTNZ0gHWAUFVX3lxTE9iZGx0dkpaSVNQYjdmcVgxZ2tSYktLUXRXX0lJVmJKU0tHcVBnb3hJRFdzWGZZWUtYeWRZRVp3MUVOYWJ1Vk12NldFaFJxcHFKS1hZdnphcFp2eDdzcnY0SWpERl9PaWZSTjZQbVY1VFY0ck1veWZBSGtmdEI5TGhxaDQzSjh6ck96WlNCRzJNSy1zT1NxeS1MZFJ0bERqalhJSmVCMUYzSW0xV3prU0ZIb3J4MXduRnhwd1hFRlpqZzk1anRWdzJFakpOWllJWDNPdHFpbFE?oc=5",
+   "date": "2026-08-27 19:24",
    "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "Gap earnings up next: Old Navy woes test retailer’s comeback",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVQxU0Y4WVROQi1vRm9VNWxINV9fYzhQaFJyUDFnczhpczRLVFRoQmpkWnZXeWVkZUYtaDlPd0hQMmM2ZXFRbU1nRGY2b0F6VHVyV0pXdGtNZjRoYWQ4eTdIZ1FMNnZWSy1DLXlQdjZublRLOEx6QnByVi1tVF8yZElqZ1F5T3JsUVd6LUs4cTdTbWUzWDVfRFBsXzdvVWVPZ0tJV3NKaWl0dzM1M1BYdg?oc=5",
-   "date": "2026-08-27 21:39",
-   "lang": "en",
-   "brand": "gap",
-   "brand_name": "Gap",
-   "region": "americas"
-  },
-  {
-   "title": "Earnings Express | ANTA Sports Enters AI Arena: Latest Business Earnings & Strategic Expansion Update",
-   "source": "36 Kr",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Vd3RZS2Vmclh1SGpQQUc0X3owZWJlY0hHMF93WHE5TDlibDFpMWxIUEhDcUstU3NJTTlkby1XdW9vSkZPZERvbkl1M1ZHZDB3U3F3?oc=5",
-   "date": "2026-08-27 18:40",
-   "lang": "en",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
   },
   {
    "title": "Shein Bets on Everlane Acquisition to Kickstart Its Growing Empire Post-IPO",
@@ -328,18 +298,8 @@
    "region": "apac"
   },
   {
-   "title": "Anta Sports shares jump on strong first-half earnings",
-   "source": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcnJhcEdOYlEzSmpYRXViNi11ZzlVelJ6Y0kyV0lxZ0NqNVhrVkpGRTNsdXl1U1Zpa1ZRMjR2VGprY2FuMThIVmFENUx1eDN1SGFhUkNYRHZTS3JpUTBlcEFDOVZoTnlCV0NWLURjMFJ6QXZ0M1QyMXJ3NHFmNS1veTRhRTRnZkhRWlpzLVQ3d0UxRnFoNFZwcng2UFR5ZGZoVlE?oc=5",
-   "date": "2026-08-26 15:06",
-   "lang": "en",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
-  },
-  {
    "title": "安踏體育上半年營收435億元 全球化戰略加速推進",
-   "source": "香港商报",
+   "source": "香港商報",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14d0daVTRIRGphY0h4N2Z6bDR2VWMyNEk4UFFFQmJ0bGtHYjAxQkl2ZHYtYm1PRDNWVFB6VXlyUURIX3lkSnZ6NHQxOFVfQzVZYlN3bGQxMm1Cb0ZMSDFkeEQ5R1V0QVNMblFaX2JjTVk?oc=5",
    "date": "2026-08-26 13:24",
    "lang": "zh",
@@ -398,34 +358,14 @@
    "region": "apac"
   },
   {
-   "title": "6768 志強-KY - 《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年- 股市爆料同學會",
-   "source": "CMoney",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10bXFzMDBQOFNieHVlNTk5QUpxVHFNX0tUd0xjckN2Y0dYOEdSVVBET3lXV2R4ZjBSU0EyXzBrM1JUcVNHeERsanlkUEtfbWYxRUlXcTNCb1Q?oc=5",
-   "date": "2026-08-24 13:48",
+   "title": "財經｜希音收購Everlane 美國外資委員會展開國安審查",
+   "source": "Yahoo 財經",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQYi1yZUxHelJESlZMM2xtYnRMNUR1NDVsVGRsS3ptaVMtTDExOUpEM2xyTE1GTDNlSGhibk52X3hhN3JmbjdRVGlzdXd4WjhKOTVWMmxZV09LZUVPbEtZMEctaFp6OGkzb3VKTkpyel96Mk9NZFp6MWhtUFE3WWZYUXU2TnpSampwRDVSazV2clVEd0wwb1NVZk13SnZyOVV4T0JEN29sS3JTTXM3VTRVdDlTcUN0Ylh3M3dkS0FvZHB0VjV5ZkM2TmFYeDRXeHdZbzNUZ3AwM2NkNlVIa2lRd0hUQ3N2eTg1akZYSkR3NjZBelhUeU5BLTI0azJwb3pHRGVsNzhkMHRvZU5oeDlFMUltWVhzY3Y1UDlGU1kwTGR1eTNZb2hPTVpFcWNYajRsN2UtRWJLdWxYYnNPZlpsSjEza0FFUnVvYmM1X0VXTQ?oc=5",
+   "date": "2026-08-24 14:23",
    "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "不是中國不買了！美牌在陸失寵真相：太貴、太慢 NIKE營收8年新低",
-   "source": "中時新聞網",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHUUJNX3l6X0FIZ0Q0VnMwREhKYUJxWVlQelJ2a2tyb2FVNWdUckszLW9nR3MtcHB6MGFFVXRZSU4zTHhpSG9HNHNFR21QR1pJTW40OHJFeXBvOFZxaVkzLVlmRjRvTzFJNEFRS2Zn?oc=5",
-   "date": "2026-08-22 10:15",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Amer Sports (AS) Revenue Grew 32% Last Quarter. Can Arc’teryx and Salomon Sustain the Pace?",
-   "source": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFZZTld1eUFndUdnSWNSVV81aERPU1JqYWFSXzhZcm1BbTNrTlJFalRFRnpNR0cwMHBMSVA4WU5kLWFXcXJOLTQ3Q2hHa21XSUhrUHBYZHJMQzd5T1RUcldkQWR5UjY0TWlqQlJQWHhhUnJsTTk1Q2RzTUVINWVrX2dUM2oxV1J5NTNNYXBtNml2UDQtM3c0?oc=5",
-   "date": "2026-08-22 06:37",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
   },
   {
    "title": "不學Uniqlo反而活得更好！思夢樂營收創新高祕訣：讓顧客FOMO",
@@ -441,6 +381,16 @@
    "title": "世界盃行銷燒錢 adidas Q2獲利遜股價摔逾11%",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDNmTmZyMklCNXFBVnFsX3VVM2gza1FFZE5mSFNHeW5HSHhabkFzc2dudjZ2a2swbXdlWmtCdEVYTDZRcEx4SFFFUjNubVhmbE1mSTlmOExEVWU1aUdTM0EzRkNUcmg1emtBQ3BrVXJjNUU0dEZnWTgyYU5TR3NwTy1aLUZoV0tpRDFtTHN1SnFjdw?oc=5",
+   "date": "2026-07-31 15:00",
+   "lang": "zh",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
+   "title": "世界盃行銷燒錢 adidas Q2獲利遜股價摔逾11%-新聞內容-基金",
+   "source": "MoneyDJ",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmJld1oyRnlmR29NUU9jdFdLNVdaemVCRUdOaTM2ODlkb3FsdkdIUXRiUFVoYUlOckp0ekQzX2s2QUgzMm1HSW43OFhIU1JndlppaTRVYVdFLVJOOHZrZGpQY05wbk1MenZYZ215NEJaSFdPZFJFcEJINDBvc216cE1DbnhsdFBPNzFFMnF1dkE?oc=5",
    "date": "2026-07-31 15:00",
    "lang": "zh",
    "brand": "adidas",

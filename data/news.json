@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-28T15:02:49+08:00",
+ "fetched_at": "2026-08-29T05:48:30+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,8 +32,17 @@
  ],
  "items": [
   {
+   "title": "我國積極推動機能性紡織產業",
+   "source": "科技產業資訊室",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyTldZelFZYWNObW9mbGVKRlZVX1FqcFVmVm5HZnM2Qk11NzdQQl9XZDFzbVZqN0gyV0FJQkxzSUtrOGdEQXlEREt1MHYxRkZNZDVKeEp5WUg?oc=5",
+   "date": "2026-08-26 19:16",
+   "cats": [
+    "tech"
+   ]
+  },
+  {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
-   "source": "Newtalk 新聞",
+   "source": "Newtalk新聞",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
    "date": "2026-08-24 10:40",
    "cats": [
@@ -174,15 +183,6 @@
    "date": "2026-08-01 15:00",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "舊衣回收邁入新時代！循環標誌上路，台灣紡織拚「衣服再變衣服」",
-   "source": "TVBS 女人我最大",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UMnU5bUxkZGFZUTlwRzNQLVRpeW9mT3hBVGVkVDFPQlV4MmxDSFhqVmMxd2VURzB1MW5YLWtrQ3VLbWhZS2p1elg1MzhrM2ow?oc=5",
-   "date": "2026-07-31 15:00",
-   "cats": [
-    "green"
    ]
   },
   {
