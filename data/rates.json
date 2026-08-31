@@ -3,24 +3,24 @@
  "title": "臺灣銀行牌告匯率",
  "source": "臺灣銀行牌告匯率(FinMind 開放 API)",
  "source_url": "https://rate.bot.com.tw/xrt?Lang=zh-TW",
- "data_date": "2026-08-28",
- "fetched_at": "2026-08-31T09:26:16+08:00",
+ "data_date": "2026-08-31",
+ "fetched_at": "2026-08-31T16:50:34+08:00",
  "primary_note": "主要顯示「現金賣出」;台銀未掛現金牌價之幣別改列「即期賣出」並標註。",
  "currencies": [
   {
    "code": "USD",
    "name": "美元",
-   "date": "2026-08-28",
-   "cash_buy": 31.215,
-   "cash_sell": 31.885,
-   "spot_buy": 31.565,
-   "spot_sell": 31.665,
+   "date": "2026-08-31",
+   "cash_buy": 31.285,
+   "cash_sell": 31.955,
+   "spot_buy": 31.635,
+   "spot_sell": 31.735,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 31.885,
-   "prev": 31.96,
-   "change": -0.075,
-   "change_pct": -0.2347,
+   "primary": 31.955,
+   "prev": 31.885,
+   "change": 0.07,
+   "change_pct": 0.2195,
    "history": [
     [
      "2025-07-28",
@@ -1097,23 +1097,27 @@
     [
      "2026-08-28",
      31.885
+    ],
+    [
+     "2026-08-31",
+     31.955
     ]
    ]
   },
   {
    "code": "CNY",
    "name": "人民幣",
-   "date": "2026-08-28",
-   "cash_buy": 4.606,
-   "cash_sell": 4.768,
-   "spot_buy": 4.678,
-   "spot_sell": 4.728,
+   "date": "2026-08-31",
+   "cash_buy": 4.617,
+   "cash_sell": 4.779,
+   "spot_buy": 4.689,
+   "spot_sell": 4.739,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 4.768,
-   "prev": 4.781,
-   "change": -0.013,
-   "change_pct": -0.2719,
+   "primary": 4.779,
+   "prev": 4.768,
+   "change": 0.011,
+   "change_pct": 0.2307,
    "history": [
     [
      "2025-07-28",
@@ -2190,23 +2194,27 @@
     [
      "2026-08-28",
      4.768
+    ],
+    [
+     "2026-08-31",
+     4.779
     ]
    ]
   },
   {
    "code": "JPY",
    "name": "日圓",
-   "date": "2026-08-28",
-   "cash_buy": 0.1889,
-   "cash_sell": 0.2017,
-   "spot_buy": 0.1962,
-   "spot_sell": 0.2002,
+   "date": "2026-08-31",
+   "cash_buy": 0.1894,
+   "cash_sell": 0.2022,
+   "spot_buy": 0.1967,
+   "spot_sell": 0.2007,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 0.2017,
-   "prev": 0.2024,
-   "change": -0.0007,
-   "change_pct": -0.3458,
+   "primary": 0.2022,
+   "prev": 0.2017,
+   "change": 0.0005,
+   "change_pct": 0.2479,
    "history": [
     [
      "2025-07-28",
@@ -3283,23 +3291,27 @@
     [
      "2026-08-28",
      0.2017
+    ],
+    [
+     "2026-08-31",
+     0.2022
     ]
    ]
   },
   {
    "code": "EUR",
    "name": "歐元",
-   "date": "2026-08-28",
-   "cash_buy": 36.01,
-   "cash_sell": 37.35,
-   "spot_buy": 36.63,
-   "spot_sell": 37.03,
+   "date": "2026-08-31",
+   "cash_buy": 35.96,
+   "cash_sell": 37.3,
+   "spot_buy": 36.58,
+   "spot_sell": 36.98,
    "primary_field": "cash_sell",
    "primary_label": "現金賣出",
-   "primary": 37.35,
-   "prev": 37.46,
-   "change": -0.11,
-   "change_pct": -0.2936,
+   "primary": 37.3,
+   "prev": 37.35,
+   "change": -0.05,
+   "change_pct": -0.1339,
    "history": [
     [
      "2025-07-28",
@@ -4376,13 +4388,17 @@
     [
      "2026-08-28",
      37.35
+    ],
+    [
+     "2026-08-31",
+     37.3
     ]
    ]
   },
   {
    "code": "VND",
    "name": "越南盾",
-   "date": "2026-08-28",
+   "date": "2026-08-31",
    "cash_buy": 0.00099,
    "cash_sell": 0.0014,
    "spot_buy": null,
@@ -5469,23 +5485,27 @@
     [
      "2026-08-28",
      0.0014
+    ],
+    [
+     "2026-08-31",
+     0.0014
     ]
    ]
   },
   {
    "code": "ZAR",
    "name": "南非幣",
-   "date": "2026-08-28",
+   "date": "2026-08-31",
    "cash_buy": null,
    "cash_sell": null,
-   "spot_buy": 1.938,
-   "spot_sell": 2.018,
+   "spot_buy": 1.925,
+   "spot_sell": 2.005,
    "primary_field": "spot_sell",
    "primary_label": "即期賣出",
-   "primary": 2.018,
-   "prev": 2.026,
-   "change": -0.008,
-   "change_pct": -0.3949,
+   "primary": 2.005,
+   "prev": 2.018,
+   "change": -0.013,
+   "change_pct": -0.6442,
    "history": [
     [
      "2025-07-28",
@@ -6562,6 +6582,10 @@
     [
      "2026-08-28",
      2.018
+    ],
+    [
+     "2026-08-31",
+     2.005
     ]
    ]
   }

@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-31T09:26:17+08:00",
+ "fetched_at": "2026-08-31T16:50:35+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,15 @@
   }
  ],
  "items": [
+  {
+   "title": "紡織產業轉型加值交流會",
+   "source": "moea.gov.tw",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNby1KNHlWMVI1dElMelZ6Z0hKamJwalVqSjFZZWJCcXBQWF9jSUZ2V0g0b1V2RUVEUk5uTjFmX3NtLVFOQWdNVU5rWnp3UG5RQm1PN2RDdjUwcENYay0zMkdENmwtM1YzbnZuRlhzV3FtTm12dERMU2NuUDZOVEdNT3pFNWdGWUU4QnFhTnNwWGNYVFhh?oc=5",
+   "date": "2026-08-31 14:37",
+   "cats": [
+    "market"
+   ]
+  },
   {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
    "source": "Newtalk新聞",

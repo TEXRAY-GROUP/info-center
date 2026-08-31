@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-08-31T09:26:22+08:00",
+ "fetched_at": "2026-08-31T16:50:37+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,64 +158,54 @@
  ],
  "items": [
   {
-   "title": "Shein CEO Sky Xu’s wealth slumps US$15 billion after whittled-down IPO",
-   "source": "The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWJUWHVEZm9iRHlxdmNmb1UxbnozdThGNEZ5UjVWTUt6T0p3RVlBVUN3UXU3eEhHQmxnWXZHMFZrczItZWwwWGRIVXpyT1laN094UHplT1p4VTd1RHhOTkZTci15aDdiVVFxTi1SazhxQ0s2cXdLYlVDV1NsNXNlQ3k2Snh4NEZDbGM1b1JFOU9TYVNNN2ZES1lpOEk3TWo3a0NEMndkOHYtQQ?oc=5",
-   "date": "2026-08-31 08:50",
+   "title": "Shein valued at $26bn in IPO at a quarter of its peak",
+   "source": "Silicon Republic",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjlqbUZyLUxpelFwOXdzeXpyeTFoRUwwdnRtSTZHQmpDbHNyOXd4VG5BRkxsNkhMUzBvdzZFOUlSV2g2TXFheFk2Nm5IWHpwZk1jOEhpc0M5MW1obG0taTZ2OFExQnJuTHplTndKRFFlaFNQQXRwOC1sbjZCUE0wYkxSNlpxTUNxNG9NNVlMQm9ybkhSWndB?oc=5",
+   "date": "2026-08-31 15:46",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
   },
   {
-   "title": "Three things to watch this week: Shein IPO; AU GDP; Broadcom earnings",
-   "source": "Proactive financial news",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOandYcTFmcUhieENTYWNJMUtlbDVkTDVRTDMwWG9fdFFjc3RmcFVpZUk5X3FsenNQOGNHZlc4TTNGS25zSTJjQzZpOENXMnVjeF9YUGFCYnpveEhZQW1JcUVsZ0tkd0xkaUN0ZkZXQkY4aGljcThpbWpzelUyU0hFN1RlaG56NTVmLTlmM3c2V0lIMjhZaTdhX3BNMW16RDhYalJ0VllrR3YtSWphd3ZUZ3dzaEp6NzhxUHM0WlNNRl81c0JfLTFLVFBXSWwwVlFHMEphQ1hsMA?oc=5",
-   "date": "2026-08-31 08:46",
+   "title": "Shein at $26bn still stirs unease over growth outlook",
+   "source": "Moneyweb",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdF8xQjdOelNGRVdXanQ0YzZaUG0xU0YyRTV1ZWpFdkxCQloyNHQ4RDkzLUlqMjhMbFJWQUhFVkJkT3FUU2RHdHNkZzNpbEVmR0NfN29jbFA0LUhUVEpLQU9JY2VTa1JPY0swM2dfY01fZndqMXJOYkhjQThPWE4zQTFHVXFwOWViT1Fkak9FOXlfWVBwUmNENWppbENwdy1BamFVZHlLN1g?oc=5",
+   "date": "2026-08-31 15:34",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
   },
   {
-   "title": "Shein CEO Sky Xu’s fortune fell by more than $15 billion — Fortune",
-   "source": "UA.NEWS",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDM1MmdCaDZhekZFVDMxRm1HbGhRSGlRQ3UzcDlLX24yVEh0Y0oyY1VPWDZKcjRuOUpIRkVwT3Z2Nmpydmh5ZGItazJNd0NENzFicFZ1ZXBuZ0d3MGl0WVR2a3VGYW9SUzFTX1VmbEM0b2RsOGxNLVFhaEVzQlI3ZVRWYlZQeEZLQmJZTjBiV3hwUVNBMWJpeHNB?oc=5",
-   "date": "2026-08-31 08:17",
+   "title": "下週展望：關注戴爾（DELL）、博通（AVGO）和露露檸檬（LULU）的業績；美國就業數據及加拿大央行利率決議成爲焦點",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzhBTm15NDMteFV6aWg4U21PZmFWLXpEeHNvZmhEOUxZeTI1d3ctLWE4SVZ1bzVHenpfMGxCRklMcFJHbC0zekVhSFA3RzNQMjliT28waEY1MkVneWVvRFBPaUZKbENsa2taLUxBN21LTDQ4QUN4UThyV1lnTnJGS2s0TW9mSzNiRnpoeGVROVlxOTJhc0NvSzYxYWFZdkxpYlVDeUl1U1RERURHakE?oc=5",
+   "date": "2026-08-31 10:26",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Shein at $26 Billion Still Stirs Unease Over Growth Outlook",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0xRLVFWQUg4N19JcHFBd1lPRnRiZ0lLdDA5Z0ZNS2gyQWtsMWQ4T2dlX3RPODlNVzhYX0MweFhzeFlnc0F6aUtnODFvVkpTM1pxbThtWUlLR3JHZDZ0aWVBdzFTNWtfQUtNWG51TVpXZ1d1VzU4Q2MxSWdmbk5fRG82SGkxRzFPaWJ4cjlpNjlrNTYwenZjVk52ckEwaVEyeTdiWGFLQ1BUU2VnVHc?oc=5",
+   "date": "2026-08-31 09:55",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
    "region": "apac"
   },
   {
-   "title": "Uniqlo to double number of flagship stores in Japan in strategy pivot",
+   "title": "Uniqlo to double flagship stores in Japan in strategy pivot",
    "source": "Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFAxM2pxTU9ZTEgwVzNjVjJ3a28xTXlOMi1CV2dhaTlsR280X2FYdzg3Sm1Xb2lLcFZ4QVJOb25HSTZ5TkJrMUtacGdvOHh5Z2wtNFRDZGRLaVE1emUybGM0aXFTejV6M0FzX0FudEwzU3ZWSUVHNmNmZ0R5MG1fOWhGYTBVV2JnNnZod3BXR3JHUXowdUYzaEFTOC14bmI3ODRGZTRsNUJTVGZVNkE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0ZQVjVOOUU5T1BrSThsUkJuTzNNa3BsckYyZlEtbGNiRnI0NEQxWUdDYWY5TWZRckhqaTJ2aHduY0tyRE4zQ1FWaloxRkdGamdscFotNTg3dDR0TDRCcU8xbkJPcndQbDZoMFBFRFBsOExlMmU5d0R5QmE1RVR6bEtIY2J3M1hDRS1iY3Ntdy0tWFE3eFBRdGwzQndXMDJo?oc=5",
    "date": "2026-08-31 03:43",
    "lang": "en",
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
-  },
-  {
-   "title": "2026 Race the North Face Brandon Hills Results (50 KM)",
-   "source": "Ultra Running Magazine",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVNHLUNnXzVyV2RWTWR4NXVrdGY5SmQ2WUZxOV9YNXlhYjBjN0hOVGtpcjZmZ09IdVVBdXpCLW00dEpqQzZJOWVmVmlINWJUdWV3dkNvMzVldnRqOEQ2R0U4UEhtVHIya1RzSXFuMXNKUG9IdkhadG53R2ZZVDM0UlZCNmVBQlVvdW9BU0g2SHk2WDJORjBR?oc=5",
-   "date": "2026-08-30 18:20",
-   "lang": "en",
-   "brand": "vf",
-   "brand_name": "VF Corp",
-   "region": "americas"
-  },
-  {
-   "title": "【即時新聞】Nike(NKE)出手救火！延攬前Foot Locker高層拯救Converse連13季營收衰退頹勢",
-   "source": "CMoney",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndUdnVnN5eG1WblpWSy1aNFNDSUtVdENiM0tBVjhTWDRoWEd5X3BMcjNpeHpqYUhDMkJtbHpibFJYazJEQnFPU01PME44bEhZbVdKZU41Z2FKcmFTNVNsRjg5SkVxZ28?oc=5",
-   "date": "2026-08-29 21:40",
-   "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "Gap Inc. (GAP) Soars 12.9% on Q2 Profits, New Old Navy CEO; More Hedge Funds Buy In",
@@ -258,13 +248,13 @@
    "region": "americas"
   },
   {
-   "title": "Descente, Kolon Sport Surge Drives Record H1 Revenue for Anta Sports",
-   "source": "Snow Industry News",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzdiXzNrakhTLVR2X2dvbG9NYkJjVHltODhQNXk4amhfbmc5ZDRyWUdxcy1fM1FUTDBpQi15MWNIREQ5MkxDcDgzU3NtcWpMYVJWdEZBelFuei1GNU1qNVFPb3dyS05LZXAxT2dKUnh6V1BoTTJjcUxBV01BNm50enNNVF8wWXdtQUlYVjRxaDl1V3Zlb3NfVm9TRUNyeXVULTlqZUpSdmZQUlpRUnc0MEZfR21pcU9GUTFBeml3SlN2WUI3?oc=5",
-   "date": "2026-08-28 13:44",
+   "title": "After EU adds 3-euro fee to Temu and Shein orders, 46% of Dutch say they have moved on",
+   "source": "Yahoo",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTFJMVU5jLTUwT3g3dlN3WlFFSnNYM3k0Yk5FcmZ4QmVmakdpU3dQSDlvd2Q2VWRsc2lmMTFpVFZoZE95NElzVFpLX3BJZkc0UWQxY3ppeTRCWUloVHZfT0I4UnRtNEVZRnUySDdva2tOX0Z0RDNCMm1JdEdzbDZ4YQ?oc=5",
+   "date": "2026-08-28 13:30",
    "lang": "en",
-   "brand": "descente",
-   "brand_name": "Descente",
+   "brand": "shein",
+   "brand_name": "Shein",
    "region": "apac"
   },
   {
@@ -276,16 +266,6 @@
    "brand": "gap",
    "brand_name": "Gap",
    "region": "americas"
-  },
-  {
-   "title": "Anta Sports revenue rises 12.9 per cent in first half",
-   "source": "Inside Retail Asia",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONXE5LWpldzdhTGFrSDRHM0JjTkVNa3c2S3FmTmd5MzM3UFp5dlp1UUhOTGhFOXdMMWl6aEh1c1RHVkxIbk8wWGV4VTRhM1djTTRCNHpFOGdjelUtajJSTkxhNzVvN1JjZUp2bFBrbHNmNWFZSmZuVnJBOTdGUUlKY0VqM184TXI1S3ltR29qbXE2Yk5sSmc?oc=5",
-   "date": "2026-08-28 12:27",
-   "lang": "en",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
   },
   {
    "title": "lululemon Q2 Earnings Upcoming: Is It Likely to Surprise Investors?",
@@ -318,16 +298,6 @@
    "region": "europe"
   },
   {
-   "title": "安踏體育上半年營收435億元 全球化戰略加速推進",
-   "source": "香港商报",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14d0daVTRIRGphY0h4N2Z6bDR2VWMyNEk4UFFFQmJ0bGtHYjAxQkl2ZHYtYm1PRDNWVFB6VXlyUURIX3lkSnZ6NHQxOFVfQzVZYlN3bGQxMm1Cb0ZMSDFkeEQ5R1V0QVNMblFaX2JjTVk?oc=5",
-   "date": "2026-08-26 13:24",
-   "lang": "zh",
-   "brand": "anta",
-   "brand_name": "Anta",
-   "region": "apac"
-  },
-  {
    "title": "中國運動市場大洗牌，國牌大翻倍 Nike營收跌至8年新低!",
    "source": "巴士的報",
    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPWS1TaXIzVkM1RXlPYnhIVm84QTVQZ0t6a0FNOWlQSkR1a1NtX2FLWUxaUzBHZ3JNWW8tM0N5NUFkVTBVbHJHbzFVMzNmaUlFUkMta3FVU28xTUhnaEFyS2U5T25IVlBEQVNyTDlmcWM2bFVOR1F6YkRGRGtjSmE5V05URS1pdFpnZnFwS01kRFFRNkJ6dGdIZVh6NFJaOUtvZnJSTVFEM19wSkxxa21Zbk9WVXduSzVBS0wyVTdHTDFNQUlYbWFLX1p3THMtZDA5cXVuZl94Q3I3MUxFRmFQWm9LLWFQZ2IwUXhEaHFHZHhXMzEzYTJ6OHBXVkdROXQ4ZVF0NnpsaFJJakZDQzN4eV9iOGtsd05yM2Noc1BtRGRVV2IyUEJtaWxlQTcwS0RncjB1ZVd3OGtvUmdDakcxTmU0ckpYanljOENacXY3bjBFd0xGVldMZVZHZWFsMmRmNEFhNG5zeVItZw?oc=5",
@@ -346,16 +316,6 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "希音收購服裝零售商 Everlane 一事據悉正接受美國國家安全審查 | 國際焦點 | 國際",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92clVtLVAwdEVpZ1pJNjNtVkZjbGNSOUo0cUN1Z0hPLTFkZlNkaXVlcy1KTEdsNnhEWk9BMDdYUlZQUHZhbDhRdzJqZEphMGhvaEtSanBnYjdJUQ?oc=5",
-   "date": "2026-08-24 20:55",
-   "lang": "zh",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
   },
   {
    "title": "不學Uniqlo反而活得更好！思夢樂營收創新高祕訣：讓顧客FOMO",
