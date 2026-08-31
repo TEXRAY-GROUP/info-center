@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-29T05:49:27+08:00",
+ "fetched_at": "2026-08-31T09:26:17+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,15 +32,6 @@
  ],
  "items": [
   {
-   "title": "我國積極推動機能性紡織產業",
-   "source": "科技產業資訊室",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyTldZelFZYWNObW9mbGVKRlZVX1FqcFVmVm5HZnM2Qk11NzdQQl9XZDFzbVZqN0gyV0FJQkxzSUtrOGdEQXlEREt1MHYxRkZNZDVKeEp5WUg?oc=5",
-   "date": "2026-08-26 19:16",
-   "cats": [
-    "tech"
-   ]
-  },
-  {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
    "source": "Newtalk新聞",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
@@ -51,18 +42,8 @@
    ]
   },
   {
-   "title": "H1獲利年增76%！「老牌紡織廠」獲三大法人連6周加碼 股價周漲近12%站上30元",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQZ25RUnhnTlhKaE5ta3ZnbjFDYW5ndjVESkN2M1ZDTEdIUEREcU5mQTUySHhEejRNQ1pWQmRZRGhRc3dMMVVmSEZHaWtKYzhTR3lLRUZlOGlwV0w0Q012OWRzdTJIMGJKUHQtT2RTU01PZnBaSmVFWTZYdTg5R19MRmNrS1lDTnRMU19QLWJ5RU1JUS1WWTJiWUZ6bWdKVzNUbmEyd2RhUHdiWm5sUzdtazgyR1JubmZxZEhnZjN1MVh6aS1sYkZvVGQyNndrQVBaSmpOX25qcHRRd3hVX0RYTUZIUWlyODhaZFFwYVljUTZBSC1XZFNlc0NlTVIzbXRiZTV2SkdONG93RzVZa0J4N1V2SzRhUDVwOFpkU0NnOGt2UnRKcVNYclZsY1FSczJWay1vTGpxN2w4UVRLNjNIYThxOG00bkp3MUlUd1J5VHNCVmdVdm1idHZBTDRJUGFRaXpnazlCbEQ2cnFMcG1za1pBV1FZQVFpbHN4bWRuRzdFYmZzcXBhWVB1b29Sc3lEaE9VLU1qaGtsS1Y3TGJzX042QlA?oc=5",
-   "date": "2026-08-23 17:55",
-   "cats": [
-    "market",
-    "stock"
-   ]
-  },
-  {
    "title": "雙外資給予目標價460元！「布料及成衣代工大廠」訂單看到6個月 下半年拚單月營收逾30億元",
-   "source": "FTNN 新聞",
+   "source": "FTNN 新聞網",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2aExvczJfWi1mT2FFTlBzWWJtUTA0NTQzYlVVdVFuTThkaFpETEgwM2k3OGhUUmdYNVNpcnp0U1hXcGtyVVVYbEtZOA?oc=5",
    "date": "2026-08-19 21:15",
    "cats": [
@@ -118,7 +99,7 @@
   },
   {
    "title": "「機能布大廠」Core Item訂單發威！7月營收飆77％創同期次高 越南擴產可望下半年放量",
-   "source": "FTNN 新聞",
+   "source": "FTNN 新聞網",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LT3NKbmI4dlhONG81VVdxMDh6Q0p5cXZNdzNrQmJIMXVfcWNwYkxCYUpfTHNDMmVCMlBVV2VEWUIxWWVGd19LQ2V6UQ?oc=5",
    "date": "2026-08-10 15:00",
    "cats": [
@@ -168,30 +149,22 @@
    ]
   },
   {
+   "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造 - 財經新聞 - PChome Online 新聞",
+   "source": "PChome Online 新聞",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDQ1cHlrbmk1bUpzZkIzVWt5TXE5NWZIbGtEYkhWSWNfdGFYdmRaZjJ5WklUSWNwelM5UGVfVlRBeFNFTmttNXBIN1NCSUR6ZWNvM2lTRFVFdXdjR2MzV1ExUTRQOUQtcXRlY1hod1hJSGpfU0NXelVPanhlSkZXRjhhak81ak9QWU9lYg?oc=5",
+   "date": "2026-08-05 15:00",
+   "cats": [
+    "market",
+    "trade"
+   ]
+  },
+  {
    "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角",
    "source": "自由財經",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qUEhLbS1PbFBWb2o0Z3NZMFd6bXZJbjhvSGdmMUlPMHVFb2E4SlMzUmtPdktPVEdtTFUwOTFpRmo5ek93dXE4aDg2UHYweFR3THJzb25OWElJTGFTUkpr?oc=5",
    "date": "2026-08-02 15:00",
    "cats": [
     "stock"
-   ]
-  },
-  {
-   "title": "紐約成衣布料展 紡織台企鞏固客戶",
-   "source": "世界新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ZDltekpxaGJkSW1LRFl2UnEwUWwxTTFPTUc3UDE5T3hYRllodVUwcnJTLXZELUZrdGlTdGhSTjRySzRDU2U4LVgtTFZYckNvc0ExaWtqOEVnWC12ZkNPM3dR0gFnQVVfeXFMT2J5bHJQNUk0Y0dlMDVybEd4RXdoaEFOLWNYdGNzbVItVkVGQjFYVXFUbklpWXNFaDVVN2ZrcVpmRlF1bUFKOXJmV3UtWUhSNW02V19UcGlRWk1lT1NJOWttSGVDdF9NOA?oc=5",
-   "date": "2026-08-01 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
-   "title": "僑生成企業國際布局助力重電與紡織先驅分享留用國際人才經驗",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zX3R1VEFCX04wdHVva1VLTHo4Vl9MM2tqZjV1cDFSUDVEVG5RZFNXaXIxNDNJbnZPTzVCRHpkSnhSTnlDaHBfMTBkV0pCMUdIcS1BVUpVVzl2YTA5NEJn?oc=5",
-   "date": "2026-07-30 15:00",
-   "cats": [
-    "market"
    ]
   }
  ]
