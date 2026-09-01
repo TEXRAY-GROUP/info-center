@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-08-31T18:51:47+08:00",
+ "fetched_at": "2026-09-01T09:27:56+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -33,8 +33,8 @@
  "items": [
   {
    "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
+   "source": "商傳媒",
+   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOaHpXVy1RX3QyQS11NVhjS0RUYzBjSjFUTUl6QXhEU1ZBVXNVM1ZHUzg2WkQ2ZFJ6T0tfY0hhcnpGWHFrZ3Bjc2pUVEg4elg5RDIybjY3dFk2TXlBaG1lT3hWUXVOSTd0eFJJTDFSa0NWa3RSQUtCWGNRWW12djdqUDRkVW1JdEUtWVNZV0tpZFRtSjBVMXlFLUJMTlg0UjJhYjEwMDFiaW1wNFBLZVFDcnJXdEtSbmxaZEVacXBBaVgzdWdtdUU0Xy1hMzBDR002OXVOTFAyaWNJU2p1bkZGZ1FaTEE4cEtQTEZoMkFEbnhKU1dnWVdMeTZyTHhMVTNHRTYtcHAzTnZtaWQwR19paVh1cVFGLUNzVExMR01YcWFCSEtKMkx4aENfNWdxdnIyTkZxX2lfbm9wbTVoVVdldi16a2lKcVlhNFVnamt5aUwtMHo3QzhUNlJvcFZBQU1NRHJKU2QzQzNxb0laczBGOHpFZ1Rwdlk?oc=5",
    "date": "2026-08-31 16:46",
    "cats": [
     "trade"
@@ -47,6 +47,15 @@
    "date": "2026-08-31 14:37",
    "cats": [
     "market"
+   ]
+  },
+  {
+   "title": "JISOO同款「尼龍包」找到了～韓國小眾品牌，低調設計名媛也愛揹，價格還很甜",
+   "source": "TVBS 女人我最大",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zTWY1TWNwSWlteURWaUVsMjJXZXhHellhSEtKbjEyMU5mUm5TRW1neWN6TTFvcFJuUlIzSGVCWlJsSV9CZGJ0QjQ4TXV5Y3hw?oc=5",
+   "date": "2026-08-28 00:17",
+   "cats": [
+    "material"
    ]
   },
   {
@@ -129,7 +138,7 @@
   },
   {
    "title": "紡織所「膝關節炎在宅系統」 獲選高齡健康產業博覽會十大友善科技",
-   "source": "經濟日報",
+   "source": "money.udn.com",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BU3N2ckZ4bERfTmg0b3lNZElUNmdjclNyVGNiQy1ZWXIxSW1yTmtGOTZQZDhLbXZoNG5jM3dEMDdmTFZTQlp5S2RMNmk1aTg4TFh4QWVLVXJodw?oc=5",
    "date": "2026-08-07 15:00",
    "cats": [
@@ -160,16 +169,6 @@
    "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNMXpSMEF6eF9qN0wyOXNLTlVSUzl3RzkwOEhTS1VJR2JVZ2dVRGRiLUxsNnFzeUFRM2lZbXlIaG1KM3F5MUIxVFpxdnVXZThGWVJHeDRza3dLQkRIWEIzZFJ4el8tWUpTSldVX20ydkhuSE1aRVJJcDN3WHEzaENRR0c0OWpTVlZPbzlCU0RhNWk5Xy1idnVDRjI2U0JPdWlnbUJSSkRVQy1rQjdIZzc2TmZ2d3NBWFRlWmR3V0tVWHgwdy1GNGRXZ0tJSUIyRjJKblhhb1I5dGxuSG5FOXRQa0lSSEg3ODJXOC1MVldoZTd5UlFVTUQyeERva1BrNFFGZHJ1Z3p5NVFFdGlaWE9wRTFQRjJibUtZbFVNUGpObnU2OHYyQ1N0MlhmOFB4a2w4bDhvMVBYY2tHS2NwNmhMOUQxblJ2eUw1Ymk0RVJRVFdEVEtoUk1yZWNSd1phUTFTTmFZRDE3WlR5WDQ4a0VEODBfV0ozYmZJZmdLaGtrVWNPc0M3M184UA?oc=5",
-   "date": "2026-08-05 15:00",
-   "cats": [
-    "market",
-    "trade"
-   ]
-  },
-  {
-   "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造 - 財經新聞 - PChome Online 新聞",
-   "source": "PChome Online 新聞",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDQ1cHlrbmk1bUpzZkIzVWt5TXE5NWZIbGtEYkhWSWNfdGFYdmRaZjJ5WklUSWNwelM5UGVfVlRBeFNFTmttNXBIN1NCSUR6ZWNvM2lTRFVFdXdjR2MzV1ExUTRQOUQtcXRlY1hod1hJSGpfU0NXelVPanhlSkZXRjhhak81ak9QWU9lYg?oc=5",
    "date": "2026-08-05 15:00",
    "cats": [
     "market",
