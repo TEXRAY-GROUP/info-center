@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-01T16:53:17+08:00",
+ "fetched_at": "2026-09-01T18:54:18+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -168,16 +168,6 @@
    "region": "americas"
   },
   {
-   "title": "Watch Forrester's Kodali on Shein's HK Debut, Outlook",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN04walVTZWlrYlJvS045Z1VDbHlTNGk5b3JTY01VcHpIcl9NMEVtT01ieVRKU3JwcVFMMy0xNk9BU3k1eVdDLVVYaU9XVk9mSmFXMFhNbzJ0VDRHTXhsVWpGd1BCaTFXUHhCWFM0WGRWX291cmc3M1VSZVgybExhTjh6V3dZZnF4YkJxb0xtMDUzR09tV05IaWFSMHozU0VkMHk0?oc=5",
-   "date": "2026-09-01 13:57",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
    "title": "【新股IPO】SHEIN希音625創辦人許仰天現身首掛半日跌4%、每手虧損194元梅卡曼德機器人9615跌逾2%",
    "source": "香港經濟日報HKET",
    "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPeTMwZ3JjY3A1M1dhNFE4Q25CLUVfbFZ4OEdXb05nQVh6VXQ4ZERDLTIzQlBPc2VqbmRIMXozVDc3Z25xbjR2TEdmWUJYUmNVaFhBbDBLcS1YaWFtdU9xYXpzVjRMdkVPbVlTOWZTRHVNSTRsVm1leVhPNkNwcG82c01rZ3c1MFdUb3VLVk02QXctajFjU1lEenRudzd6X25ySkVCUkRYc05nd2N2TFk1TnYwVDNBdXN0UFUxdUtmNURoNVY1TGI1U211cEkteEh0VWJ0b3IyY0ZBUURURmpzMHVPeUVHajY0N3VObHY3YXoydDZZd1VneWVqakVySHNJMzl3QWVGVGNQM21ra0xuU3hqZm01TzlGQWc0RXJOMzlpdnBNeENhUVM5MllERDFrVDhNejBhUllPc3RueGFIaEQ4S210T2puUF9kdWxnODV1UDBFVzMzLWdFOHM3eGxXWlFvVEhtTU5mWWkxcjBYbnZvcFgyZ3Y3YnBVTVpQVTB0QlM2V1FFN2J0c0V4Um1ZUWxpTTBYZUNiVlFyRmlTam4zcTFQcEpWWkNoYThkMFhyZzVVdjg5S2ZMRU1sSGlzRnhFTlEtNzVzSkhER0dxR3VjMHY2eGQ2VThPVTFlanBNWXVOenptemNpSjUyb29GUFNpOThLZklEclJxaVNoclBFaWZoZ2FFNWVYV1JsaDNjZDJtUGpsRGc1S1FLdTBUbUFwVnZKZlJ1WXc?oc=5",
@@ -191,7 +181,7 @@
    "title": "港股異動| 希音-W(00625)盤中破發一度跌近10% 營收增速有所放緩上市估值較高峯縮水七成作者智通財經",
    "source": "Investing.com 香港 - 股市報價& 財經新聞",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZUzQ2MUdDMmJnc3VSXzFTOW1qZmNtZWdGLWl3alI2c2JKS3p6YUhlS0JuS0NWTU1uWkdfV3h6MVdVSk9TUTY3N24tMHl4NHpIUFdJeG9CNGswWG9zS1psd0xWczQxU1hvdjlSMGJRby0?oc=5",
-   "date": "2026-09-01 11:33",
+   "date": "2026-09-01 11:40",
    "lang": "zh",
    "brand": "shein",
    "brand_name": "Shein",
@@ -206,6 +196,16 @@
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
+  },
+  {
+   "title": "Adidas Juventus 26-27 EQT Collection Spotted in Stores",
+   "source": "footyheadlines.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWklSSjZER1dUT0JCLTh3OW5jamF5VGJnU3RDVWtrVFJaX0lWUmFhb3JZZmJtLU1fQ1VkdmZfRnE5YkxuT0tEUy1pWlhUUEIyLXZ6YTRJbzdCZXo0cGNYalRWTTBiY3BlQi1JSS1xNVNWbDhEX2hYV2U2YmVfeHI3UWs1c2tBeF9Cd2ZMcEUwX2JoNWZHbEk5YUpHSUViNkdkUklj?oc=5",
+   "date": "2026-09-01 10:21",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
   },
   {
    "title": "Gap Stumbles, Elevates Marketing Vet To Old Navy CEO 08/31/2026",
@@ -298,10 +298,10 @@
    "region": "americas"
   },
   {
-   "title": "Shein CEO’s Wealth Slumps $15 Billion After Whittled-Down IPO",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWXFuaUlrcTdZS0pXeHNyRm14OHRhSTlGY0dpNVNzc05GS2RwQnBzVmFmZWkyMTRwZmpNV3ZpUjBIbWNyRy1XMDBZTGFOWHR0NVFneG1lUXVCN3ppOWdEZUl5TzRyRmRMRm9MOGpkdWhSMGJpSTVRN2ltaHFCeFh0YjhNcG84akVDUnl0WFpCWjVJUGJUZ0UzY25VbGV4S3EzUTdpZV94M2NGN2tIOFlmUQ?oc=5",
-   "date": "2026-08-31 07:00",
+   "title": "Shein CEO’s wealth slumps $15 billion after whittled-down IPO",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTl8yX2NUSE5VSW5RZnlJdzJScnVFb1g1cGJ6aHdKVnZlMldldnpKVUMwUWlBeFZudEVoSl8xWUdMQ2lfSUJ2MXotYjZ6QUg0cUF3MW5hUE9ucllFUV9wU0tNWk4zaVlKeE4xaENvTld0NmFXeGVPZEcyMkVxbTJ3NXJ3UTNiUzA?oc=5",
+   "date": "2026-08-31 07:39",
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
@@ -379,7 +379,7 @@
   },
   {
    "title": "不學Uniqlo反而活得更好！思夢樂營收創新高祕訣：讓顧客FOMO",
-   "source": "cw.com.tw",
+   "source": "天下雜誌",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tWS1HRGh6U3RwSVZPbWhranEtV0g0aUc1ZVcwYVpOeThlRWxHTHZkUG1Sano1eG5BeVhHRVZZVDRuZ3h1cjA2bkhoRDh3UQ?oc=5",
    "date": "2026-08-14 15:00",
    "lang": "zh",
