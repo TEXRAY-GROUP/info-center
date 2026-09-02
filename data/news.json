@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-02T09:29:30+08:00",
+ "fetched_at": "2026-09-02T16:52:42+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -42,7 +42,7 @@
   },
   {
    "title": "JISOO同款「尼龍包」找到了～韓國小眾品牌，低調設計名媛也愛揹，價格還很甜",
-   "source": "TVBS 女人我最大",
+   "source": "woman.tvbs.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zTWY1TWNwSWlteURWaUVsMjJXZXhHellhSEtKbjEyMU5mUm5TRW1neWN6TTFvcFJuUlIzSGVCWlJsSV9CZGJ0QjQ4TXV5Y3hw?oc=5",
    "date": "2026-08-28 00:17",
    "cats": [
@@ -61,7 +61,7 @@
   },
   {
    "title": "雙外資給予目標價460元！「布料及成衣代工大廠」訂單看到6個月 下半年拚單月營收逾30億元",
-   "source": "FTNN 新聞網",
+   "source": "FTNN 新聞",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2aExvczJfWi1mT2FFTlBzWWJtUTA0NTQzYlVVdVFuTThkaFpETEgwM2k3OGhUUmdYNVNpcnp0U1hXcGtyVVVYbEtZOA?oc=5",
    "date": "2026-08-19 21:15",
    "cats": [
@@ -88,9 +88,9 @@
    ]
   },
   {
-   "title": "轉型見效紡織業Q3前景可期",
-   "source": "工商時報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
+   "title": "轉型見效 紡織業Q3前景可期",
+   "source": "中時新聞網",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsalFGQkNtcDZNMHhqUEY1OGFuNE9SU1VqSDhRb0t4TWZZVHFnOXJGOHZxUnhxLV9fUmpscVZ5aWJ6UkNkSUxVcFBOZGZGUWNTRXJGX3hVZ0YwMjhyQ21GakRuSE1OdlRrTE8w?oc=5",
    "date": "2026-08-17 15:00",
    "cats": [
     "market"
@@ -117,7 +117,7 @@
   },
   {
    "title": "「機能布大廠」Core Item訂單發威！7月營收飆77％創同期次高 越南擴產可望下半年放量",
-   "source": "FTNN 新聞網",
+   "source": "FTNN 新聞",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LT3NKbmI4dlhONG81VVdxMDh6Q0p5cXZNdzNrQmJIMXVfcWNwYkxCYUpfTHNDMmVCMlBVV2VEWUIxWWVGd19LQ2V6UQ?oc=5",
    "date": "2026-08-10 15:00",
    "cats": [
@@ -143,17 +143,6 @@
    "date": "2026-08-07 15:00",
    "cats": [
     "market"
-   ]
-  },
-  {
-   "title": "一片鳳梨葉翻轉紡織業！台灣品牌打造永續新纖維，掀起時尚綠色革命",
-   "source": "TVBS 女人我最大",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sRFBBaXQyTUc5UlRFZTZ2N1o5RS05a3NpZjFyaFJqcWx1NEVyRGktckxhcThMQlhvUjl1TGNsZXI2aXlkbnlpWEI4UzlWbjE4?oc=5",
-   "date": "2026-08-06 15:00",
-   "cats": [
-    "market",
-    "tech",
-    "green"
    ]
   },
   {
