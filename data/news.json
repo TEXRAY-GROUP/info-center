@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-03T09:32:58+08:00",
+ "fetched_at": "2026-09-03T16:53:25+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,28 +32,10 @@
  ],
  "items": [
   {
-   "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
-   "date": "2026-08-31 16:46",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
-   "title": "JISOO同款「尼龍包」找到了～韓國小眾品牌，低調設計名媛也愛揹，價格還很甜",
-   "source": "女人我最大",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zTWY1TWNwSWlteURWaUVsMjJXZXhHellhSEtKbjEyMU5mUm5TRW1neWN6TTFvcFJuUlIzSGVCWlJsSV9CZGJ0QjQ4TXV5Y3hw?oc=5",
-   "date": "2026-08-28 00:17",
-   "cats": [
-    "material"
-   ]
-  },
-  {
-   "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
-   "source": "Newtalk新聞",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
-   "date": "2026-08-24 10:40",
+   "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元 | Newtalk",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95TUxuVG1tbU51cW85NDRVVkhXYnFuYmI4eXZsX3JYeTIzUE41SUd2WW9lblhHMVhaSVgwdUIxNEJaVHFNT3BRQlRtbWFzRDFKeFU4eWln?oc=5",
+   "date": "2026-08-24 10:59",
    "cats": [
     "market",
     "stock"
@@ -61,7 +43,7 @@
   },
   {
    "title": "雙外資給予目標價460元！「布料及成衣代工大廠」訂單看到6個月 下半年拚單月營收逾30億元",
-   "source": "FTNN 新聞",
+   "source": "FTNN 新聞網",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2aExvczJfWi1mT2FFTlBzWWJtUTA0NTQzYlVVdVFuTThkaFpETEgwM2k3OGhUUmdYNVNpcnp0U1hXcGtyVVVYbEtZOA?oc=5",
    "date": "2026-08-19 21:15",
    "cats": [
@@ -70,10 +52,10 @@
    ]
   },
   {
-   "title": "【12:13 即時新聞】力麗(1444)股價小幅走強，受紡織股補漲題材支撐＋法人近日偏多回補帶動低檔承接",
-   "source": "cmnews.com.tw",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblIzTzA0MVRhTE53RXhPS0d0WHY1NFhlUDNETm9CMTRLMjd1WXFzVnR2a19SdzU0NFZLNDZ2SmJZbzA0eHBlSEVabUo5cnZqUzluLVVvYzI3OW5ZeTFSWElkV3RDM09DdFdpd0NKTHE1YXN4MVR3RlFHdFhrNU8yUUluMHBnYXZKZDA3YlRn?oc=5",
-   "date": "2026-08-18 15:00",
+   "title": "討論牆 | 〈熱門股〉成衣雙雄財報利多加持 人氣回溫股價強彈",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zSGcyd1RENXliMFo4Y3drRmlXSGE2N1laZTBOQVlFQmZVYWFKaXpMeHNwc015YjVPSFZqX2ZUT1RLNV81SXE4NFpoc0FnOGRid3NLTHRJTHUySUxoc1JtZTBoNHo?oc=5",
+   "date": "2026-08-19 15:01",
    "cats": [
     "stock"
    ]
@@ -88,19 +70,10 @@
    ]
   },
   {
-   "title": "轉型見效 紡織業Q3前景可期",
-   "source": "chinatimes.com",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsalFGQkNtcDZNMHhqUEY1OGFuNE9SU1VqSDhRb0t4TWZZVHFnOXJGOHZxUnhxLV9fUmpscVZ5aWJ6UkNkSUxVcFBOZGZGUWNTRXJGX3hVZ0YwMjhyQ21GakRuSE1OdlRrTE8w?oc=5",
-   "date": "2026-08-17 15:00",
-   "cats": [
-    "market"
-   ]
-  },
-  {
    "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
-   "source": "moneyweekly.com.tw",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LR0hyV3htNkd6NDRMeXUzMDBnbTFBMWZ6TllvdGhEYlJCYnNHdkNGVTd5QUhEVEx0MXNVUHdfLUtQbmZQY29lbkVJYzBobXJMNVg4a1ZacDgtb05jRmVna3FLM1hka3NaYl9BRXUzUQ?oc=5",
-   "date": "2026-08-17 15:00",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTUtPYWRCV2UxM2ZOX3I1V1poUTljQ1JhbW83ellFZ3FycDZWeXYzM0tHanJYcDc4TVBQZlBSZ19FN2FlZGxtaGxTdDJGZjNKeGFkdlRaT0l6TU93dmhJXzRDTlY1dkNaY0w4WERPWW5fWEQtTmI2TDB3ZDc2b2JCUFpLVW56NkhLU2U4ZTRZN1hRTFZWdzUyQTJiaTJMaUllWmxDenplVnlpNnRmVmhvRllKNzNqNDlsM21LbHNtVGl6NWxfVF9QRV9UQzJJQTFDa19fQUUyZUNXeXlKN2YxY3BYU3FBR1o0emlKMGpodmEtcnRSc0lidTFoSWNjNHBubElWMncxaHpWNmp5cnNDc0JRV2ExLTVVMk9yV0haZmx4Nk1hcl9Kc2F6eWF5cVAtMDkxTjA5YUFtNi1sbGdhaTdyNEsxNGExY3pzQlZfS1JfN0E0aWYzaUpVR09oeDBkVm9yRTZQQm1HRmpsVG0zRS1qeXZNMVVmM3Y4ajNqSQ?oc=5",
+   "date": "2026-08-16 15:00",
    "cats": [
     "trade"
    ]
@@ -127,7 +100,7 @@
   },
   {
    "title": "「機能布大廠」Core Item訂單發威！7月營收飆77％創同期次高 越南擴產可望下半年放量",
-   "source": "FTNN 新聞",
+   "source": "FTNN 新聞網",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LT3NKbmI4dlhONG81VVdxMDh6Q0p5cXZNdzNrQmJIMXVfcWNwYkxCYUpfTHNDMmVCMlBVV2VEWUIxWWVGd19LQ2V6UQ?oc=5",
    "date": "2026-08-10 15:00",
    "cats": [
@@ -146,6 +119,16 @@
     "market",
     "tech",
     "green"
+   ]
+  },
+  {
+   "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNMXpSMEF6eF9qN0wyOXNLTlVSUzl3RzkwOEhTS1VJR2JVZ2dVRGRiLUxsNnFzeUFRM2lZbXlIaG1KM3F5MUIxVFpxdnVXZThGWVJHeDRza3dLQkRIWEIzZFJ4el8tWUpTSldVX20ydkhuSE1aRVJJcDN3WHEzaENRR0c0OWpTVlZPbzlCU0RhNWk5Xy1idnVDRjI2U0JPdWlnbUJSSkRVQy1rQjdIZzc2TmZ2d3NBWFRlWmR3V0tVWHgwdy1GNGRXZ0tJSUIyRjJKblhhb1I5dGxuSG5FOXRQa0lSSEg3ODJXOC1MVldoZTd5UlFVTUQyeERva1BrNFFGZHJ1Z3p5NVFFdGlaWE9wRTFQRjJibUtZbFVNUGpObnU2OHYyQ1N0MlhmOFB4a2w4bDhvMVBYY2tHS2NwNmhMOUQxblJ2eUw1Ymk0RVJRVFdEVEtoUk1yZWNSd1phUTFTTmFZRDE3WlR5WDQ4a0VEODBfV0ozYmZJZmdLaGtrVWNPc0M3M184UA?oc=5",
+   "date": "2026-08-05 15:00",
+   "cats": [
+    "market",
+    "trade"
    ]
   }
  ]
