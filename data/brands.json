@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-03T16:53:29+08:00",
+ "fetched_at": "2026-09-03T18:51:46+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,16 @@
  ],
  "items": [
   {
+   "title": "Adidas CEO Confirms Special Germany Farewell Kit for Nations League",
+   "source": "Footy Headlines",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1prTkRhSUFFN1oxOWo1RHAxV2ZKUzhxeU13Wmc0LXNvQ2h2ekU3NXpuT21penJ4STR4UV95ekU1S056bTNDRHluQWhLMDhjQ1RmdnVlU3duUEcxdTNxX0REM1JfRXNPZnY1V28wQjhBNlgwRDlnd0gxRFZ6X3paN0c1NmVhOEZwaFJXWTVLOF9SWlU5aXY0QUVDUFJ3dG5fQlkwYVV3cDZrcGxVSkZ4eGUwcUI?oc=5",
+   "date": "2026-09-03 18:34",
+   "lang": "en",
+   "brand": "adidas",
+   "brand_name": "Adidas",
+   "region": "europe"
+  },
+  {
    "title": "【即時新聞】特斯拉(TSLA)無方向盤Cybercab即將亮相！露露檸檬(LULU)財報與關鍵經濟數據揭曉",
    "source": "CMoney",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZF9fblp2QlJoV0VLSlBPR1lIM3dSVTE5TlJ4WU5nRmRRcmVfazJMSTdWMEZwN0hnY001enc2N25jWlFEOGZnaldyaUZKVDNnSjlvcHRZdV83UEJPbE5Rc3YtUVI0eVU?oc=5",
@@ -169,7 +179,7 @@
   },
   {
    "title": "迅銷集團股價跌至近五個月低點，優衣庫8月日本同店銷售下滑",
-   "source": "Yahoo 財經",
+   "source": "hk.finance.yahoo.com",
    "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPejZEWmpqaWVGZ08xN2trSFl5N05XcUdOUk5nN3BYQ2szUjRwUnJHcVYtc3phdTNuSHdQVWtTZEJraHhITWRaX2tCU2E3OFZHWkNBUWo2VWRrV1g5WlJOYVFjN3hRbkVrcmJmUVlETC00SldSMFJ4cmlkVUlUamhLclRjRFBPaEF3M0xteTladFFpa3VabDc2cThvQXR4SVdUUlRKTVpuN2NmYk54cUYzNF9aZVJuU0VUc1UwTjl6SXJOaE1McXkzSUl6TWJRS202Vmp3VmtWeU9yVWctM1ViOVhJc3ZzWV93UUJHZ3hsTEtxT3dSRGV6TVhfY2syVm4wUVd2UG5wak1NSHdxelJ2SnpvY0xiQ19EdlRZajNJVHRPTEZwc0kyMzJkaVI1Um90NE1ta3FsMjNwZVZlaHEwZDhsYTE0UGo2WEZVdVAtSG85WXJqc0c1dTVTNFdia0poR085WURDSXVTSXZJbzR2ejMtWnA2T2VOSGE4alBhZXBXSmFpZ1NFY2h0b01vek9Ha3JDOWlwV0s?oc=5",
    "date": "2026-09-03 14:03",
    "lang": "zh",
@@ -249,23 +259,13 @@
   },
   {
    "title": "Nike: A Difficult Turnaround At A Price That Offers Little Margin Of Safety (NKE)",
-   "source": "Seeking Alpha",
+   "source": "seekingalpha.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWlOTjk5SE9nSFcwV3BhNFVmRjFkTFZ2d0VwbDBnVUZfd2NFUTdtS0ZULWxwRzZ3VlByeWswUTBSSWotUjA2Tzc5OWJRMDNNOXRSbDUwbkVCNXRhMHUyQ2p1dnNfQTBGNVR5NTdhTXc0bXNHb2h3T1gyTnpHeGV3N1I4dk9CclVIQWl5U0RaUTZ1eFZJSzlnS3hvUUEwa3BxNUdKb01oeVlMbDdJVFE?oc=5",
    "date": "2026-09-02 20:30",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
-  },
-  {
-   "title": "Shein’s $27bn IPO debut raises supply chain questions",
-   "source": "Just Style",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUV5eXRySkNOVVpYRFhhZjUybVRSUlNFdjlfUGJ0VkpSWUJ2N0htZnN5MGF0czNGUVJRNFBzcDJIQ0pBM1RxYTVpNjJrME9hRnhrT3cyOVRtODI4c1B0R3ZkUWJIX2FNTEplYUhtVDZrVXdwTjY2VU1oTzBwa1JuOFc2YXhUV3dmMGloRw?oc=5",
-   "date": "2026-09-02 18:07",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
   },
   {
    "title": "Gap Inc. (GAP) Raises Its Outlook Even As Old Navy Stumbles",
@@ -288,6 +288,16 @@
    "region": "apac"
   },
   {
+   "title": "Watch Forrester's Kodali on Shein's HK Debut, Outlook",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN04walVTZWlrYlJvS045Z1VDbHlTNGk5b3JTY01VcHpIcl9NMEVtT01ieVRKU3JwcVFMMy0xNk9BU3k1eVdDLVVYaU9XVk9mSmFXMFhNbzJ0VDRHTXhsVWpGd1BCaTFXUHhCWFM0WGRWX291cmc3M1VSZVgybExhTjh6V3dZZnF4YkJxb0xtMDUzR09tV05IaWFSMHozU0VkMHk0?oc=5",
+   "date": "2026-09-01 08:00",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
    "title": "華爾街「地雷股」警報拉響：從Yum、Nike到亞馬遜 獲利品質低恐引爆新一輪暴跌潮",
    "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZXJkLUtwRkZyeTZmWFpxa3VRbjJCNjY5ampjc1FWaEVTX3RQdHFoTU5YV0poT29WWmcwWXhZREJzZ2ppcVVHckRoQUgtM1RSWDlKc3o1UmtBYmJERW0yZk5SMlQ2elF5RnJiSDY4UHA3aGpvTUdXYzJ6czFUVF9Tel9rWXVVRFBFRzNnZmZn?oc=5",
@@ -302,6 +312,16 @@
    "source": "WSB-TV",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEcya0FEYUNvbV9xRGlkOG00ZklOM01ySDU2LWh2enJ2U25KTXI0S0g2WVZ5M0FZaXZrMkg2czI5YVdmMjVRRjRLQlROczU0ZXlTMnNjclgwM3IyeVpheksyX3FtdDNKelFQSHVhZzV0MmRlMWlLV0hEQWg0dDY4dFlEUlIwODl6enNmeEFzeDF5NndUVE9oRlVXdEc4dVZhbVFDcE5BRW9pNGlEbElMdHRNUjlzUHhNWjlEZkRxdEd3UGp4X3JHRlp30gHeAUFVX3lxTFBOSW5uWTlMQlFwSHlpMUltWUd0Z3A4d2NBN3EzUWREUmkwNXJSYWxzT0tiVmNRbzVCSDM1WlM4eTJhSVZsZkpFakNMZUpTNWM0cWlldWpRSzl2TE1sMktESDg2SG9UMnFZUUJmaHpMWmFtSWliYXZDS0hfUEFCS1JoZW1pbDl3amlpakdpaDhZZm9yLXEtZDcybENRRTJ5SE5rUEtkenViRGNhYTRnTFdZOGY0Y21hMVAzaVpCd3YxMUxXY3lnT0JtblZyVlBLQTFhRk9vekNVNDh6UjZEdw?oc=5",
    "date": "2026-09-01 03:21",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon's Next Earnings Report on September 3 Could Send the Stock Plummeting. Here's Why.",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFhnYk96bmdBRTJJSW1wdWFlUU1JaDJ3NXFNelp6VjdsOExza3NoZXk5bmpXRVdSenBYV0tDS2txTjJGMkM5NUtmWUFEREhfN1hCdzM4cGd5MHBFOEs1aS1NdUhDcUZ4SDg3Tll2MVpXM29Tckw1ZC00MHN4dGRud2VSVDNFdEExNEloR0tGNFh4UkM2RG11MHAxNDFHVm8xdkFHSXNIWXJCUQ?oc=5",
+   "date": "2026-09-01 02:02",
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -328,13 +348,13 @@
    "region": "americas"
   },
   {
-   "title": "Uniqlo to double flagship stores in Japan in strategy pivot",
-   "source": "asia.nikkei.com",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0ZQVjVOOUU5T1BrSThsUkJuTzNNa3BsckYyZlEtbGNiRnI0NEQxWUdDYWY5TWZRckhqaTJ2aHduY0tyRE4zQ1FWaloxRkdGamdscFotNTg3dDR0TDRCcU8xbkJPcndQbDZoMFBFRFBsOExlMmU5d0R5QmE1RVR6bEtIY2J3M1hDRS1iY3Ntdy0tWFE3eFBRdGwzQndXMDJo?oc=5",
-   "date": "2026-08-31 03:43",
+   "title": "Shein CEO’s wealth slumps $15 billion after whittled-down IPO",
+   "source": "Fortune",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTl8yX2NUSE5VSW5RZnlJdzJScnVFb1g1cGJ6aHdKVnZlMldldnpKVUMwUWlBeFZudEVoSl8xWUdMQ2lfSUJ2MXotYjZ6QUg0cUF3MW5hUE9ucllFUV9wU0tNWk4zaVlKeE4xaENvTld0NmFXeGVPZEcyMkVxbTJ3NXJ3UTNiUzA?oc=5",
+   "date": "2026-08-31 07:39",
    "lang": "en",
-   "brand": "fastretailing",
-   "brand_name": "Fast Retailing / Uniqlo",
+   "brand": "shein",
+   "brand_name": "Shein",
    "region": "apac"
   },
   {
