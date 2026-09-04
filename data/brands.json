@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-04T16:53:23+08:00",
+ "fetched_at": "2026-09-04T18:53:25+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,34 +158,44 @@
  ],
  "items": [
   {
-   "title": "Lululemon forecast cut hits shares, underscores challenge for next CEO",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQncxd2NKS1BCZEF2ZjZxVEM5NGt3eDljUXh3UE44eVRlelNzdW92Um9sZ1pjbFl3OFBKdFdlREdMcmJpbWk0VERxakJBNGhNT1I4c1p3UzAxNGhFVksxTEd4bjEyb0hraENQbmtXRGRIZkpQMWFOUGFCV3NUbWNMZjJ3b3FMUXpfcHpkWFM4UEw2bG1LNENQbkVDTUNaQm11MFkyb3dIUENHN2Zrc2JDRkZwWEV5cnVTbHZrLUdfcWZ1aHBj?oc=5",
-   "date": "2026-09-04 16:37",
+   "title": "Lululemon Cuts the Year Again. The New CEO Inherits a Brand Problem.",
+   "source": "Money Morning",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY2VRRXQ0MU1qY01CVEtzYUZBM0c5VFZaNlc3dWM1eXhwYnVhUzdLV2dzRS1GNWVDSzBwSVFzU3hYMlctVGtSbGFmQmxvNTI1eWFIam1HNkNmeGZpOVp4TEJvWDY2c1AxSjFvY2Q3ckd0Z3pqbjJQMDFleW40c0VEOXg0TUxLTVhmTGkwSFpmVlZsN2JIcDJLSW9Qdw?oc=5",
+   "date": "2026-09-04 18:43",
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
   },
   {
-   "title": "美股異動丨財報失速！Lululemon盤前大跌超17%",
-   "source": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wSFphYlp5R09QOHRha2g1Nkp5emVqZ0k5VXBWUDJzOGhjNDJKMlV5TldTMG9PeklQemtqTGRmWmZ1R09mTDNWQVJua1YtaXJNUlpSQTFiazN0WWxEQi1sN2JFczhMZFl0ekE?oc=5",
-   "date": "2026-09-04 16:11",
+   "title": "【即時新聞】Lululemon(LULU)財測不如預期股價跳水18%，AI帶動這2檔美股逆勢狂飆！",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1BjbUtBOGJsQlE3Q1dFZEtnbjF2UG1jVGRMSTBWY0ZydlJuZnBzVDV6ZC1VdVg3bDZqd1pXNGVSa1ZLV29WQXZVTnRmdnBqc3N2bTRmVWo4WFd2VkhiaXZxaGowX1pMYW4zYjNTdTM3bWx2a2Vza2ZCekRGR0dfQ004X0FTWWZCUHV3YjRZRkI?oc=5",
+   "date": "2026-09-04 18:07",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
   },
   {
-   "title": "【即時新聞】露露檸檬(LULU)財報失利股價重挫18%，大賣空原型Burry擬百元下逢低買進",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS1U0ZmtZdFZEeFlrMlVWLUxEQnVrMmFKS0g1ek1tYkRsZ3BNald0SjFjU0J2T2EybWJvQS1ZQXo2ZldzVmRjYVg2U3ZydGc1N0tYZUt0T0RjTmdDQS1CSlJBelp4bDRHV2dzblhCejhtT0QwTVEyc3VHNnFoV3JMS3NkMHFwWVVMTEhVRFhpeGg?oc=5",
-   "date": "2026-09-04 16:09",
-   "lang": "zh",
+   "title": "Lululemon Shares Fall 17% After FY2026 Guidance Cut Despite Q2 Earnings Beat",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRU1abk4zNFEyQWlPNElBeUZiSWp2RU1GdEFzbUxZQWQ0enQ2b0JSZVRIV2ZJdzRyQXFrVEs3N2tlVDlqUlhibGJ1OGVaREI1bUdfOHB6LXo4VDZQOF9kd2llOEktOWJzOThqQk40VXd3WGpmR0I4amRWZm1uZXZGZzZJQlVOUC1pWXJUdDVna21CbFI0ejd5YXZ3SmQ?oc=5",
+   "date": "2026-09-04 17:41",
+   "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
    "region": "americas"
+  },
+  {
+   "title": "Should Fast Retailing’s Softer August Sales Shift Views on Its Demand Resilience Story (TSE:9983)?",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORm9LYzg1TjdySGNXY3VLN1lVYVhmN1B0UVJ0M2Rib0FDWExqUExmYjhCa1ZFeXkxMG9FX0V1X3U4UVlXWEpzUWYwaWc2LUNJcGVmVGh0UzJkbVdrLWlWd0dGdFVEUHczUWpSOWxieEJNY2Z0UzB4MXdyX0ExSks3M2JleFB6Skl4UTR6T09Pc2l4Y2g4d09peDFLdXRSSXB6S2RleklHck5CTVJmcGxscDJyUnlVeUlHeWg0dVFwNGpyZmhsMXFZSk5qLTU5RGs30gHWAUFVX3lxTFBKNUJVRnI0NUdLOFVrUVA3TlpYZkcwcl9GcDFGYnNNbVgxVU1XenZCbWhyTjU2UjdVQ040VHF2bnVib0loWnpFQWVfQWNuaFo1MlBQb256MnVFNmVydGdLYjlVZ0xITExkdUIwaGNCMG52U3dzVldja0lJNzZTcmx0dGc0TFY2dDMwcHNtZG9INGp3dW40aEdWeW5jTWFjZjdudHdGT09wUHBIQnZ3bjJoVDhnc2pzVUEwdTBQS3Y1WXdLZG1VQ2Vxa04tWS1MRjIwT2dJVlE?oc=5",
+   "date": "2026-09-04 16:28",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
   },
   {
    "title": "Shein’s post-IPO valuation collapse reflects regulatory and tariff pressure",
@@ -249,7 +259,7 @@
   },
   {
    "title": "【即時新聞】特斯拉(TSLA)無方向盤Cybercab即將亮相！露露檸檬(LULU)財報與關鍵經濟數據揭曉",
-   "source": "cmoney.tw",
+   "source": "CMoney",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZF9fblp2QlJoV0VLSlBPR1lIM3dSVTE5TlJ4WU5nRmRRcmVfazJMSTdWMEZwN0hnY001enc2N25jWlFEOGZnaldyaUZKVDNnSjlvcHRZdV83UEJPbE5Rc3YtUVI0eVU?oc=5",
    "date": "2026-09-03 15:53",
    "lang": "zh",
@@ -269,7 +279,7 @@
   },
   {
    "title": "天候不佳、UNIQLO日本同店銷售陷萎縮迅銷大跌",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPci1nMzhtRE9Ia2ZNWnkwYi1HRGNnaEFaOEx6RmtqSGVsNkhqbEVTdjFubDhpb1gwbXowQmVCNTN4OXE1WGQ0NW1QdXdGZ0JrdkJ0dW02ZExWT2tWY3lId1daVWFMUmN5Q29nTjVabmQ4eVZBdG1nUUozamRBcUdxVjlLZEhVUHNKb0twQnhjQkxQUQ?oc=5",
    "date": "2026-09-03 08:58",
    "lang": "zh",
@@ -298,16 +308,6 @@
    "region": "apac"
   },
   {
-   "title": "下週展望：關注戴爾（DELL）、博通（AVGO）和露露檸檬（LULU）的業績；美國就業數據及加拿大央行利率決議成爲焦點",
-   "source": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzhBTm15NDMteFV6aWg4U21PZmFWLXpEeHNvZmhEOUxZeTI1d3ctLWE4SVZ1bzVHenpfMGxCRklMcFJHbC0zekVhSFA3RzNQMjliT28waEY1MkVneWVvRFBPaUZKbENsa2taLUxBN21LTDQ4QUN4UThyV1lnTnJGS2s0TW9mSzNiRnpoeGVROVlxOTJhc0NvSzYxYWFZdkxpYlVDeUl1U1RERURHakE?oc=5",
-   "date": "2026-08-31 10:26",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
    "title": "Shein CEO’s wealth slumps $15 billion after whittled-down IPO",
    "source": "Fortune",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTl8yX2NUSE5VSW5RZnlJdzJScnVFb1g1cGJ6aHdKVnZlMldldnpKVUMwUWlBeFZudEVoSl8xWUdMQ2lfSUJ2MXotYjZ6QUg0cUF3MW5hUE9ucllFUV9wU0tNWk4zaVlKeE4xaENvTld0NmFXeGVPZEcyMkVxbTJ3NXJ3UTNiUzA?oc=5",
@@ -329,7 +329,7 @@
   },
   {
    "title": "《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年",
-   "source": "MoneyDJ",
+   "source": "moneydj.com",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVRXYnhRbE1lREVyWGM2S1A5UFRfME5CNjM4aW9Lb21BYXlMcThxWUxocWJaT1JaY1kzOFpIRWtaOGphVDIyWWREMjFSb0F2aHhKRHpnX2s0ZlV6Y2xZNE5ic2VoOGpXdDlselpMR2NrMXp1MFd3MWRyRmhiTXZjblVETzl5QXRTcmQzMU4zbjhPZw?oc=5",
    "date": "2026-08-25 15:00",
    "lang": "zh",

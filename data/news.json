@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-04T16:53:21+08:00",
+ "fetched_at": "2026-09-04T18:53:23+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,6 +32,15 @@
  ],
  "items": [
   {
+   "title": "國盛證券：7月中國服飾出口提速增長 紡織製造2026H1個股業績分化",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmhTcWRoZDctaUw0WE9hSHNWTnU2akkwcWVYOGMzLUNlUndhVU4yUWlraEhGc2s5SHBINlZhaTBVWU4tc3FGNmNsTzI5aEg2WExxeW1aeHlPVmpoWTlsc1NMc3pUS2x1bFZKM2FETDZTd3Zxbng1d2RHS25JRzNKNDQxMEU0NUstcVBHY01pc0lZWm5JeTBKMndhb2JLdXpTdzlXUFVqMEotb01PdmttRUE2akxENENHZlE?oc=5",
+   "date": "2026-09-04 14:31",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
    "title": "國際紡織環保重拳來襲！「瓶到衣」將終結台灣紡織打響七成市佔保衛戰| 永續ESG",
    "source": "三立新聞",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Xc2JuMVlxdkQ3aDNFbG1yYjFySVg4Q1ZxeXBVVUg0YmRfSW16dmRUTTVTT2d2VWhlMjJJeGJMTHRQSmctRkxzVw?oc=5",
@@ -50,16 +59,6 @@
    ]
   },
   {
-   "title": "《商情》獲利了結 08/28美棉回落",
-   "source": "富聯網",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2dIX2lycVkzWDBFR2JaUVBHeld3VWtQWG9xUDVYUEZhaGUteUVmdko0dG9PNE9ZZnc1d0xQTGNKazJZblViSGFhNXh0MmwzQ18xTDF1RHItcFRDNGZJd1E5djJCYl9nampyaTZnbkxqcXFuZUxBazdqVXYza0NJWkZZZXFyRUps?oc=5",
-   "date": "2026-08-31 09:28",
-   "cats": [
-    "stock",
-    "material"
-   ]
-  },
-  {
    "title": "孟加拉力拚半導體產業轉型 擺脫成衣代工邁向高科技製造",
    "source": "樂聯網",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB2bExlRTJPVkFsYzljNWluT0JyYzIySDIwSFp1ak5ndVE5THNUUUdrcHIxTU80R01KZG9XMTVrNXRTWXNOb0Rhck1zTQ?oc=5",
@@ -71,7 +70,7 @@
   },
   {
    "title": "JISOO同款「尼龍包」找到了～韓國小眾品牌，低調設計名媛也愛揹，價格還很甜",
-   "source": "女人我最大",
+   "source": "woman.tvbs.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zTWY1TWNwSWlteURWaUVsMjJXZXhHellhSEtKbjEyMU5mUm5TRW1neWN6TTFvcFJuUlIzSGVCWlJsSV9CZGJ0QjQ4TXV5Y3hw?oc=5",
    "date": "2026-08-28 00:17",
    "cats": [
@@ -90,7 +89,7 @@
   },
   {
    "title": "討論牆 | 〈熱門股〉成衣雙雄財報利多加持 人氣回溫股價強彈",
-   "source": "today.line.me",
+   "source": "LINE TODAY",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zSGcyd1RENXliMFo4Y3drRmlXSGE2N1laZTBOQVlFQmZVYWFKaXpMeHNwc015YjVPSFZqX2ZUT1RLNV81SXE4NFpoc0FnOGRid3NLTHRJTHUySUxoc1JtZTBoNHo?oc=5",
    "date": "2026-08-19 15:01",
    "cats": [
@@ -135,7 +134,7 @@
   },
   {
    "title": "紡織股有哪些？台灣紡織業轉型方向？紡織業完整介紹！",
-   "source": "stockfeel.com.tw",
+   "source": "StockFeel 股感",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0dMVzJkd1g0Tlc2OF8xTXpUbUxLd0QxSE9fTHBhWW5ZYTYwbjJ1clFnY2ltVmpKdUExbkwxcG5jenZUUE55cHpTOUdDMUQxcEVtejNkaUx1ckVNSUVMVC11VmhNaE1rX3EyNTNtTmVLcVlTNVd5ek1qQk0wY1hnTnRnZ3Z4R3dLM0RNWEhWcUF5U1h4bVRXamxCSHRIczNtaDN3QldjRnBueERZRkFnVlZQaw?oc=5",
    "date": "2026-08-13 15:00",
    "cats": [
@@ -185,7 +184,7 @@
   },
   {
    "title": "一片鳳梨葉翻轉紡織業！台灣品牌打造永續新纖維，掀起時尚綠色革命",
-   "source": "女人我最大",
+   "source": "woman.tvbs.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sRFBBaXQyTUc5UlRFZTZ2N1o5RS05a3NpZjFyaFJqcWx1NEVyRGktckxhcThMQlhvUjl1TGNsZXI2aXlkbnlpWEI4UzlWbjE4?oc=5",
    "date": "2026-08-06 15:00",
    "cats": [
