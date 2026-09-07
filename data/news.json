@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-07T09:31:01+08:00",
+ "fetched_at": "2026-09-07T16:55:19+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -51,7 +51,7 @@
   },
   {
    "title": "關稅牽動成衣版圖 台灣牡蠣殼將穿越馬達加斯加進歐洲",
-   "source": "經濟日報",
+   "source": "money.udn.com",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jZl9oQUZudEJOR1o4bGZkSmxsZHJJeHBaMzQ5UGZXcmdMY18yU3p1bFB0SVBkWl9Sck5CSnlGdXpzN1dFSkduVFpUaTF5UEVtcVJuUUJwZ3NXNHhGMG1F0gFfQVVfeXFMT2NmX2hBRm50Qk5HWjhsZmRKbGxkckl4cFozNDlQZldyZ0xjXzJTenVsUHRJUGRaX1JyTkJKeUZ1enM3V0VKR25UWlRpMXlQRW1xUm5RQnBnc1c0eEYwbUU?oc=5",
    "date": "2026-09-05 21:42",
    "cats": [
@@ -69,20 +69,11 @@
   },
   {
    "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
-   "source": "商傳媒",
-   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOaHpXVy1RX3QyQS11NVhjS0RUYzBjSjFUTUl6QXhEU1ZBVXNVM1ZHUzg2WkQ2ZFJ6T0tfY0hhcnpGWHFrZ3Bjc2pUVEg4elg5RDIybjY3dFk2TXlBaG1lT3hWUXVOSTd0eFJJTDFSa0NWa3RSQUtCWGNRWW12djdqUDRkVW1JdEUtWVNZV0tpZFRtSjBVMXlFLUJMTlg0UjJhYjEwMDFiaW1wNFBLZVFDcnJXdEtSbmxaZEVacXBBaVgzdWdtdUU0Xy1hMzBDR002OXVOTFAyaWNJU2p1bkZGZ1FaTEE4cEtQTEZoMkFEbnhKU1dnWVdMeTZyTHhMVTNHRTYtcHAzTnZtaWQwR19paVh1cVFGLUNzVExMR01YcWFCSEtKMkx4aENfNWdxdnIyTkZxX2lfbm9wbTVoVVdldi16a2lKcVlhNFVnamt5aUwtMHo3QzhUNlJvcFZBQU1NRHJKU2QzQzNxb0laczBGOHpFZ1Rwdlk?oc=5",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
    "date": "2026-08-31 16:46",
    "cats": [
     "trade"
-   ]
-  },
-  {
-   "title": "JISOO同款「尼龍包」找到了～韓國小眾品牌，低調設計名媛也愛揹，價格還很甜",
-   "source": "女人我最大",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zTWY1TWNwSWlteURWaUVsMjJXZXhHellhSEtKbjEyMU5mUm5TRW1neWN6TTFvcFJuUlIzSGVCWlJsSV9CZGJ0QjQ4TXV5Y3hw?oc=5",
-   "date": "2026-08-28 00:17",
-   "cats": [
-    "material"
    ]
   },
   {
@@ -90,6 +81,16 @@
    "source": "Newtalk新聞",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
    "date": "2026-08-24 15:00",
+   "cats": [
+    "market",
+    "stock"
+   ]
+  },
+  {
+   "title": "H1獲利年增76%！「老牌紡織廠」獲三大法人連6周加碼 股價周漲近12%站上30元",
+   "source": "FTNN 新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oRHQ3cllXTlRtb1owOTNXb2RmT1pjUGtxU1JJaVYwTXV3OEc2SEFyT3hhZURFZXdBSjFZQWdMSDBQT1UtYjF0U2NBbw?oc=5",
+   "date": "2026-08-23 15:00",
    "cats": [
     "market",
     "stock"
@@ -106,15 +107,6 @@
    ]
   },
   {
-   "title": "【12:13 即時新聞】力麗(1444)股價小幅走強，受紡織股補漲題材支撐＋法人近日偏多回補帶動低檔承接",
-   "source": "cmnews.com.tw",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblIzTzA0MVRhTE53RXhPS0d0WHY1NFhlUDNETm9CMTRLMjd1WXFzVnR2a19SdzU0NFZLNDZ2SmJZbzA0eHBlSEVabUo5cnZqUzluLVVvYzI3OW5ZeTFSWElkV3RDM09DdFdpd0NKTHE1YXN4MVR3RlFHdFhrNU8yUUluMHBnYXZKZDA3YlRn?oc=5",
-   "date": "2026-08-18 15:00",
-   "cats": [
-    "stock"
-   ]
-  },
-  {
    "title": "儒鴻法說》成衣動能升溫！Q2營收100.86億元創16季高、EPS 5.66元！洪瑞廷：2027上半年「深度樂觀」",
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVFd4RHRKQXJxZTRrY0dVZzdnc0pzaEphSlNrTE5VMExwRy10d1pRZUIwdkRld0xyWlR1T0lMSS1TVWllNURYZDByX0RRSTBrNERjQmU3UTBfRDZTOWlaOFpvT1pWYjh4Nnk4YzFNb0YyZjh5eGpqX0Y4T0x0bkFtOFdTdnlYUTl2bW96ZTR1NURrZkFGa3JfbE5pdkxFbGYyaENlM1NrSldFeHlwdDB3dEt1NUEtMFNocHZjc0trSG12bHl3aC1mLXFTR3hjbzBQZEpZUnYtbktVZjlmWlFCN1g5RVdVYnAwMnFoUnotT0N2LXN1cUc2MnpGRlhLNG1rYzB0QWpGNmFXamh4ZXg5aGpncHhoMzhDUy1BcDEyZFB6anhiSDB4ZFloMTE2QzhQZnJmMg?oc=5",
@@ -125,7 +117,7 @@
   },
   {
    "title": "轉型見效紡織業Q3前景可期",
-   "source": "ctee.com.tw",
+   "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjTXd0U2dDMnltcHg1RTRIOHE1ZkxHUy1pMHJSTi1xQ2F2WGF4cUVpQkNsZ0xUOWZyUjRncmk0M3hHcGhfNmRDSG1reUZnM1VQdWR1aW9kOGczQ1FmUWQw?oc=5",
    "date": "2026-08-17 15:00",
    "cats": [
@@ -143,7 +135,7 @@
   },
   {
    "title": "成衣廠營收靚下半年看好",
-   "source": "ctee.com.tw",
+   "source": "工商時報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IRUN1dTJLSzBrekxwOWhzUTdfVGcxTF80cjZ5Z3dUSmczeEM2djV6VWpybnBmS0lGNHJ6S1hqTEJkeHJuTzZ5WjdpbEVNbi10TUt2MmZmUzFlMDNCLTdj?oc=5",
    "date": "2026-08-11 15:00",
    "cats": [

@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-07T09:31:04+08:00",
+ "fetched_at": "2026-09-07T16:55:22+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,10 +158,40 @@
  ],
  "items": [
   {
-   "title": "I Predicted That Lululemon Stock Was In Trouble Ahead of Earnings. What's Next After Its 17% Drop?",
-   "source": "The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1FjOFhpS3JPaTJ0VzMweFVOX2JXdXYxMjJvUUF4Wl9fa1lwRkNwYVNHVjZXeUN6aTRwNDk0TWFEZlQ2NlJtWHdLc3ZWZERTaHp0bW9RRlc3SzNPczlGazFFTnFSdFhTOVJwQjEtQ3VNMVlYZGR1TS1VUmlFTWJzUk1OTmdtMEs0aEV0R2ItN2xvZVFkNExoZg?oc=5",
-   "date": "2026-09-07 06:33",
+   "title": "The Nike First Sight Shadow Closes the Trilogy With Sculptural Slip-On Build in \"Light Crimson/Metallic Silver\"",
+   "source": "Hypebeast",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzNsWV9qSXdBU3pKRC15SzJ5OTVWVG8yME5GZzB5VVh4LW55bGF0emRkbGtyckdQcTREekRSQVVQWHRCU2pJU1E1dFVxbV9xX1BXeW94RDl4ekFsTlZWWEktR0JoeXBrUklKVW9hOFN2bXFtamhDczJqWEJXM1hFTGQyOUNBUFZpMERSanF2YUpnS183VnVMZzZNaVd2cFc2eVRhZXlVMmIxQQ?oc=5",
+   "date": "2026-09-07 16:51",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon Fell 18% After Earnings. Here’s How Much the Stock Could Rise in 2026",
+   "source": "TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFNiTlhlZGJfZUtZUk54dzZERmxLZDZKUkRVYnNRc2V4TTBvaGpiM1Y1N1VMQW92am9OOTR2T1FhTnpGZ3drbGt6LWN2ak91VTJBSW1JM1MybGJ1RGc2YzhNUS1lWFAzaUVpZVRmcU5nUDhwb3NmaXZ5SkhpVmdIV2dIWTgzLTVObTVlZXBzeUdUYjJZN2lZWGpYcUFiMHFjNF9Zcg?oc=5",
+   "date": "2026-09-07 15:42",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon lowers outlook as profits dip",
+   "source": "Drapers",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRnNqMFhsZWNpTnZ0U2lwNmlEdU5RMkhEUEFTWFFsel9jOXdkMDd2ZFhRRHBvZ0U1eFNOMkU5OVduUDVYSlVRX3BwS2NNakQtUWtZUkZDVmxPY3EwN3BlUHlwQ3AwWkgxaDFFUEdnUVJsaC1FUEdzNUd0a1hqcEdyRUR3eEljVllNRFJzUHZqTXhISFpMbXdESzlrTTZLTE01?oc=5",
+   "date": "2026-09-07 15:18",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Lululemon dives on risks of prolonged turnaround under new CEO",
+   "source": "FashionNetwork USA",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnl4R21qYzB6MXNSemdRVHFvY25EVHhFci03cEEzQ0gycThIcHg5d21zdGJxUnk3WGQ4T3hsWlFlLTE5SFlqUnVNb1d1eTFlYnA3M2puemtzTkFuMU15MHpIcXBveHd5cWZMX29LdkVmc0d2UllUc1kyS3Q0MWlYbDdxUzBZcVpFaVVXVzlxcUwtd25odG5qMHBtT3gwRDJHa0ttc056eWVoNmt5MUlV?oc=5",
+   "date": "2026-09-07 12:08",
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -178,38 +208,8 @@
    "region": "americas"
   },
   {
-   "title": "Gap closed 350 stores and now has an Old Navy problem",
-   "source": "thestreet.com",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzhHQmV6bW5DUDB0aXNoLU1zX3ppNzhFTGNEU1Q0bC1Oek9vZW1wRGJ5THZyZlNQMUxPdWNLaG40WndtSTdjWlgxdXU0d045OG1OZW1DNlNfcjlGcmswUmRfVlhEOVJTM1VlQ3AwWTI3Nl8zbnpxUmtvOEwwWHFuRGZqTEU2MmM1TVQyOVBiX2VlcUFu?oc=5",
-   "date": "2026-09-07 05:20",
-   "lang": "en",
-   "brand": "gap",
-   "brand_name": "Gap",
-   "region": "americas"
-  },
-  {
-   "title": "SHEIN IPO in Hong Kong: Has OP Margin Bottomed? If It Has, SHEIN Is Approaching Value",
-   "source": "Smartkarma",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjU3aWVCckRkTHRJY25tVjFNRFlvN2x4TTFDZWk2eW55SWY3ZHRBZGVweXpjUGdYV1hGdUtsRjVpOUZEMi1ZaWR6T2NrdmtRYllXMVVKN3lUeXcxVHlNRUp1NWd1S3FFVFFCRExhVUt6N01LV0NPQkt6VF92N0RkMGdOSWxaVldfbVJaQTlJNkozUjE5cEhJYkE3dFpDak9IZVBoaEVuNC1DMTk1dlpCN1oxNWJQNndQNnc?oc=5",
-   "date": "2026-09-07 03:04",
-   "lang": "en",
-   "brand": "shein",
-   "brand_name": "Shein",
-   "region": "apac"
-  },
-  {
-   "title": "50+ best Labour Day sales in Canada — shop deals up to 80% off at Best Buy, Amazon, Adidas, Crocs & more",
-   "source": "Yahoo Lifestyle Canada",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2QxNy1ROWY1NkYxN3BSelFrUG1OdWxfS0VXc1Q5ZE1MVFMwXzNlNG80VFV4ZV9tMmdhOFhta2NxLUozN1d3SFVXUm0zZDlobDV1b0NOaDNIVW5TRmlVcU1hekJva0NUTFhLYVpnYjRlbkhGTTlvVGZLcHR3UFNqeFRjd2VudUpSdDhjR1pxRlViQlk0Tnl6aktmc2xTME9XVi1tcjdCTDVlajhnQlhVLUV1dkxqZG1yaE50WW56bFNFeGt1STB5REpvbVRPNFNIX2JoZURn?oc=5",
-   "date": "2026-09-06 23:04",
-   "lang": "en",
-   "brand": "adidas",
-   "brand_name": "Adidas",
-   "region": "europe"
-  },
-  {
    "title": "Lululemon財報利空重挫，股價創8年新低…Michael Burry攤平損失持續擴大",
-   "source": "finance.biggo.com.tw",
+   "source": "BigGo 財經",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wOW1oUTVJU0I0aDJUSUNlVzJROENqZmtVUV9VX2ZzM2lPOUg4dzVWMGo5NnczakZ3cUlvSmItcWl5TlpmTkg0UTZHbkVvNGxUNmZ4eWxuWUZZU1lESHN6UWppWVVIS3pIdmdnaEYyZUNCMnFVRTM2M0dB?oc=5",
    "date": "2026-09-06 17:25",
    "lang": "zh",
@@ -218,18 +218,8 @@
    "region": "americas"
   },
   {
-   "title": "Apparel Stocks Gaining From Lower Sourcing Costs Like Under Armour Stock",
-   "source": "simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0FMOE9ZZ3hvX3hPbTJPZXhCM2ZJODZBTGNteC1KaUpXVnFJLXhtZVpwQVZLZWczbzUzV1pua3VkOGN1V1BSUWJrUHlHdldDd0c4YnpXRy15R2pFRWdIYUV3TkNOTURMZ3ZCTGt0RDQtZUpraUI1RkpLaDUwcm9QVjFNQi11OWdxS2R5YmJjaXJ6S1RNU1NnaGU4Yl9EM29CRl9PRkxUcTdpZVZCRGVjblFicWZnS25sX1FvZHdoY1hydXBFSTVUNi1VeWVpZ1dKRWfSAdcBQVVfeXFMTmZSRFhyRVZYamxjNm1BVHZVT1R1LTlNOTlLVG90dnM1ZjBQT2NycU1fXzF6NmEwVGlLRG14bFRaZDZ5NW9Md1RpUHVMSV92b2I5QWMwWTZDOURXV0ZmSFQ0ZWVDNDdTb0RXc0tCRjJDZ0tZTFppUU1Qc1prM0p2ZndMQjFraDlTS2VDZE1PbkwzLWRXdHhsaVFLdTQtRDdrdkFPbjViMjBMZFA2MXZZLWNkWmVkMXVwNjRjb3BOS18zQVFmZkFSdlNNVklZN2pkRVdJb2dvTDA?oc=5",
-   "date": "2026-09-06 16:21",
-   "lang": "en",
-   "brand": "underarmour",
-   "brand_name": "Under Armour",
-   "region": "americas"
-  },
-  {
    "title": "【即時新聞】Lululemon(LULU)創辦人傳離婚牽動股權，財測下修致單週重挫17%！",
-   "source": "cmnews.com.tw",
+   "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0dQVi1ub0tobjhBcXR6RlQyZWhOWlZ0TVVxUHVJLVJ5MmFLeHYyX0xzaWlwdHRIOW5qd0ZDdUQwTHVacjdoNnFtUTlNVE1FVmxoYkVYNVN5bVVEbVF6THZlR081aUdrelNUSWtmdjBiblVVdUhKNVBPR3ItOFY5V1RvYlBDdElvdHVNbEFiQzI?oc=5",
    "date": "2026-09-06 02:58",
    "lang": "zh",
@@ -249,7 +239,7 @@
   },
   {
    "title": "lululemon athletica (LULU) 股價暴跌16.7%，2026年展望下修，投資者信心受挫！",
-   "source": "cmnews.com.tw",
+   "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzExOXZQQ2dwNHA4T2lmNVFxWEhiMHh1OHdLOWVQTGZrZ1dRVkpfaXhWMWhUNk5kYVUyWkhqelJJTVVqdHZOLThRaUp3UEJzVmo1QjBmek52bWFkd2Nfbzl6OF8wTEQ0anZRdGh5YmVsZDUzcU9kQXU1bm9Pdm1ua2Jsazk3QzZlWmlZMzZ3?oc=5",
    "date": "2026-09-05 13:07",
    "lang": "zh",
@@ -269,7 +259,7 @@
   },
   {
    "title": "華爾街震盪！週二三大焦點不容錯過：Nike年會、AtaiBeckley股東投票及GameStop財報",
-   "source": "cmnews.com.tw",
+   "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEx1dDZXTXVCQVhQOS1OalhRWno4RFVWQ203OUI0elpiT21tOVk1ZXdKQWJLUl95WU5FOEFMWVlaQWpIT3NMWlhKUDU4dWZmSFRzMkVXTkVMYXZrdHJvZ19lSHhtSHZzSnl4QzJhNHFtb2hfeVlYbmZDcjUyeFZxc3dBaWZFMG5QcjZ2aE53?oc=5",
    "date": "2026-09-05 06:32",
    "lang": "zh",
@@ -278,18 +268,8 @@
    "region": "americas"
   },
   {
-   "title": "Lululemon dives on risks of prolonged turnaround under new CEO",
-   "source": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQncxd2NKS1BCZEF2ZjZxVEM5NGt3eDljUXh3UE44eVRlelNzdW92Um9sZ1pjbFl3OFBKdFdlREdMcmJpbWk0VERxakJBNGhNT1I4c1p3UzAxNGhFVksxTEd4bjEyb0hraENQbmtXRGRIZkpQMWFOUGFCV3NUbWNMZjJ3b3FMUXpfcHpkWFM4UEw2bG1LNENQbkVDTUNaQm11MFkyb3dIUENHN2Zrc2JDRkZwWEV5cnVTbHZrLUdfcWZ1aHBj?oc=5",
-   "date": "2026-09-04 23:55",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
    "title": "鉅亨速報- Factset 最新調查：露露檸檬(LULU-US)EPS預估下修至9.66元，預估目標價為102.50元",
-   "source": "TradingView",
+   "source": "es.tradingview.com",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9odnZhOVhlcjlwT2tmdlBpZXl0c2hsUVVGUFRhOXE3Nkd2bkdsdDFGdWhqZkwxeHdBQXBwSDlVeDhyS2tIeE9IR3JjYk93Sl8yeEVFd1IwRHo0cEVvVTNOTG1hMWs?oc=5",
    "date": "2026-09-04 22:15",
    "lang": "zh",
@@ -299,7 +279,7 @@
   },
   {
    "title": "【即時新聞】Lululemon(LULU)財測暴雷跳水20%，美股盤前這幾檔爆量狂飆！",
-   "source": "cmnews.com.tw",
+   "source": "CMoney投資網誌",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlVNc3M2bFVIN2xWRUJQOFlFLUt1RmFYNmY0bXVicjJVaFJheGJETnNXZ0otalN6emJ6M2dPdm1saGdFTEdxV3I1QnZmY2JCWk4tbHVfUXoyYXdBeFhaTjdzbzhLd0NPdDdzNjNSTExSbjdzTjVZOG9LOVNBdlZ6ZWljV3hpTENaWTBaMEtkLS0?oc=5",
    "date": "2026-09-04 22:04",
    "lang": "zh",
@@ -328,6 +308,16 @@
    "region": "apac"
   },
   {
+   "title": "CPI走高壓縮消費力，Lululemon與Costco的銷售降溫會擴大嗎？-孔明投資長",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nMkxYUURxaXY5My02MEFOREVoSGFickt3Zmh3Uk9iSmYxcG1UNjBfVEpPVHR0WHRSd0t2Mzc5eVNieUJ6VWJQTUprdWxQNDFqZTBYUldrNTdPTFlUTWZQbzlTcng4WTJTQ2VHejc4VDdKMGRjdnJFcGJrd2xqdlk?oc=5",
+   "date": "2026-09-04 20:59",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "Shein’s post-IPO valuation collapse reflects regulatory and tariff pressure",
    "source": "TheBanker.com",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1POHNobzRTaHgtRWRiakRJQXZFcThjYmlBNGRTdWNDUlROanVfUVlpSlJkbV83ZEZYbXhXR1JmX2ZKU1Z1VVpkeXNBeXdlYVZuallMdVY1RENYYUx5OE12UVdYcnhHUTBacWMwVWg0UWhLX1loc1RaLUhn?oc=5",
@@ -335,6 +325,16 @@
    "lang": "en",
    "brand": "shein",
    "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "迅銷集團股價跌至近五個月低點，優衣庫8月日本同店銷售下滑 作者 Investing.com",
+   "source": "Investing.com 香港 - 股市報價& 財經新聞",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96ZkRIR1ZZTVloRDJjSHpSUmgwTlRoVEVZeUlreGVZVTFldE1NMTM0ZVBFM21pRlRra1BLaFAzUDY5T2w3dk1pUGVETjJ2b0tvcjZTb3ZibHd2QnVaRWt0dDRmZXVTdEtTOEhEdFdTNTE?oc=5",
+   "date": "2026-09-03 13:11",
+   "lang": "zh",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
   },
   {
@@ -349,7 +349,7 @@
   },
   {
    "title": "How the Death of an $800 Tariff Loophole Erased 70% of Shein’s Value",
-   "source": "247wallst.com",
+   "source": "24/7 Wall St.",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLVdzb01ER0FXc2xZWUJhMXhOUUdCYng5ejZrY1ZqcUxpWUR1b3c3WnF0UFVJNWV6aHFVZm1nUFNZZE40MDNETkFVZVVxVTV0YTZTa2haOG9WbzY4WTBFY2dZanRoMk9neC1fMHd1MURPaTF0ajg2WUZuQkloTUhxV1QxZXhuNGpCVE1ZY24tVU9JT3RUWE8xTHdUYWsybk9rTWwxekw3NXJ6T0xYWGc?oc=5",
    "date": "2026-09-02 21:53",
    "lang": "en",
