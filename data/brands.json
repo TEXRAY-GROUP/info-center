@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-07T16:55:22+08:00",
+ "fetched_at": "2026-09-07T18:54:34+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,26 @@
  ],
  "items": [
   {
+   "title": "From the relocation of Hollywood's 'dream factory' to the tariffs threatening to leave Shein in a tight spot",
+   "source": "El Mundo America",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fSS1VdGtjbHhDUGlERnBoY2hzUGRQbkZDNmo4dklVczloRWJXdFFaQzRSQTZmNzQtaFVMUlFUYWpWT1dCQk93a0docnhEbTNDQlhlQVlMbzNBU3ZBWk9SUWl0aExQWlRxaEdOVjF1cmFoVlRRV3ZFaG9FVWRsTFE?oc=5",
+   "date": "2026-09-07 17:35",
+   "lang": "en",
+   "brand": "shein",
+   "brand_name": "Shein",
+   "region": "apac"
+  },
+  {
+   "title": "Lululemon cuts FY26 outlook as negative commentary hits Q2",
+   "source": "Just Style",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yUklXWjlIZUJHeTltNTJkbFh5SEZoMzhIZzJoYXlOM3RUV1k2Z0JrOHFDc3g1NWNYU2xLZUpySHFJQ0tFbHgxZngyTUwxU01ISEdTRXlDRUJBYVNab0lfeGtVUFVaYk0?oc=5",
+   "date": "2026-09-07 17:16",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "The Nike First Sight Shadow Closes the Trilogy With Sculptural Slip-On Build in \"Light Crimson/Metallic Silver\"",
    "source": "Hypebeast",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzNsWV9qSXdBU3pKRC15SzJ5OTVWVG8yME5GZzB5VVh4LW55bGF0emRkbGtyckdQcTREekRSQVVQWHRCU2pJU1E1dFVxbV9xX1BXeW94RDl4ekFsTlZWWEktR0JoeXBrUklKVW9hOFN2bXFtamhDczJqWEJXM1hFTGQyOUNBUFZpMERSanF2YUpnS183VnVMZzZNaVd2cFc2eVRhZXlVMmIxQQ?oc=5",
@@ -172,16 +192,6 @@
    "source": "TIKR.com",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFNiTlhlZGJfZUtZUk54dzZERmxLZDZKUkRVYnNRc2V4TTBvaGpiM1Y1N1VMQW92am9OOTR2T1FhTnpGZ3drbGt6LWN2ak91VTJBSW1JM1MybGJ1RGc2YzhNUS1lWFAzaUVpZVRmcU5nUDhwb3NmaXZ5SkhpVmdIV2dIWTgzLTVObTVlZXBzeUdUYjJZN2lZWGpYcUFiMHFjNF9Zcg?oc=5",
    "date": "2026-09-07 15:42",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "Lululemon lowers outlook as profits dip",
-   "source": "Drapers",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRnNqMFhsZWNpTnZ0U2lwNmlEdU5RMkhEUEFTWFFsel9jOXdkMDd2ZFhRRHBvZ0U1eFNOMkU5OVduUDVYSlVRX3BwS2NNakQtUWtZUkZDVmxPY3EwN3BlUHlwQ3AwWkgxaDFFUEdnUVJsaC1FUEdzNUd0a1hqcEdyRUR3eEljVllNRFJzUHZqTXhISFpMbXdESzlrTTZLTE01?oc=5",
-   "date": "2026-09-07 15:18",
    "lang": "en",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -228,6 +238,16 @@
    "region": "americas"
   },
   {
+   "title": "Fast Retailing (TSE:9983) Faces A Valuation Test After Weaker August Sales",
+   "source": "simplywall.st",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjBmS0dtWjBSZEpmUmoyaWxRNzJPRjhPcmljYnJvVkVpOGFabENhZ2t5aUZMbmU5R1hySXRhT3dPZlo1ZXNvZkVwWURvWmdQdlk0Z3NSSUIxek4zLW0zR1g3U05zZDdOWGxtOTJyZ1lRZnJPWWR0WnZ0Q2pkSXFFNWFkdjZkWk9SRFdDTHFWUUtUa2E1b0RpM3lhek83VVQ3QnUzQ2paQkVmZ0ZkR3ZJX2tNRVFGbUstREE4bndSdXdmZTNocU9VRVIxcEstbjYy0gHWAUFVX3lxTE5tazRfemlaVU5WQTA2MjgyN3lmSHlpeERiblVVQmFTYW92WGZ2RkZVVFRPX3QydjNmTGdtaFRVZWpSd2FoWWk3U2g4NWNSVlJDVVJVYXhQSU1yY0hDNVh2VzhBQndwMDFBYmlRdXRHWVVneW82dVF6SXh5T3NoX3pwVlNpd182b1g4ZnUzd0U3RFZOcjJrekRQc0htZGxsU2F5Z2hvVnFlb2dRb09uQ0J2VE5iSjUxcXNaQkRGRGZKQzNYdmJReVFqLVNLdzVmV1dBTEl4dFE?oc=5",
+   "date": "2026-09-05 20:52",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
    "title": "緊身褲賣不動「產品乏善可陳」 Lululemon財報冷颼颼",
    "source": "世界新聞網",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMnJ6bFhTS1hmYVhyWVpRVWhfOGs3c1Ztdmx0NFg5c2hfSjlKbXNsSUtmY0l3LUVQQkt4OVNlVjhFblRFOTFUVk5aTHZWbXVXZ203bERWS096aHhURlZFeGZHcGhkOFnSAWdBVV95cUxNMTJyemxYU0tYZmFYcllaUVVoXzhrN3NWbXZsdDRYOXNoX0o5Sm1zbElLZmNJdy1FUEJLeDlTZVY4RW5URTkxVFZOWkx2Vm11V2dtN2xEVktPemh4VEZWRXhmR3BoZDhZ?oc=5",
@@ -269,7 +289,7 @@
   },
   {
    "title": "鉅亨速報- Factset 最新調查：露露檸檬(LULU-US)EPS預估下修至9.66元，預估目標價為102.50元",
-   "source": "es.tradingview.com",
+   "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9odnZhOVhlcjlwT2tmdlBpZXl0c2hsUVVGUFRhOXE3Nkd2bkdsdDFGdWhqZkwxeHdBQXBwSDlVeDhyS2tIeE9IR3JjYk93Sl8yeEVFd1IwRHo0cEVvVTNOTG1hMWs?oc=5",
    "date": "2026-09-04 22:15",
    "lang": "zh",

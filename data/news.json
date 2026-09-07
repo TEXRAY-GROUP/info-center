@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-07T16:55:19+08:00",
+ "fetched_at": "2026-09-07T18:54:32+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -51,7 +51,7 @@
   },
   {
    "title": "關稅牽動成衣版圖 台灣牡蠣殼將穿越馬達加斯加進歐洲",
-   "source": "money.udn.com",
+   "source": "經濟日報",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jZl9oQUZudEJOR1o4bGZkSmxsZHJJeHBaMzQ5UGZXcmdMY18yU3p1bFB0SVBkWl9Sck5CSnlGdXpzN1dFSkduVFpUaTF5UEVtcVJuUUJwZ3NXNHhGMG1F0gFfQVVfeXFMT2NmX2hBRm50Qk5HWjhsZmRKbGxkckl4cFozNDlQZldyZ0xjXzJTenVsUHRJUGRaX1JyTkJKeUZ1enM3V0VKR25UWlRpMXlQRW1xUm5RQnBnc1c0eEYwbUU?oc=5",
    "date": "2026-09-05 21:42",
    "cats": [
@@ -78,19 +78,9 @@
   },
   {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
-   "source": "Newtalk新聞",
+   "source": "newtalk.tw",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
    "date": "2026-08-24 15:00",
-   "cats": [
-    "market",
-    "stock"
-   ]
-  },
-  {
-   "title": "H1獲利年增76%！「老牌紡織廠」獲三大法人連6周加碼 股價周漲近12%站上30元",
-   "source": "FTNN 新聞網",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oRHQ3cllXTlRtb1owOTNXb2RmT1pjUGtxU1JJaVYwTXV3OEc2SEFyT3hhZURFZXdBSjFZQWdMSDBQT1UtYjF0U2NBbw?oc=5",
-   "date": "2026-08-23 15:00",
    "cats": [
     "market",
     "stock"
