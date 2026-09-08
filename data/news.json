@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-08T09:31:43+08:00",
+ "fetched_at": "2026-09-08T16:55:28+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,6 +32,15 @@
  ],
  "items": [
   {
+   "title": "昔日紡織巨頭，今日飛天夢！新纖佈局無人機攻「低空經濟」背後：是老牌轉型的第二曲線，還是自給自足的集團內循環？",
+   "source": "Yahoo新聞",
+   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQakZtazJ6MzhualFLTFVTQTJid285cE1oZXNlSnJvc1ZFRVBZbUJHeUMtTnVzcDkyekxkTWxmMm92YWQ0SDdJcDJDM0dtZnl1UENLd001bzRZMk14Q2VXZVJXLWJtTE1LdHhrVy1DSk9WZlZ6QlIzMEdHSmx1aFBFVjMyVzFhUWxESlRwbDlKSlFoTGhQTUFWbXVXWjVKTUNob3REdGVBR21MMEZKMW5iZVNDMFU3N1pKUmw3T1QwOXlGZ0NsNTFhVll3UHhLWEw3bHpnc2txcmZjbDZ6WHd0R2VnSTktREcxdzEtN0RUUGZ2ZU94dDNuaC1fR01oMHdQMlljQUFzS0YweE8wV1Bja3pXNkVqNjFvR0pqekJmcWN0aEstMC1kbGh4cXZBMVFFRlVMc1lGRFJCYTRFS0xWZU5ZWW55TW9fa1duX0o3ZmNqekFTVlN1Wl9TLVpwMjJlWGNzcmZ2bFcyQVJqX3RTMG1wemtSR2puR3h0WXJ1MTUwSEtM?oc=5",
+   "date": "2026-09-08 16:35",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
    "source": "news.cnyes.com",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SmRNVUJ3OTNvWDdReEhNOXdwQWdJSFFZS3h0Sjh1eHhfREZsR2RNLW92d3hyZUZQYVNBZTdOLXNoSGdoSjdFV2p5SWg3OWc?oc=5",
@@ -60,15 +69,6 @@
    ]
   },
   {
-   "title": "關稅牽動成衣版圖 台灣牡蠣殼將穿越馬達加斯加進歐洲",
-   "source": "經濟日報",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jZl9oQUZudEJOR1o4bGZkSmxsZHJJeHBaMzQ5UGZXcmdMY18yU3p1bFB0SVBkWl9Sck5CSnlGdXpzN1dFSkduVFpUaTF5UEVtcVJuUUJwZ3NXNHhGMG1F0gFfQVVfeXFMT2NmX2hBRm50Qk5HWjhsZmRKbGxkckl4cFozNDlQZldyZ0xjXzJTenVsUHRJUGRaX1JyTkJKeUZ1enM3V0VKR25UWlRpMXlQRW1xUm5RQnBnc1c0eEYwbUU?oc=5",
-   "date": "2026-09-05 21:42",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
    "title": "世界關稅變化牽動成衣版圖 (圖)",
    "source": "Yahoo新聞",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2RwU21PNDZRLXpKcDk2NlA2NDJLaHViU01BS2t2T3M4RDN6NGx3bldRU3ZoN3hheGRMNDU4TndZNEJQemlia1I3RmlNQS1IVVR2YlZXU1VhV29YZC1obG5qdE9xakRNN01Kc0dhZWVDNW9WclFjUkZUdjVYbHVzVjlFX05hQmRLTWxzaEU4R2FkejlLRTJ1a0t5cnRoalZFUnozNmlpa2dXNkFzVDBTNmw4RkhiM3FyMmRHaC1FTVNPeDJJZm1qbUx6YUVZbHNRYU9tLWpXdVpBbXJsWm9pOFczMzJGdWc3NlIyM3Rzb08?oc=5",
@@ -78,9 +78,27 @@
    ]
   },
   {
+   "title": "關稅牽動成衣版圖台灣牡蠣殼將穿越馬達加斯加進歐洲| 產經",
+   "source": "中央社 CNA",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TERNUWIwNEgtQlhYTDM3akJUSkhNb2lMdWxRdk5aa2pYVUJTTXk0YkRLYXpIRWtVT1BFcUt1UEU1RWViV2E2a3J6Ul84VlFfQnRLdDhIcjl2NkdyaGc?oc=5",
+   "date": "2026-09-05 20:18",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
+   "title": "國盛證券：7月中國服飾出口提速增長 紡織製造2026H1個股業績分化",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmhTcWRoZDctaUw0WE9hSHNWTnU2akkwcWVYOGMzLUNlUndhVU4yUWlraEhGc2s5SHBINlZhaTBVWU4tc3FGNmNsTzI5aEg2WExxeW1aeHlPVmpoWTlsc1NMc3pUS2x1bFZKM2FETDZTd3Zxbng1d2RHS25JRzNKNDQxMEU0NUstcVBHY01pc0lZWm5JeTBKMndhb2JLdXpTdzlXUFVqMEotb01PdmttRUE2akxENENHZlE?oc=5",
+   "date": "2026-09-04 14:31",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
    "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
-   "source": "PChome Online 股市",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9fWWZoRHhMdXd2eGVGZEs5UTVNdjQ0YzBqejVKMGdmeGViTFV3cU5hWXp1aFl4WmFKS2pRQWtPOFlyaG54MWVQTlpVN05EZTFvZmtJeEhJNk1fZTdqWUltTkdPYTN1VXpEWm12VlJtLVh0Yld0TE81OTI5MjJqMw?oc=5",
+   "source": "Yahoo股市",
+   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
    "date": "2026-08-31 16:46",
    "cats": [
     "trade"
@@ -88,7 +106,7 @@
   },
   {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
-   "source": "Newtalk新聞",
+   "source": "newtalk.tw",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
    "date": "2026-08-24 15:00",
    "cats": [
@@ -144,15 +162,6 @@
    ]
   },
   {
-   "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16% - 財經新聞 - PChome Online 新聞",
-   "source": "PChome Online 新聞",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3ZXSjBjSWZjUDBDMUN1cDA3NFpUcHIxSnFJOTNGam1qV2ZBenhGemxMdExuWUVVQ21kV2hfR3E4cVBQbFkzakFKb2s3Y29Gc0RkRWMwQkd2c25BZnN0eUk3YVN2bG5lWDhWV1RpV0p4WVBLVF9RZTN4NGlUOEJOdkw5d2hLQ0Y4Z1dtNQ?oc=5",
-   "date": "2026-08-17 15:00",
-   "cats": [
-    "trade"
-   ]
-  },
-  {
    "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTUtPYWRCV2UxM2ZOX3I1V1poUTljQ1JhbW83ellFZ3FycDZWeXYzM0tHanJYcDc4TVBQZlBSZ19FN2FlZGxtaGxTdDJGZjNKeGFkdlRaT0l6TU93dmhJXzRDTlY1dkNaY0w4WERPWW5fWEQtTmI2TDB3ZDc2b2JCUFpLVW56NkhLU2U4ZTRZN1hRTFZWdzUyQTJiaTJMaUllWmxDenplVnlpNnRmVmhvRllKNzNqNDlsM21LbHNtVGl6NWxfVF9QRV9UQzJJQTFDa19fQUUyZUNXeXlKN2YxY3BYU3FBR1o0emlKMGpodmEtcnRSc0lidTFoSWNjNHBubElWMncxaHpWNmp5cnNDc0JRV2ExLTVVMk9yV0haZmx4Nk1hcl9Kc2F6eWF5cVAtMDkxTjA5YUFtNi1sbGdhaTdyNEsxNGExY3pzQlZfS1JfN0E0aWYzaUpVR09oeDBkVm9yRTZQQm1HRmpsVG0zRS1qeXZNMVVmM3Y4ajNqSQ?oc=5",
@@ -169,18 +178,6 @@
    "cats": [
     "market",
     "stock"
-   ]
-  },
-  {
-   "title": "「機能布大廠」Core Item訂單發威！7月營收飆77％創同期次高 越南擴產可望下半年放量",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNemtDOXZpNnRBVTh0UGlQci1uVmJqSGxhQURETzZjZEkwQS0wNmZ1cUZBdlNDTlpQUllyVEZGWm1fSU9PeDg4dkJPRXZJaDlpcXNRTF9jZzFkYUtETDllVlRZOFFfZ0h5RTEySnhZNmhiaU43T2tTWVdENnhiTGMyTElpQ0F4emFhZ3dKLXZrRzE0WEdxNU1LcmtlM3pHNVpWbjJlZUtYVmpzSzVYVDhJcU5XcDFCZDZuOEZkNW1BVnlTMEFMd3lDVEwzWnBDbWo2VXlFQzhkMExMSEZzd01Kc0tNbk1ieXdodHRuazFvS25FaWozb2w3eGY3M1hqU2V5NlFxYUNKX29feDNhTmRLZmUtb0Q2VDNQYTJsWThaLWlQdGlZY1ljRHRnTDNfUHBFUnlEZ0FMSXVaRDNtSnY1QUhSSWNpUFU?oc=5",
-   "date": "2026-08-09 15:00",
-   "cats": [
-    "market",
-    "stock",
-    "trade",
-    "tech"
    ]
   }
  ]
