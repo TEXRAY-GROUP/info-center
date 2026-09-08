@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-07T18:54:32+08:00",
+ "fetched_at": "2026-09-08T09:31:43+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,16 @@
   }
  ],
  "items": [
+  {
+   "title": "機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
+   "source": "news.cnyes.com",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SmRNVUJ3OTNvWDdReEhNOXdwQWdJSFFZS3h0Sjh1eHhfREZsR2RNLW92d3hyZUZQYVNBZTdOLXNoSGdoSjdFV2p5SWg3OWc?oc=5",
+   "date": "2026-09-07 19:34",
+   "cats": [
+    "stock",
+    "tech"
+   ]
+  },
   {
    "title": "畫作IP變印花穿上身台灣紡織與藝術家共創產業鏈| 產經",
    "source": "中央社 CNA",
@@ -69,8 +79,8 @@
   },
   {
    "title": "孟加拉尋求歐盟貿易協定穩定紡織出口 擺脫對中依賴",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZW9PYldpYnJMQ3VONG1ocU85X1hxLUI4clpmb056RjZJTFcyUTY4QVRwcWJzMUx6RkRUMnA0emtmNmhzV25neE1hWko5S3RSSWhwQjA1VVJ6ZXU5WUdjb1FmQ2l6QjE4UHhudlVfejZYVlpHaWNqVk1FRW9SZjhKZnR4d0N6WUpUb2VkUVVCSHRYVUREYzNUWGczVmRXN2hvZ1ljeEpkU0FZMmd6dXFYdFJ3bU1JNEt4TlJYcHFwUnhTZmhnOG84TGgxS2tvQktMSUtaRThlRm5PVTh5bDhmOGl4WmdTUEFXWG44cWRpMjJPbXhWeDNWemZCNUtLOS1yRnRMOG8wWk1WcklhdHdoZ0hvTTdmSEVPLXBRUlN2eGVaM0g5eHEwSXNYZ3k4MzlrbVpqdHFBMzB4Z3FzZXRWSUZscUZTcWFwUUJXY3pzc3NqbUxiX2dpMFVmTjB2WndIZXdMMW1XaFUxX0tGdi1KSg?oc=5",
+   "source": "PChome Online 股市",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSk9fWWZoRHhMdXd2eGVGZEs5UTVNdjQ0YzBqejVKMGdmeGViTFV3cU5hWXp1aFl4WmFKS2pRQWtPOFlyaG54MWVQTlpVN05EZTFvZmtJeEhJNk1fZTdqWUltTkdPYTN1VXpEWm12VlJtLVh0Yld0TE81OTI5MjJqMw?oc=5",
    "date": "2026-08-31 16:46",
    "cats": [
     "trade"
@@ -78,9 +88,19 @@
   },
   {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
-   "source": "newtalk.tw",
+   "source": "Newtalk新聞",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
    "date": "2026-08-24 15:00",
+   "cats": [
+    "market",
+    "stock"
+   ]
+  },
+  {
+   "title": "H1獲利年增76%！「老牌紡織廠」獲三大法人連6周加碼 股價周漲近12%站上30元",
+   "source": "FTNN 新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oRHQ3cllXTlRtb1owOTNXb2RmT1pjUGtxU1JJaVYwTXV3OEc2SEFyT3hhZURFZXdBSjFZQWdMSDBQT1UtYjF0U2NBbw?oc=5",
+   "date": "2026-08-23 15:00",
    "cats": [
     "market",
     "stock"
@@ -93,6 +113,15 @@
    "date": "2026-08-19 15:00",
    "cats": [
     "market",
+    "stock"
+   ]
+  },
+  {
+   "title": "【12:13 即時新聞】力麗(1444)股價小幅走強，受紡織股補漲題材支撐＋法人近日偏多回補帶動低檔承接",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNblIzTzA0MVRhTE53RXhPS0d0WHY1NFhlUDNETm9CMTRLMjd1WXFzVnR2a19SdzU0NFZLNDZ2SmJZbzA0eHBlSEVabUo5cnZqUzluLVVvYzI3OW5ZeTFSWElkV3RDM09DdFdpd0NKTHE1YXN4MVR3RlFHdFhrNU8yUUluMHBnYXZKZDA3YlRn?oc=5",
+   "date": "2026-08-18 15:00",
+   "cats": [
     "stock"
    ]
   },
@@ -112,6 +141,15 @@
    "date": "2026-08-17 15:00",
    "cats": [
     "market"
+   ]
+  },
+  {
+   "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16% - 財經新聞 - PChome Online 新聞",
+   "source": "PChome Online 新聞",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3ZXSjBjSWZjUDBDMUN1cDA3NFpUcHIxSnFJOTNGam1qV2ZBenhGemxMdExuWUVVQ21kV2hfR3E4cVBQbFkzakFKb2s3Y29Gc0RkRWMwQkd2c25BZnN0eUk3YVN2bG5lWDhWV1RpV0p4WVBLVF9RZTN4NGlUOEJOdkw5d2hLQ0Y4Z1dtNQ?oc=5",
+   "date": "2026-08-17 15:00",
+   "cats": [
+    "trade"
    ]
   },
   {
