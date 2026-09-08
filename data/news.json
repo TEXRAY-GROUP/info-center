@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-08T16:55:28+08:00",
+ "fetched_at": "2026-09-08T18:54:51+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -32,10 +32,28 @@
  ],
  "items": [
   {
+   "title": "歐洲經濟成長趨緩 全球紡織業訂單受挫台廠加速轉型",
+   "source": "商傳媒",
+   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQTkdKbzNvZkJaaXJ4TG1RXzFJV2FsWUItT3hHSEtJQ0RBNG5hMUxHNWFLWjJNbmRHVDRaQlBYbXBWQVNrb1lXS2l6bDlwUzF3TU11c1p3QWxGZ3RnYUhBZzZ0UmFnYVJCcllMVVZibFhCYXpZTmtMUnZEQmh5eUZqN1R2OUZydDJTTGhMdVVTUDF3WFBlcDA4QmlhMFhibjBIcVRndXhxaVZHcnNsd1JGdTlkNnAzYnlpc3g4SDdzMGpaenFMTjFCUFRQdjE4YkhpeWt4aXBQMkF3ZlRWT1BKckFWOGZ1SkMxam8zc25nYXFUQmVmVUVyNzlWalVrbWZMeXJrYXZwODFzblllSnRPc1dGMGl0YUEtUDB5cmxuWHh0Vm05ZklSdXRfZ0p6c1RSTDdrdWs2RDhncnd3NS1FbmpkOTQ0cVlTZlZ0RWxZa1JKQkVpVFhyZ3ptODlhWEU4WDFyLXFCUHRfM1QtdTQ3Z0xCY3JiSTg?oc=5",
+   "date": "2026-09-08 17:28",
+   "cats": [
+    "market"
+   ]
+  },
+  {
    "title": "昔日紡織巨頭，今日飛天夢！新纖佈局無人機攻「低空經濟」背後：是老牌轉型的第二曲線，還是自給自足的集團內循環？",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQakZtazJ6MzhualFLTFVTQTJid285cE1oZXNlSnJvc1ZFRVBZbUJHeUMtTnVzcDkyekxkTWxmMm92YWQ0SDdJcDJDM0dtZnl1UENLd001bzRZMk14Q2VXZVJXLWJtTE1LdHhrVy1DSk9WZlZ6QlIzMEdHSmx1aFBFVjMyVzFhUWxESlRwbDlKSlFoTGhQTUFWbXVXWjVKTUNob3REdGVBR21MMEZKMW5iZVNDMFU3N1pKUmw3T1QwOXlGZ0NsNTFhVll3UHhLWEw3bHpnc2txcmZjbDZ6WHd0R2VnSTktREcxdzEtN0RUUGZ2ZU94dDNuaC1fR01oMHdQMlljQUFzS0YweE8wV1Bja3pXNkVqNjFvR0pqekJmcWN0aEstMC1kbGh4cXZBMVFFRlVMc1lGRFJCYTRFS0xWZU5ZWW55TW9fa1duX0o3ZmNqekFTVlN1Wl9TLVpwMjJlWGNzcmZ2bFcyQVJqX3RTMG1wemtSR2puR3h0WXJ1MTUwSEtM?oc=5",
+   "source": "news.knowing.asia",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pVUh4QUk5NjdKZHVxUFVZQWk1R1hMY3hJXzh6SXVBUTFSUHNnMmhlUEZVUnMxTm9wREhIaGRnczNqRmFNTzhTQnFUME9TcmlVcVhKT2JFSkNUMndSQ0dxZWZQeUFWZzhMektQZk9aUmhXM0R6bVE?oc=5",
    "date": "2026-09-08 16:35",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "畫作IP變印花穿上身 台灣紡織與藝術家共創產業鏈|樂享臺灣",
+   "source": "僑新聞",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Cb2x2U3JpNXRNNnEya2RPUTFhU2haelRTMzJVVVpTdVJ4Y3NCWGYySkJoaFRTdG56cm96dlF6OGJtWlFyQWh5azV6cw?oc=5",
+   "date": "2026-09-08 16:00",
    "cats": [
     "market"
    ]
@@ -106,7 +124,7 @@
   },
   {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
-   "source": "newtalk.tw",
+   "source": "Newtalk新聞",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
    "date": "2026-08-24 15:00",
    "cats": [
@@ -162,6 +180,15 @@
    ]
   },
   {
+   "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16% - 財經新聞 - PChome Online 新聞",
+   "source": "PChome Online 新聞",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3ZXSjBjSWZjUDBDMUN1cDA3NFpUcHIxSnFJOTNGam1qV2ZBenhGemxMdExuWUVVQ21kV2hfR3E4cVBQbFkzakFKb2s3Y29Gc0RkRWMwQkd2c25BZnN0eUk3YVN2bG5lWDhWV1RpV0p4WVBLVF9RZTN4NGlUOEJOdkw5d2hLQ0Y4Z1dtNQ?oc=5",
+   "date": "2026-08-17 15:00",
+   "cats": [
+    "trade"
+   ]
+  },
+  {
    "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16%",
    "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTUtPYWRCV2UxM2ZOX3I1V1poUTljQ1JhbW83ellFZ3FycDZWeXYzM0tHanJYcDc4TVBQZlBSZ19FN2FlZGxtaGxTdDJGZjNKeGFkdlRaT0l6TU93dmhJXzRDTlY1dkNaY0w4WERPWW5fWEQtTmI2TDB3ZDc2b2JCUFpLVW56NkhLU2U4ZTRZN1hRTFZWdzUyQTJiaTJMaUllWmxDenplVnlpNnRmVmhvRllKNzNqNDlsM21LbHNtVGl6NWxfVF9QRV9UQzJJQTFDa19fQUUyZUNXeXlKN2YxY3BYU3FBR1o0emlKMGpodmEtcnRSc0lidTFoSWNjNHBubElWMncxaHpWNmp5cnNDc0JRV2ExLTVVMk9yV0haZmx4Nk1hcl9Kc2F6eWF5cVAtMDkxTjA5YUFtNi1sbGdhaTdyNEsxNGExY3pzQlZfS1JfN0E0aWYzaUpVR09oeDBkVm9yRTZQQm1HRmpsVG0zRS1qeXZNMVVmM3Y4ajNqSQ?oc=5",
@@ -178,6 +205,18 @@
    "cats": [
     "market",
     "stock"
+   ]
+  },
+  {
+   "title": "「機能布大廠」Core Item訂單發威！7月營收飆77％創同期次高 越南擴產可望下半年放量",
+   "source": "FTNN 新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LT3NKbmI4dlhONG81VVdxMDh6Q0p5cXZNdzNrQmJIMXVfcWNwYkxCYUpfTHNDMmVCMlBVV2VEWUIxWWVGd19LQ2V6UQ?oc=5",
+   "date": "2026-08-10 15:00",
+   "cats": [
+    "market",
+    "stock",
+    "trade",
+    "tech"
    ]
   }
  ]
