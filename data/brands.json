@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-09T16:54:47+08:00",
+ "fetched_at": "2026-09-09T18:55:04+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,30 +158,30 @@
  ],
  "items": [
   {
-   "title": "Inditex Gains Momentum in Q2, Sales Rise 9% at Start of Fall",
-   "source": "WWD",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1ZmVEt5aEx5bzBSMGlTeXZnUjJrZTVsMHcwT3FxWUtqdHd3Nm8tcHQyNVlrYUxGV2V6MGtYZFFxQlp4RFcyTHpQN3FLQVdfcVc0dGpFcEZaRy12aHZQRkRXRExuemFfLTBuMVVXaTlwZG1tRzgzNnFKVDhjaVVqMlVLaF9Cbl9XTVRrTGQwbmZIdjRPWVcwaDBxTC1tUC1iVjFZ?oc=5",
-   "date": "2026-09-09 15:56",
+   "title": "Inditex first half sales rise on ‘well received’ Spring collections",
+   "source": "Just Style",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SM1dzSkVxdEk1WnZvazQ5ZzZEU1ZkemhSLWFud0pMYlJEakc3b291MkhNTndUemdoOF9HOXBRT0NmenBLM3hIa3pJMms5Wm5oTXVLXzlBZm9QTGlnTkJ1WjlxWGxwUGpmU2c?oc=5",
+   "date": "2026-09-09 18:45",
    "lang": "en",
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
    "region": "europe"
   },
   {
-   "title": "Zara Owner Inditex’s Sales Grow, Showing Retailer’s Resilience",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXFyV0VWR2cwQ1pzMW1tbVRsZXNjbGVwdUZkVF9OMEhHMkM5b2RQZFJWWlpZVC1pS2FHYmR1dEhaSGJ1M1JsZ0pKc0F5dGFLamJjaGRRQ3JtQ0Rnc1ExSi1ocF9Td2ktb2pHLUNvcl83WkJSd0NtM2pNMlp3aHFUeVhIZXZaeHhYZlhMcDNobEJxTngxcDZzU2FvSjMwZy1Wb2c?oc=5",
-   "date": "2026-09-09 15:17",
-   "lang": "en",
+   "title": "中東衝突推升運輸成本 Zara母公司獲利不如預期衝擊股價 | 民視新聞網",
+   "source": "LINE TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lQlFFZ0xDWmdWbmhWbU5QajdWLXVsZnBha0syQTVRcjNFSFBYeGluOERydVdfYWlTQVB3cEFCRktXOEY2R3RSSU1KMnRxeGhFZ2RsemZ3?oc=5",
+   "date": "2026-09-09 17:33",
+   "lang": "zh",
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
    "region": "europe"
   },
   {
-   "title": "Zara owner brushes off heatwaves and Iran war trading pressures as sales jump",
-   "source": "The Independent",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSC1JY0ItNWdJeXFsdmVfV0VQSkVhYTIxSnkwLWRjeTE0bnhKT2NZX2gzd2RxMWtLbDlQM1dONXhXV2Z4U2VEN3FMT1RVTERMNkd2WUpNcnFGWGVpSl9QcXJFM3Q5QW5ZcXBEa2tSYWpnMkJ2czJVbDZyOFpPLUREVlBMb1F2SDczUXB3?oc=5",
-   "date": "2026-09-09 15:07",
+   "title": "Zara owner Inditex boosts profits as sales grow across board",
+   "source": "IraqiNews",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVVDdmd0c0stZzU2RzFoOEZKdGx6dXhrN2FXenlBODA3R2tubTVReHlQZkNsQ0JoQzVSNTh2X2RRWjJ2emhPMkV0blBtYUxDbXVFQUhWVThnMnRHel83VzF6MHJtYjNVSmRCZmVtcFU2SmlUeWdNeW8wWVQ5MFl1ZTFGbEFZNHRlc2VkeTMzZVJMckxJQVdUUGNRQU0?oc=5",
+   "date": "2026-09-09 17:31",
    "lang": "en",
    "brand": "inditex",
    "brand_name": "Inditex / Zara",
@@ -219,7 +219,7 @@
   },
   {
    "title": "From Nike to Starbucks, Tariff Relief for Stocks Is Fleeting",
-   "source": "Bloomberg.com",
+   "source": "bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEdBN3o5UkVvQUNNd0R0MFlwUTI1dlRaOFBIMDlXdWV5Zzl1VFB1SW5tVHkzOXZCZjljcG9qU0xSV0NaN0d2TXdmMUlfRUlYVVk1dnlnS2dqVGExZW54eTM1ZDNuYWVSb0dydlhnVmJlRHg4MUI2U01hUWJmOW4ybEJCV08wa2tMUGdGd2hVanE0TXdRSnJyY2pWazdzV1VSUXdoZHFxMDQwblRzdURV?oc=5",
    "date": "2026-09-09 02:02",
    "lang": "en",
@@ -229,7 +229,7 @@
   },
   {
    "title": "Lululemon Cuts U.S. Expansion Plans, New CEO Takes Helm At Athleisure Staple",
-   "source": "Bisnow",
+   "source": "bisnow.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlVOMGt3TzIzckIyajZYbnEzMXNYZ05kTDVCRUNlT0xpaGY2NXRDbTRvZVZNUmFIbHNuRUxWMWxna2tjcUQ3TU5jdzAySS10cDNHckV1QkdJRFZyc2ZadFRuWnlXRkpTU2FDRTNOTjVyV1F4QmNGWi1oQkIwQThyQlBuMTJGV1RyT2FFVW54blNOWDBDMmxlTUxhSGs?oc=5",
    "date": "2026-09-09 01:25",
    "lang": "en",
@@ -368,8 +368,18 @@
    "region": "americas"
   },
   {
+   "title": "【0904法人焦點】市場最新個股動態：Lululemon（LULU US）財報、鈞興-KY (4571 TT)、Broadcom (AVGO US)",
+   "source": "sinotrade.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNMm5MdmlOQm1lWkpTUk11WUxnVUZLbk9sbFZobzVzUDA0d0dXc01veVZ0SFk0eVlwNWdJWmo4dDBOMUMxRWk4R05GQ19SbEI5NkFQVXlMVE9PSW9RbnB0OWphQmU4emluU3pvVDBKUmIwN0otcWhic05DNGNmSTMyNVBuc0VTUFYzZGIyODY0dTBzc3lwWTBvTmVPZTQyWlpwZFVCZGlQWEFPV2Z4NGtrejV3eERJYXVReUNMV2o5QlBROUdrVWdUWnJmdVA3Q19lcjd3ak9vcjQ4ZFBrUmV2TlpwSXZfbE5IT19rVEdybjBQamZCWDAwNjdjQUFuZG1qY2NmT2RTYXZqSWhXNlM4aUU0azBQekdLQmN6Zlh5N1AybDlZcFFQQkdPSHJfUXJSMlhQOTNhSV9BeFdHeWxEMl9BelJRbG9abDEyNGswSDhtcWhzZmc0TWZ1S18wM0hORVNrN3dxb2FUaFVJRTNmRlVjQ1d4UlE0X0d6YUI5cVFOR2xnR2p4U1E5ckpWdlZZbkE?oc=5",
+   "date": "2026-09-04 20:37",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "二度下修全年財測！瑜珈服巨頭Lululemon盤前暴跌20%",
-   "source": "民視財經網",
+   "source": "finance.ftvnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNeTMzZVZKakIwcXpETWNDTzFzNE93RWdYY1VvRUh4aVEyaWkyMW5jV0FNd05fOEFBNHdBeTNiVmJINVFULUh5TTRTYUU0YXZiRnJSSXJnTDV0UDg3aFNmS1pPNGlHZw?oc=5",
    "date": "2026-09-04 20:00",
    "lang": "zh",
@@ -388,16 +398,6 @@
    "region": "apac"
   },
   {
-   "title": "Lululemon二度下修財測，瑜伽褲銷售大減20%、盤後股價重挫17%",
-   "source": "優分析UAnalyze",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLd3I4WWp0MDYwZ0FMdFg5MWx3MnQyTnQtTXU4Vk5fUENoRVppQ2dYSFloR213d3dtWEZaSTNzdnh3WHNHTXF1MURjc20yb2RLU0dnLU9R?oc=5",
-   "date": "2026-09-04 15:13",
-   "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
    "title": "天候不佳、UNIQLO日本同店銷售陷萎縮迅銷大跌",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPci1nMzhtRE9Ia2ZNWnkwYi1HRGNnaEFaOEx6RmtqSGVsNkhqbEVTdjFubDhpb1gwbXowQmVCNTN4OXE1WGQ0NW1QdXdGZ0JrdkJ0dW02ZExWT2tWY3lId1daVWFMUmN5Q29nTjVabmQ4eVZBdG1nUUozamRBcUdxVjlLZEhVUHNKb0twQnhjQkxQUQ?oc=5",
@@ -409,7 +409,7 @@
   },
   {
    "title": "Shein Bets on Everlane Acquisition to Kickstart Its Growing Empire Post-IPO",
-   "source": "Bloomberg.com",
+   "source": "bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkdTb19xcWFnamk5QzREampnYnhscU9jMWNDcnk0bG5idnJLQWcwTFcxcThiQ0NMNG9WNjR1QVdFRGNfNUhSUUlzdzFnM1NuYUY3TUVYYmw2aGgtODZ5YzJqeEpZeGIxMUUyZzJ5UWpkVENEYmRIZGpHTlh2NmN1VnE2c2V2QnZSY2NNSFYwZkxLV1YzWF95dEZfbm8xa1JwdTV4TFFkbzhyRlpoWm1KQjd2dEY5YV9XcGdZamRLSEtUSFN5SXc?oc=5",
    "date": "2026-08-27 15:00",
    "lang": "en",

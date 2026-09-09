@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-09T16:54:44+08:00",
+ "fetched_at": "2026-09-09T18:55:02+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -152,7 +152,7 @@
   },
   {
    "title": "個股評等》成衣出貨強勁！儒鴻獲利增158% 法人喊買上看375元",
-   "source": "Newtalk新聞",
+   "source": "newtalk.tw",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DbzYyUW01NkxNLWF6cHl3RHJxMFZiZGZ0dGRlQ291TldoZzJIZ1BVS21SeWktOTBYUlNuYjMzOVpLajRMN19VdlU5SDJzTjh2RkplRGI3Mk1XLW8?oc=5",
    "date": "2026-08-24 15:00",
    "cats": [
@@ -196,6 +196,15 @@
    "date": "2026-08-17 15:00",
    "cats": [
     "market"
+   ]
+  },
+  {
+   "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16% - 財經新聞 - PChome Online 新聞",
+   "source": "PChome Online新聞",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3ZXSjBjSWZjUDBDMUN1cDA3NFpUcHIxSnFJOTNGam1qV2ZBenhGemxMdExuWUVVQ21kV2hfR3E4cVBQbFkzakFKb2s3Y29Gc0RkRWMwQkd2c25BZnN0eUk3YVN2bG5lWDhWV1RpV0p4WVBLVF9RZTN4NGlUOEJOdkw5d2hLQ0Y4Z1dtNQ?oc=5",
+   "date": "2026-08-17 15:00",
+   "cats": [
+    "trade"
    ]
   },
   {
