@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-10T16:54:51+08:00",
+ "fetched_at": "2026-09-10T18:55:08+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,6 +158,56 @@
  ],
  "items": [
   {
+   "title": "Morgan Stanley resumes Nike stock coverage with underweight rating on earnings concerns",
+   "source": "Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkliNHd6WDAzR2ZOcmk5YUhyNHEyamFCRWlwSVlmMlNISHBBRERrX0xzdFIzUTg0TUN1dVduM2ZjdjNzbkxDVkZ0UjJxWXFSZ2hQY3Q0R21qcm12M2VXRlpEVkc1eXFHSE5lY3gxbmp4VXJJQXNOcFNxQTlFZ3hVQmJlX3hSWlRNcXA0RXJtOUFON0Jaa3FRZnNVSkp0RlZ4VHlVcWY0Ykh3NXF6OUswUmZfUG1KZzZIakZ5MDFFd0s2S2dWTFhCREdZcEJxbU4wbkhwRXlOT3JaUExzSm9QaQ?oc=5",
+   "date": "2026-09-10 17:57",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Primark to Start Home Delivery as Sales Fall Ahead of Split",
+   "source": "The Business of Fashion",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWENoaHdDTHIxQlA4LUNFVThGUG5GRTBfM0FjcjhJMW5feXIzSGV1VFF1V29QWW9vaXVHNUtzMnFhWExTT3JEYVVLLS1TRnNmSktZbjhCT2JhaW54bGhhLUpwVy13NFJiU2FZcTRjTlVQTHpNemZUeHVyNl9MbjIza3RBZ19DdlhFclVULWtkTjRTYVhodFgzbFdaajlHWlY4cjdRSjlkdzY3dw?oc=5",
+   "date": "2026-09-10 17:51",
+   "lang": "en",
+   "brand": "primark",
+   "brand_name": "Primark",
+   "region": "europe"
+  },
+  {
+   "title": "ABF: Primark grows sales and expands digitally, while sugar losses weigh and demerger plans advance",
+   "source": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORUpFOHlRVDlGRm9uZGNiMy0tcVI0Z00zYmlNcC1GZ2RyLW9zeHJMbzN0VDRYSm8ySjR2ZnJZbTl3bTJiRWJMRmo5ZzgzWlVKQjdEVXJTVGlmVHhfMHR6TTdCYzZuU0VES3lfSnZTZ2E2WlpUZWJtZkoxMVZGa1RkMGRpSjdCN09rWGpKbmt2NS0xMDVXOEEwMFBIeVZXSjQzeWhYN19PdkFkM0dCUUVkMjJYVXZ1RVdoZU9tclotcFdWcE53OC1hakZuZGI1TW5reUVOQ25WUllGWlRtWkFqYWEwUXZuLUY3YUFXRG5QV3BRTDdxSUhkSlZSc1hLZnVYYjNRQ1p1NE1VbE13Nnl5SmV3?oc=5",
+   "date": "2026-09-10 17:25",
+   "lang": "en",
+   "brand": "primark",
+   "brand_name": "Primark",
+   "region": "europe"
+  },
+  {
+   "title": "lululemon第2季營業利益年減13%！EPS受關稅退款挹注 股價盤後重挫18%",
+   "source": "財訊",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNTXZ3UmV4ZTNUOGw3SFRiVUR1aWxnTlZjMUJNc2RUb1RXdlBZajlEMVRWdjZ5eW9waUdVWDZKRDU3RExnRWFKRGdsc2g2RXoxWVA2bzN4UTBVRnZhamtyX1Q1QlhVRl9nUy1NSmFRVEY5ZVNwbGhlN1FIWQ?oc=5",
+   "date": "2026-09-10 16:57",
+   "lang": "zh",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Associated British Foods Shares Plunge Amid Lower Primark Sales Outlook, Higher Sugar Loss Expectations",
+   "source": "Yahoo Finance UK",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDgzYkMxMHFxN093ZGIxLVlhY3VsVFBaaEljMjdTQmpnTDNXSlY3cWpuMk4xeFRtTEQ2a1VpTlJZYVRGdUhBcmZuZmpzMG9nZGNYRHBRTkJBYlJwMk5hbXVQQVBVZjZ2d1NqV09NUU9zbnp5aUxaOTdNQnlKSG1yM2VBemh2V3FSU1VhRmxYWlc?oc=5",
+   "date": "2026-09-10 16:46",
+   "lang": "en",
+   "brand": "primark",
+   "brand_name": "Primark",
+   "region": "europe"
+  },
+  {
    "title": "Fast Retailing’s Theory names James Kelly as global CEO",
    "source": "fashionunited.uk",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmlhcTlxMGtIVl9MOEY2UnlJYVhuWnRBc1VsWWxKQk94NVRxejBpeXZ0QjVRTEc1b0xld09oSFJqc2N3c0dad3hLU2NfcWhLbG9Lb2t4d2FXak5vUWdCWmpXUmlodXVabEdzUjRZel96bTFuY2FNLTcwSllidlo2SVlxM1ZFbElWc2dWOS04VG1QbjlWeWJjdC1zdmRxVWlKcUFKb3pURXc?oc=5",
@@ -168,38 +218,8 @@
    "region": "apac"
   },
   {
-   "title": "Primark to Start Home Delivery as Sales Fall Ahead of Split",
-   "source": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGJCYUUtaVc2RGxXaHNDbGpTcU0zYzl5Y294WUgtR2pCVlRCcEk0UlhNd19KaFhQMjVRZGtGbEFoWXBlNFF2U3gxejBmR2g1eDZob29PRTZvSjY0MC13bV9EOVFVVjBjaHZEMTQ4Z05ST1kteGlpUlZjTzltcE0teE9uVDVLOXBLdXp4TW8zWWVGRzA3aDZXNWtQenVUOGpMOWVtc0RIc3ZONDlVVHNv?oc=5",
-   "date": "2026-09-10 16:07",
-   "lang": "en",
-   "brand": "primark",
-   "brand_name": "Primark",
-   "region": "europe"
-  },
-  {
-   "title": "Online holdout Primark launches delivery service to arrest sales slump",
-   "source": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlk3MkxXQUx1VnJZeURjbVdvMGdaLTJMMy1oMWRWdjNEX1YzZDdYVmw2WFdpTUVLVFdHZ2dJbzhWSnhOdUJjeG5iYkJJNWFFNGdBbkREU3hJT0ZnU0RVaWVpM2VKSmxSR2pFU21SNnlPS1JpaG5KcGUtMEpCOV9veWtxSG0?oc=5",
-   "date": "2026-09-10 16:00",
-   "lang": "en",
-   "brand": "primark",
-   "brand_name": "Primark",
-   "region": "europe"
-  },
-  {
-   "title": "Primark to launch home delivery in Britain, open stores in Saudi Arabia, Mexico",
-   "source": "FashionNetwork - The World's Fashion Business News",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDNCcFVmTzhBMldoRWdwdVVra01uZUxjanRQaVVUZGtNZXZhdU1oOTJCcnNlV0FiWFNTNUFYQV9ibGxDQzJCY21laVBwQzlsQUFSeUo2bXcwVzZjN0o4OXp4U0hxdzRpMU9BczBKRk5fZkVwM0htdWtoZVlmazBtY3dwaUpuVnFQZkc2ME9qaGxaUllVbGppTENvTUtGdGN0elMzcDIwcmVTaWF1aEVLRUUtUWRFeDRvSWxpc3UzYUZFcDA?oc=5",
-   "date": "2026-09-10 15:39",
-   "lang": "en",
-   "brand": "primark",
-   "brand_name": "Primark",
-   "region": "europe"
-  },
-  {
    "title": "Baird Financial Group Inc. Acquires 28,643 Shares of lululemon athletica inc. $LULU",
-   "source": "marketbeat.com",
+   "source": "MarketBeat",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFc4VGFQcVR2MTJtNm5fSGJmNnBZZTF6RTEtd0wxaFpSZHpxdk9FYUlFY2VLaHZiUlpKdlpvTUFNRW13QjVUNVBVWEFQb2JXMUYwUkJ6MHNVcUNYRnU1Z3pJN2dJVWdSU0VDcDFhd0dud2F6bW16eDU1Ulp6RDRVbGw3b2pfbGRUYThRdnFyQmV3RHU0eE93a2tIR0FBYXFaV2FobnkzUmxVUTlCcUZOOUdyV0w1WFpBNFNfOW5FRmtxUmRoUWo0TW41eVdvaTVOSnl4UHUwMA?oc=5",
    "date": "2026-09-10 15:16",
    "lang": "en",
@@ -268,31 +288,11 @@
    "region": "europe"
   },
   {
-   "title": "Mountain Techwear Trend Fades Out: Salomon CEO Reveals Brand’s Growth Is Only Just Starting | Exclusive New Look Interview",
-   "source": "36 Kr",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jOWZVS05SdzJQX01jU0NLanZ5RXlSZVN6VUZkeUVLOWotakFZUGxUUkpoNU43dHpycE9DRHdqS01rYm5sZTNWcnBzVl8wLUwtOEVr?oc=5",
-   "date": "2026-09-10 11:50",
-   "lang": "en",
-   "brand": "amer",
-   "brand_name": "Amer Sports",
-   "region": "europe"
-  },
-  {
    "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
    "source": "UDN",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mTXhfcWVtYjFyczdhZVMyYThhTjNpUTUyRVIzVDVIRU56ampyRmVydGJ3RFBxMVNaaktMRmJ6dUlEMnk2RVJ5U0VEcjJnQjBFQ3FUb1lR0gFWQVVfeXFMT2ZNeF9xZW1iMXJzN2FlUzJhOGFOM2lRNTJFUjNUNUhFTnpqanJGZXJ0YndEUHExU1pqS0xGYnp1SUQyeTZFUnlTRURyMmdCMEVDcVRvWVE?oc=5",
    "date": "2026-09-10 11:30",
    "lang": "zh",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
-   "title": "Nike CEO expresses ‘growing confidence’ amid stock slide",
-   "source": "Sports Business Journal",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXdTZ2ptWGdnZnVmNlFQYlA5N3ZlU1kwaWVOVlFDOExGMWhwX3JkMUpYS3dmQmYwLW1IQWoweVZkM2VnbGFfVkdvQ1lHNjMxUE13ZzZnSTBDZnFJMVRnbUQ5RE4wZWlXbmxYWE1zTHV3cW11VXhhenllV29LZWFybUxjelVXQUg4Q3RTWWtwR1gxYkJrNzRKdTRFbUJ1dVZ5Wm54Y3oyUGJwY08wY3psVlVNMA?oc=5",
-   "date": "2026-09-10 00:41",
-   "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
@@ -369,7 +369,7 @@
   },
   {
    "title": "Lululemon再砍財測 新CEO接的是燙手山芋還是翻盤剧本",
-   "source": "蕃新聞",
+   "source": "n.yam.com",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xaFVPNTlvV2c4cHBtX203UkxhYTg0MnZfUEdvbkdvUDJ4VzMzV2U3YzV0OUxPYUlMZ2VFdnNaa1pFdnhDWmJaRzB3VTlMNHF5WXc?oc=5",
    "date": "2026-09-08 18:34",
    "lang": "zh",
@@ -509,7 +509,7 @@
   },
   {
    "title": "不學Uniqlo反而活得更好！思夢樂營收創新高祕訣：讓顧客FOMO",
-   "source": "cw.com.tw",
+   "source": "天下雜誌",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tWS1HRGh6U3RwSVZPbWhranEtV0g0aUc1ZVcwYVpOeThlRWxHTHZkUG1Sano1eG5BeVhHRVZZVDRuZ3h1cjA2bkhoRDh3UQ?oc=5",
    "date": "2026-08-14 15:00",
    "lang": "zh",

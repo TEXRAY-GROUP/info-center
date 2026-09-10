@@ -2,7 +2,7 @@
  "block": "news",
  "title": "紡織產業新聞",
  "source": "Google News(多組關鍵字彙整)",
- "fetched_at": "2026-09-10T16:54:49+08:00",
+ "fetched_at": "2026-09-10T18:55:05+08:00",
  "window_days": 30,
  "categories": [
   {
@@ -31,6 +31,36 @@
   }
  ],
  "items": [
+  {
+   "title": "紡織製鞋供應鏈加速南向擴產，下半年迎傳統旺季，光隆單月營收大增逾四成！-財經焦點情報站",
+   "source": "cmnews.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlZ2LU9qYklXUkFSeUEtV2FEQWpGOFdZZHVEaTRwOUhOWkRRblJ1NFpXRS0yY3loYkRZUXJWQ0tVYzlmZEhLTElqMkdmSTdEeWFTZGlHTHI5bUxyZ3Z3djZMMFVZZEJHTVQ1MDdNY0JBcTVoMmFvNGhQbjdhaEw4WE13?oc=5",
+   "date": "2026-09-10 18:33",
+   "cats": [
+    "market",
+    "stock",
+    "trade"
+   ]
+  },
+  {
+   "title": "光隆法說會／第3季重返成長軌道 成衣訂單能見度延伸至明年首季",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwR0hLM2plYy1HVi1Cc2hwTnRTS0M2SVBXa1Jtb1I0QTA3UF85ZDRTSkJ1a2VXWFI1X3dzSndiRGhrWkN1WjY4WXRrN3BtYkQx0gFWQVVfeXFMTkN3RmFpcEtidTFRSkVpalNXQU9MeVJjdFU1a0MxU3FwTHNlRDBfd0RpRFVGclkwSUkzZzhYLVlhZzVBcy1mNG5PZDQwZVRMRkVFRHFxRVE?oc=5",
+   "date": "2026-09-10 18:11",
+   "cats": [
+    "market"
+   ]
+  },
+  {
+   "title": "光隆8月營收年增42% 成衣訂單能見度看到明年第1季",
+   "source": "經濟日報",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iUWtDT1J1UHFHOWR0ZUpKZXNCYk0yNS1nTnJfTkhnRXlHMnNvcjh6VEhhZE14UWpXQjQ1TjhsYjVXRjItWU9jaUdoazFBWFBVTThpUGt1Z19xM0HSAWBBVV95cUxQTW9FUDhaT0c1Y3JWdXRQdUE3dnhpQ2I4SjBnUHVNbURDWnU3empXdGViWVdudmtsTmlSd3NaSzFkOGREXzA2ZmlxX0h6WldPaWdhbkduRktCanNJdkVNSDE?oc=5",
+   "date": "2026-09-10 17:37",
+   "cats": [
+    "market",
+    "stock"
+   ]
+  },
   {
    "title": "「天門衣尚」 亮相浙江 黨建搭橋賦能鄂浙紡織服裝產業協同發展",
    "source": "香港商报",
@@ -134,8 +164,8 @@
   },
   {
    "title": "H1獲利年增76%！「老牌紡織廠」獲三大法人連6周加碼 股價周漲近12%站上30元",
-   "source": "Yahoo股市",
-   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQZ25RUnhnTlhKaE5ta3ZnbjFDYW5ndjVESkN2M1ZDTEdIUEREcU5mQTUySHhEejRNQ1pWQmRZRGhRc3dMMVVmSEZHaWtKYzhTR3lLRUZlOGlwV0w0Q012OWRzdTJIMGJKUHQtT2RTU01PZnBaSmVFWTZYdTg5R19MRmNrS1lDTnRMU19QLWJ5RU1JUS1WWTJiWUZ6bWdKVzNUbmEyd2RhUHdiWm5sUzdtazgyR1JubmZxZEhnZjN1MVh6aS1sYkZvVGQyNndrQVBaSmpOX25qcHRRd3hVX0RYTUZIUWlyODhaZFFwYVljUTZBSC1XZFNlc0NlTVIzbXRiZTV2SkdONG93RzVZa0J4N1V2SzRhUDVwOFpkU0NnOGt2UnRKcVNYclZsY1FSczJWay1vTGpxN2w4UVRLNjNIYThxOG00bkp3MUlUd1J5VHNCVmdVdm1idHZBTDRJUGFRaXpnazlCbEQ2cnFMcG1za1pBV1FZQVFpbHN4bWRuRzdFYmZzcXBhWVB1b29Sc3lEaE9VLU1qaGtsS1Y3TGJzX042QlA?oc=5",
+   "source": "FTNN 新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oRHQ3cllXTlRtb1owOTNXb2RmT1pjUGtxU1JJaVYwTXV3OEc2SEFyT3hhZURFZXdBSjFZQWdMSDBQT1UtYjF0U2NBbw?oc=5",
    "date": "2026-08-23 15:00",
    "cats": [
     "market",
@@ -191,7 +221,7 @@
   },
   {
    "title": "全球需求疲軟衝擊 孟加拉上半年對歐盟成衣出口驟降逾16% - 財經新聞 - PChome Online 新聞",
-   "source": "PChome Online 新聞",
+   "source": "news.pchome.com.tw",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3ZXSjBjSWZjUDBDMUN1cDA3NFpUcHIxSnFJOTNGam1qV2ZBenhGemxMdExuWUVVQ21kV2hfR3E4cVBQbFkzakFKb2s3Y29Gc0RkRWMwQkd2c25BZnN0eUk3YVN2bG5lWDhWV1RpV0p4WVBLVF9RZTN4NGlUOEJOdkw5d2hLQ0Y4Z1dtNQ?oc=5",
    "date": "2026-08-17 15:00",
    "cats": [
