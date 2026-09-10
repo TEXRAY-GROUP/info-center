@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-10T09:30:55+08:00",
+ "fetched_at": "2026-09-10T16:54:51+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,73 +158,183 @@
  ],
  "items": [
   {
+   "title": "Fast Retailing’s Theory names James Kelly as global CEO",
+   "source": "fashionunited.uk",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmlhcTlxMGtIVl9MOEY2UnlJYVhuWnRBc1VsWWxKQk94NVRxejBpeXZ0QjVRTEc1b0xld09oSFJqc2N3c0dad3hLU2NfcWhLbG9Lb2t4d2FXak5vUWdCWmpXUmlodXVabEdzUjRZel96bTFuY2FNLTcwSllidlo2SVlxM1ZFbElWc2dWOS04VG1QbjlWeWJjdC1zdmRxVWlKcUFKb3pURXc?oc=5",
+   "date": "2026-09-10 16:37",
+   "lang": "en",
+   "brand": "fastretailing",
+   "brand_name": "Fast Retailing / Uniqlo",
+   "region": "apac"
+  },
+  {
+   "title": "Primark to Start Home Delivery as Sales Fall Ahead of Split",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGJCYUUtaVc2RGxXaHNDbGpTcU0zYzl5Y294WUgtR2pCVlRCcEk0UlhNd19KaFhQMjVRZGtGbEFoWXBlNFF2U3gxejBmR2g1eDZob29PRTZvSjY0MC13bV9EOVFVVjBjaHZEMTQ4Z05ST1kteGlpUlZjTzltcE0teE9uVDVLOXBLdXp4TW8zWWVGRzA3aDZXNWtQenVUOGpMOWVtc0RIc3ZONDlVVHNv?oc=5",
+   "date": "2026-09-10 16:07",
+   "lang": "en",
+   "brand": "primark",
+   "brand_name": "Primark",
+   "region": "europe"
+  },
+  {
+   "title": "Online holdout Primark launches delivery service to arrest sales slump",
+   "source": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUlk3MkxXQUx1VnJZeURjbVdvMGdaLTJMMy1oMWRWdjNEX1YzZDdYVmw2WFdpTUVLVFdHZ2dJbzhWSnhOdUJjeG5iYkJJNWFFNGdBbkREU3hJT0ZnU0RVaWVpM2VKSmxSR2pFU21SNnlPS1JpaG5KcGUtMEpCOV9veWtxSG0?oc=5",
+   "date": "2026-09-10 16:00",
+   "lang": "en",
+   "brand": "primark",
+   "brand_name": "Primark",
+   "region": "europe"
+  },
+  {
+   "title": "Primark to launch home delivery in Britain, open stores in Saudi Arabia, Mexico",
+   "source": "FashionNetwork - The World's Fashion Business News",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDNCcFVmTzhBMldoRWdwdVVra01uZUxjanRQaVVUZGtNZXZhdU1oOTJCcnNlV0FiWFNTNUFYQV9ibGxDQzJCY21laVBwQzlsQUFSeUo2bXcwVzZjN0o4OXp4U0hxdzRpMU9BczBKRk5fZkVwM0htdWtoZVlmazBtY3dwaUpuVnFQZkc2ME9qaGxaUllVbGppTENvTUtGdGN0elMzcDIwcmVTaWF1aEVLRUUtUWRFeDRvSWxpc3UzYUZFcDA?oc=5",
+   "date": "2026-09-10 15:39",
+   "lang": "en",
+   "brand": "primark",
+   "brand_name": "Primark",
+   "region": "europe"
+  },
+  {
+   "title": "Baird Financial Group Inc. Acquires 28,643 Shares of lululemon athletica inc. $LULU",
+   "source": "marketbeat.com",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNFc4VGFQcVR2MTJtNm5fSGJmNnBZZTF6RTEtd0wxaFpSZHpxdk9FYUlFY2VLaHZiUlpKdlpvTUFNRW13QjVUNVBVWEFQb2JXMUYwUkJ6MHNVcUNYRnU1Z3pJN2dJVWdSU0VDcDFhd0dud2F6bW16eDU1Ulp6RDRVbGw3b2pfbGRUYThRdnFyQmV3RHU0eE93a2tIR0FBYXFaV2FobnkzUmxVUTlCcUZOOUdyV0w1WFpBNFNfOW5FRmtxUmRoUWo0TW41eVdvaTVOSnl4UHUwMA?oc=5",
+   "date": "2026-09-10 15:16",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
+   "title": "Northern Gym Equipment sales surge 350% on Decathlon",
+   "source": "IT Brief UK",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTI0LUt2aENNUlZnMXBxRUx0ZGJoU19IQnlKcG5pRktQQnFaS19zbGdINnFUSWlCeFJrV0ptRWpaaWJTeXliMExkU2J0TmRyM3ZQeGs5OFcxbEpxLU95OXdlN1pVUHo1em5rcjlyWlFtLW1kLWlvNHZKZ0p1QUxSNXJHTHg3UQ?oc=5",
+   "date": "2026-09-10 15:15",
+   "lang": "en",
+   "brand": "decathlon",
+   "brand_name": "Decathlon",
+   "region": "europe"
+  },
+  {
+   "title": "沃爾瑪、Nike等「解放日」損失龐大…退企業關稅 救不了股價",
+   "source": "世界新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEeDB5dndRQTNDSno2RUpLLS1fb0NMbUdDUnNrM1MzSzRpWEYxaTc1ejV4elZ3YWtJVlJJOEtUNmlzQy11V1FCQjJ6TjhJc1BLamtUWExUdGRTUFcyM3VSbzV30gFnQVVfeXFMT2h4MExiXzVIU0kzZ2JGcXYtYXZhTlB1YUxSclZTNWtmZk10MXN6VXBwa05CckNlZUQ3VWdEb3dDWmlZU2ktM1ptQTlzcTk2aGZSbjhFSWNjLXFNV3FXd25wWmpKaWNsTQ?oc=5",
+   "date": "2026-09-10 14:00",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
+   "title": "Intelligo targets double-digit 2027 revenue growth on AI IP, ASICs",
+   "source": "digitimes",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeXdFRUxtY3JLZ0JtUlo4ZXo5NC1BTjZOV2NfWVo1aG9nY3RDaXV3Q1ZjOGJqR2dNUEJwdjRJS2llTE51VUhmNVQ5c0o2YjVPaUdoSGs0Rll4NU1CN0twaHRxRGRZTWdPRjNzTG9kakJYSl9oWVNsRkx6c2lPT05hZzU2TC10b3FmRVo0SGdhNkJRdkJtbzFn?oc=5",
+   "date": "2026-09-10 13:58",
+   "lang": "en",
+   "brand": "asics",
+   "brand_name": "Asics",
+   "region": "apac"
+  },
+  {
+   "title": "RBC Updates Estimates for Inditex Post-Fiscal H1 Results; Outperform Rating Kept",
+   "source": "marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVmUxR2NzdVEwd1k1VzVubDZHRFNQMURfaW9SUE1JVmhwU2JYOVA5YVBzTnpZdWltS09nZ0szVlZLSFNPUkNRQUJBSXRid3hfQi1TemNLZENqTFR3aHFBZ3RxbEtGSWJNSVd1TlllNl9GYzVqaTIxRFRWZ0t2X2lZcnpGVTliMVY3aGRqTnY0UVgxdmxBWi1wcmlJMHFkX3A2RGNNdE5xUXBYX2F2c1ZkTUFtMnpJTXlncDVYU0MxMFI4NWdkaVh5dk9Qdmo?oc=5",
+   "date": "2026-09-10 13:29",
+   "lang": "en",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "Zara母公司初秋銷售佳但Q2獲利受中東衝突影響",
+   "source": "MoneyDJ",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG00RzRTdG8tZ0pEbW5LN19mX1o4NDhoOGhuX2VfY0xsdk5OY0I5eUFwMTN0R2JzaDdFUDJUOWJWS1BiX3FiWUpsX3FqTTE4Nk1vSmZ4RDBENkM1bjdCem5PTEttVHVhaDQzX0g0cUVoeWZwdmhFTS1YeTFGdG5heVZNX2FRY183YnVrSXd6ZVI4Zw?oc=5",
+   "date": "2026-09-10 12:27",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "Zara母公司初秋銷售佳但Q2獲利受中東衝突影響- 國際",
+   "source": "工商時報",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TeHYtSktBRjlDNjhBM2s2d0ZueDExUW50RU5obVZ0MUxXcm1JQnQwc0NxakYyazlGY0hfOXlHVVZ0ZkJ0RWtBT1JUYXFaU0lIZ0FzS1V4b0ZhOUR5d29B?oc=5",
+   "date": "2026-09-10 12:27",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "Mountain Techwear Trend Fades Out: Salomon CEO Reveals Brand’s Growth Is Only Just Starting | Exclusive New Look Interview",
+   "source": "36 Kr",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jOWZVS05SdzJQX01jU0NLanZ5RXlSZVN6VUZkeUVLOWotakFZUGxUUkpoNU43dHpycE9DRHdqS01rYm5sZTNWcnBzVl8wLUwtOEVr?oc=5",
+   "date": "2026-09-10 11:50",
+   "lang": "en",
+   "brand": "amer",
+   "brand_name": "Amer Sports",
+   "region": "europe"
+  },
+  {
+   "title": "Nike 財報10月初登場 法人：消費放緩、庫存攀升添壓力",
+   "source": "UDN",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mTXhfcWVtYjFyczdhZVMyYThhTjNpUTUyRVIzVDVIRU56ampyRmVydGJ3RFBxMVNaaktMRmJ6dUlEMnk2RVJ5U0VEcjJnQjBFQ3FUb1lR0gFWQVVfeXFMT2ZNeF9xZW1iMXJzN2FlUzJhOGFOM2lRNTJFUjNUNUhFTnpqanJGZXJ0YndEUHExU1pqS0xGYnp1SUQyeTZFUnlTRURyMmdCMEVDcVRvWVE?oc=5",
+   "date": "2026-09-10 11:30",
+   "lang": "zh",
+   "brand": "nike",
+   "brand_name": "Nike",
+   "region": "americas"
+  },
+  {
    "title": "Nike CEO expresses ‘growing confidence’ amid stock slide",
    "source": "Sports Business Journal",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXdTZ2ptWGdnZnVmNlFQYlA5N3ZlU1kwaWVOVlFDOExGMWhwX3JkMUpYS3dmQmYwLW1IQWoweVZkM2VnbGFfVkdvQ1lHNjMxUE13ZzZnSTBDZnFJMVRnbUQ5RE4wZWlXbmxYWE1zTHV3cW11VXhhenllV29LZWFybUxjelVXQUg4Q3RTWWtwR1gxYkJrNzRKdTRFbUJ1dVZ5Wm54Y3oyUGJwY08wY3psVlVNMA?oc=5",
-   "date": "2026-09-10 00:43",
+   "date": "2026-09-10 00:41",
    "lang": "en",
    "brand": "nike",
    "brand_name": "Nike",
    "region": "americas"
   },
   {
-   "title": "This Week in Retail: Inditex Sales Reach €19.8 Billion, Poshmark Leans on Resale, LVMH Names Prize Winners, CELINE Reworks Reebok, Kering Generation Awards Tap India, Wella Joins Target Beauty Studio",
-   "source": "RETAILBOSS | Substack",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qLVVISkVGV2psSjVZUXkxWjRZTENDSkhVaXJhaEJ5Vi1NcU9rR21jLVVSbzhpU2F6NC1TVTNyZjBvSDZySFlabl9fUHRpU3IxVmhVSHgwZXl5bUp2OHMydXJ1ZXNCY3U5ZlhGQ2x5eDFYUk9DY3c?oc=5",
-   "date": "2026-09-09 21:55",
-   "lang": "en",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "Inditex Focuses on Expanding Younger Brands as Sales Rise 9% in Q2",
-   "source": "WWD",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1ZmVEt5aEx5bzBSMGlTeXZnUjJrZTVsMHcwT3FxWUtqdHd3Nm8tcHQyNVlrYUxGV2V6MGtYZFFxQlp4RFcyTHpQN3FLQVdfcVc0dGpFcEZaRy12aHZQRkRXRExuemFfLTBuMVVXaTlwZG1tRzgzNnFKVDhjaVVqMlVLaF9Cbl9XTVRrTGQwbmZIdjRPWVcwaDBxTC1tUC1iVjFZ?oc=5",
-   "date": "2026-09-09 21:53",
-   "lang": "en",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "New Lululemon CEO Heidi O'Neill Inherits a Turnaround",
-   "source": "Business Chief",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVZNWGJwdi1oSXk5M3l0RnRyMnVRR24xWVlJazhCcjUwZ3pSbVYxbGxyb1FRT2Rrc0tfWmpnUmxLc2R3N3F0WlBDX3NZbjJPZENTX0VwUkI5WkU3aTZLbHA4THk4VjlFYmpTRGNDdE5nSm1LNHl1WUpGTGhsUkFUcTk1UTF0cE1fTTNF?oc=5",
-   "date": "2026-09-09 21:33",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "Zara owner Inditex boosts profits as sales grow across board",
-   "source": "Times West Virginian",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ2JkUWhEa1RNYTVFWEZXWW12Y0ZndGF1Z0JsYlJsemx1MXV4M1RyblVMNUpuaTB5WWtZSEU2SjIxejJVbmpXSHF3UTFmdGhJT3hMTE40N3Q1Nlg3LWRreE55VE9GS2tMbk5kUU1lRG1RR0dlblN0RktOQlNMS3ZvSUI0TldVTUdJa09objA3MkJZLUJEUFpVNTdidldKQzlVUDllQzdRUGZSQ2MyS1dUZzBWVlNvNUJkOGU2Z3JHaVFsV25yUDV2dWpLV1NnZWppZGlsU25uczVyZW5hc1ZDUg?oc=5",
-   "date": "2026-09-09 21:00",
-   "lang": "en",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
-   "title": "Lululemon announces new CEO",
-   "source": "kcentv.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0FXYm5BNE1EUzhlcm9qSXItcWlMRTBfMjA5MDJtdnVFTHVpYjdNTGxGdmpXcUNoNnVxMXNkNEhfOGdzalc1b2xEQkdkMDdJYW9WdnZIUEVIVWtFVGw5RHBaVDdnOEY2aWtUTTJyZUJoUXM1Z1lja0t1NmxQYzY2NDFENHFHVlIzLVZROFFPY0xQSHpaUVByWXRhOVhacnl3ajVtUlNHbVctM0R1NUJrVQ?oc=5",
-   "date": "2026-09-09 19:06",
-   "lang": "en",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
-   "region": "americas"
-  },
-  {
-   "title": "【即時新聞】道瓊狂瀉近630點！邁威爾(MRVL)看好AI資料中心營收，露露檸檬(LULU)遭看空",
-   "source": "CMoney投資網誌",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFltajNyb1hkNmE1Tkt3ZGFVVTUyUG1yUjRZZVVHWHJ4RlE4UG5wejJFbFhGTjNUMElnUklxbmhwMEhnbjhmd19RREFfUWpUX3RCSWF1WVFHdlg5eGk4U0NrcF85LUU4U0hHUlJzUmlrSjl1NGV1LThna21nU3JUVmVwRGszWFN1RDRPMXByRno?oc=5",
-   "date": "2026-09-09 12:04",
+   "title": "【即時新聞】Zara母公司印地紡(IDEXY)上半年營收增逾7%，看好下半年銷售動能持續發酵",
+   "source": "cmnews.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQamx3WjZzOGM2Z1B3aHBSQk1CYUJIdVNvZXl2SHZxMHI3T3RtaTBrb1RSNlJzYVU5RFlhSFA4U1hTRjFkVm5iTm5fcWRpaUw1by1pdnBieEp6VFJQUDQxamhzYkNDdEZadXNUanl5UjBNcmJlY25ubkhNLXk3QVZVVnlnRWUyVmZiLUJ4Xy04ZGo?oc=5",
+   "date": "2026-09-09 17:23",
    "lang": "zh",
-   "brand": "lululemon",
-   "brand_name": "Lululemon",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "Zara母公司Inditex不畏歐洲熱浪，8月銷售逆勢成長9%",
+   "source": "BigGo 財經",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nemozdjliVnp6c2VpaWR3T3dRQTU1RlhfZkF2MnZ2VUpmZUp1YTZqaTRwZ0VTX0xKZlhPQlJXSGx1aUs0Vk9VWWt2SE9LZFB4MUF4N3VXSVBEQnc4TFFhM2w4UmNZZ2FUN1NXNXZNRVVsaHFWdjBHWGln?oc=5",
+   "date": "2026-09-09 16:55",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "Zara Owner’s Sales Grow, But Profit Disappoints As Expenses Mount",
+   "source": "The Business of Fashion",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3FSZDJFOTdVZUVkYnJ4d1Z3alBDMXZuZTVkdjdNaklXTGg2ZVpGcUNZcVBLUzFWNGZEWVJmVkxqcjBnVzM3c1FuejBCVXo0WW9VRUZfTFI5SUlBVnp3YTJTNUpOQTZJU3ZZSjNxVzR5MEhDbTU0b00zNXRBMTAtcURURkg4ZTdGUlNDVzNQWWR0bVdnU3VlTVh6TC1hN0VxZVRaQW02MzhfeXhVTFdV?oc=5",
+   "date": "2026-09-09 16:55",
+   "lang": "en",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "Nike CEO expresses ‘growing confidence’ in turnaround effort as stock continues to falter",
+   "source": "OregonLive.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMmxudnJVVG1CdEwwR0NWZ0NFSnJoTGFNeEVzT1ZYLVNwOGl0NUJzLVFQN3BDYXA4eUlsZWl5MDM2MlFRWVYyZ2ZzZUE0djhnMmJPdG84ak5QN09QbXJMWmdndms3MlFZSmZrVzJtMWV3TUxyajBEZVZic3lxQTFoS09rVGVGS2wwRE9Sc0NfNFR3enVkdVl1Z3hJbDhLT1RpbFRIRnpWdFl4Y3l4bk9TUXJZN0Vzbkl2b2kyRlBNTmRIR3pXa2lGeVVramFLYm5EZXfSAeYBQVVfeXFMUG5jMmFrUWRldVRwOTk2VXQ5RUJTM2xMMzdkQUR6WTIxaGJKTXlvVWNXeDdpbDBiLU9vbVlYTHJheWJXelZkTGdJdDYtS2ZBRkJxeXhpSVAydkd4YzRKbjRhVGdyQzVKUnhrTnUtdVlmYzBiWHhnZWFNdzRFZnNKMTNTMlgwczc4cVFfems4U0JKdFJfbEtRT0xodW9rSUNPY0tSNHVDbkltZ2JRNWg3Y3pqbXhJOGp2RGtib3RQUlVqdldTdlphNmFneDczcWdfWm9MclVLVm5UZkxkNVJ0X2t4cFNZWlE?oc=5",
+   "date": "2026-09-09 16:50",
+   "lang": "en",
+   "brand": "nike",
+   "brand_name": "Nike",
    "region": "americas"
   },
   {
@@ -236,16 +346,6 @@
    "brand": "fastretailing",
    "brand_name": "Fast Retailing / Uniqlo",
    "region": "apac"
-  },
-  {
-   "title": "Nike CEO expresses ‘growing confidence’ in turnaround effort as stock continues to falter",
-   "source": "OregonLive.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMmxudnJVVG1CdEwwR0NWZ0NFSnJoTGFNeEVzT1ZYLVNwOGl0NUJzLVFQN3BDYXA4eUlsZWl5MDM2MlFRWVYyZ2ZzZUE0djhnMmJPdG84ak5QN09QbXJMWmdndms3MlFZSmZrVzJtMWV3TUxyajBEZVZic3lxQTFoS09rVGVGS2wwRE9Sc0NfNFR3enVkdVl1Z3hJbDhLT1RpbFRIRnpWdFl4Y3l4bk9TUXJZN0Vzbkl2b2kyRlBNTmRIR3pXa2lGeVVramFLYm5EZXfSAeYBQVVfeXFMUG5jMmFrUWRldVRwOTk2VXQ5RUJTM2xMMzdkQUR6WTIxaGJKTXlvVWNXeDdpbDBiLU9vbVlYTHJheWJXelZkTGdJdDYtS2ZBRkJxeXhpSVAydkd4YzRKbjRhVGdyQzVKUnhrTnUtdVlmYzBiWHhnZWFNdzRFZnNKMTNTMlgwczc4cVFfems4U0JKdFJfbEtRT0xodW9rSUNPY0tSNHVDbkltZ2JRNWg3Y3pqbXhJOGp2RGtib3RQUlVqdldTdlphNmFneDczcWdfWm9MclVLVm5UZkxkNVJ0X2t4cFNZWlE?oc=5",
-   "date": "2026-09-09 06:03",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
   },
   {
    "title": "中國勞工觀察：Shein代工廠侵犯勞權 工人連上20天班無休",
@@ -278,16 +378,6 @@
    "region": "americas"
   },
   {
-   "title": "Labor Day sales on shoes: UGG, adidas, Nike and more top brands",
-   "source": "Good Morning America",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGFJY3FLcm9lT2NaWnRLRVQ0VTkxMzhKdHU4SUN2djlqVDMxakppcUtZZERjVVZOQmNMZGxDOS1EdFJWdDFPYmJqamhaSHdLWlVwbW96T0hiWE4zSURQSE96Y1pELU5GM21UTGVMcDY3MUpjaHNibGVZMW8xUUJOeFFhcG9uM3Bq0gGOAUFVX3lxTE5BdHhYZVNQRHNIX1FFM21RRXRMT3FSajNtTTNJUG9OTnlfZVRYZlk1S3ZOa2hIOTQ2SkVvSlJVMzBFN0ZwQ1piN1h5aWFBSmZIUXpCVGpxUXVEa3QtdjJuYnBYWF9CNzBKSEh4UU5kX3NkblJJRk1LRGxTeTR1MzR1VkVjanR6RVMtMzNDZVE?oc=5",
-   "date": "2026-09-08 02:42",
-   "lang": "en",
-   "brand": "nike",
-   "brand_name": "Nike",
-   "region": "americas"
-  },
-  {
    "title": "非凡領越(00933.HK)進一步收購1923.1萬股李寧公司股份",
    "source": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUkp6aG0wbEhSZkV2UWtfSjhaTm5MRkFOaklJUmZQRzkzNEo1VmhDLXRobU5xbnpIbEVvZV9LTkc4ZXUtR1hKMGxJY0M5NmhDRDNzUTRLeGpWWFlzTlc0YW1jVXphUUVTd2c?oc=5",
@@ -309,7 +399,7 @@
   },
   {
    "title": "【即時新聞】Lululemon(LULU)創辦人傳離婚牽動股權，財測下修致單週重挫17%！",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0dQVi1ub0tobjhBcXR6RlQyZWhOWlZ0TVVxUHVJLVJ5MmFLeHYyX0xzaWlwdHRIOW5qd0ZDdUQwTHVacjdoNnFtUTlNVE1FVmxoYkVYNVN5bVVEbVF6THZlR081aUdrelNUSWtmdjBiblVVdUhKNVBPR3ItOFY5V1RvYlBDdElvdHVNbEFiQzI?oc=5",
    "date": "2026-09-06 02:58",
    "lang": "zh",
@@ -319,7 +409,7 @@
   },
   {
    "title": "lululemon athletica (LULU) 股價暴跌16.7%，2026年展望下修，投資者信心受挫！",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzExOXZQQ2dwNHA4T2lmNVFxWEhiMHh1OHdLOWVQTGZrZ1dRVkpfaXhWMWhUNk5kYVUyWkhqelJJTVVqdHZOLThRaUp3UEJzVmo1QjBmek52bWFkd2Nfbzl6OF8wTEQ0anZRdGh5YmVsZDUzcU9kQXU1bm9Pdm1ua2Jsazk3QzZlWmlZMzZ3?oc=5",
    "date": "2026-09-05 13:07",
    "lang": "zh",
@@ -339,7 +429,7 @@
   },
   {
    "title": "lululemon股價暴跌17%！全年展望再度下調，投資者憂心未來",
-   "source": "CMoney投資網誌",
+   "source": "cmnews.com.tw",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXN3M1EtdHhPbFIyY0tsbWdsT29QNkJKc3gtNG9DNnViTjd1NnRBU3pnRElGeWUxMldHZzVCS1VNdEdrLVRXbWdCM1hwT1JKZXVPV0hjaHBMQV9mVVVYd1phTkNQSWE3VHNOWEJjWnNzQkhKU0RtMk5DbHRGUV9NVHE5UDRHZ2NqR0tkclRB?oc=5",
    "date": "2026-09-05 06:03",
    "lang": "zh",
@@ -368,10 +458,10 @@
    "region": "americas"
   },
   {
-   "title": "招牌瑜伽褲賣不動？ Lululemon二度砍全年財測「股價暴跌18%」",
-   "source": "Yahoo新聞",
-   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOZVJRUUNkdTEwZFo5QWtxZFJySjN1cXJ3QzVuSVBfQnUxTnNoa0szSWN5b0Rsci1iYnFNLUlmZTNlb0pzOVFfX19pMkk4VjUxdDgyd2VaS0ptVVBObkhfTEQxcVg3THdrUEowMHFoZE0xSXN2VEtZS19MYUFaUFhGTVBGNE9Udlc5M2hoWFVhdE9DRFVubGJfOHNxY1djNG5JTzRNbThkYzNnSkpRUDU0VTYtZnJJcXNwcVFoTGdDSWtsM0l6SkRFM0VhVGg5ZDl5NmxlaEUyWXBPMkhZUFVlbF96alJoS3VpSVliMGpJZTFHSDFjTl9QTGJsVzZRVGtPNHAySFBMekF4NnVWa1hhbkNMTmJBSkxQVjY4UGlpbEFIQmhORkZyRFBrRzlTSG93MnFEVG5VdlQwamRTWjJMZnRPMkcxUURX?oc=5",
-   "date": "2026-09-04 16:06",
+   "title": "美股法說 LULU｜Lululemon 財報盈餘大贏預期，盤後卻崩跌 18%，儒鴻、聚陽等台灣供應鏈影響(LULU US)",
+   "source": "sinotrade.com.tw",
+   "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPdUpldFJfbjd3Rk9Va2psNGVCdjM3LVV0bDB2OE1nX2pzVVlTaEJFZTFCQW04c3VQbGZJWnZ1eUFsd0tVTkJ1Q3RrMlQzYl9kdk8ycGxBQ0VBaUVJMVBHaGU2RXVCcnFJR2J1MXh1SnhfaTVwMlcwM09JZlFxOVJRbUhuQ3NrM0Q4Qm5GQTFDTWRPV3JpOTZtX1RLLUM4MmV5MjBXTjVvTEZuTi13Q3VkSTBXSmFxZnNkcm9TQXFfZmV5VUVDSHVwZmZsUm1YSlRDbG9yZ1hMaFZmTDFwWjVNcjBGUnEzZ0JESVR2Q3VEbUo3MEs4MElnbWphNFZZY1dSNlhyR09qaXVaZXN3VFNQdHNxTlRaTXJMTTBfSVZRdmFheklCbXVqcTdQTldaWTV3VG1CNGt3VkJScVlFMzlfQjRTbklLUS1mNWRqX19UUzhPSjJsREl1bk9Pc3NyRjdhV045X0EzRzZLV3ZjbVZKczgzaXZfeWNnSnJiazZ4UEFxV1R6Y19mdDZXQlBLeVRObXNHaHR5cmhnMUNXeDJPUjJ2cU5YQjdscDFDV2gyNkpmYzFkZkw4M29zSHd1RHdnWVM5eFJVdng3V1B1QWtoYWFIdzVqeXl3V0E4N2tkcG5xR3N2cl9HeW5QcDM0TXhPYnJjWWY5WHdOVzlES005WlBfcw?oc=5",
+   "date": "2026-09-04 15:00",
    "lang": "zh",
    "brand": "lululemon",
    "brand_name": "Lululemon",
@@ -419,7 +509,7 @@
   },
   {
    "title": "不學Uniqlo反而活得更好！思夢樂營收創新高祕訣：讓顧客FOMO",
-   "source": "天下雜誌",
+   "source": "cw.com.tw",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tWS1HRGh6U3RwSVZPbWhranEtV0g0aUc1ZVcwYVpOeThlRWxHTHZkUG1Sano1eG5BeVhHRVZZVDRuZ3h1cjA2bkhoRDh3UQ?oc=5",
    "date": "2026-08-14 15:00",
    "lang": "zh",
