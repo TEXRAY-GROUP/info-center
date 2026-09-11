@@ -2,7 +2,7 @@
  "block": "brands",
  "title": "品牌客戶動態",
  "source": "Google News(依品牌名彙整,中英文)",
- "fetched_at": "2026-09-11T16:55:09+08:00",
+ "fetched_at": "2026-09-11T18:54:56+08:00",
  "window_days": 30,
  "note": "洲別依**品牌總部所在地**固定歸屬,不隨新聞事件發生地變動。Amer Sports 總部芬蘭(安踏控股)歸歐洲;Shein 營運總部在中國歸亞太。",
  "regions": [
@@ -158,13 +158,43 @@
  ],
  "items": [
   {
+   "title": "【即時新聞】Zara母公司Inditex(IDEXY)啟動美國擴張，2027年前完成20項計畫搶商機！",
+   "source": "CMoney投資網誌",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVlZmelB1VzNKWnBCN1lYTGZwLTR6eTZOWjN2Y0sxLS1HU2hLUWwzY0dGRlVZVm9ZMzBKVWhhU0k0cFRDcHZwYmNnU1E0TjlSWFk4MHg4YnRETGhiQTQ5UDlJZ0FUMWNFTFRNMWFpcTNmdUxocUFwWnBhRVhhd0JwN21MOEZDMmxjQ3Q1NEpXSUM?oc=5",
+   "date": "2026-09-11 18:20",
+   "lang": "zh",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
+   "region": "europe"
+  },
+  {
+   "title": "New Lululemon boss sets tone in welcome note; Spellbook CEO mandates human writing in AI policy",
+   "source": "Ragan Communications",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqX1RENVpBbjAyMWJmNFhZcnIzVjA5b3NpLXNScjhBREpDREpJbWxVLWwwai1sdC1WRDlrNUZlT0xOeDYySmJoT0FvTnY2UjJRN2xOanlRMWRuQXlIT3FlZE4xQTltUUdtb1ZPUTN1M2ZCcHc?oc=5",
+   "date": "2026-09-11 18:00",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "中國市監總局批准安踏收購彪馬29%股權",
    "source": "Hkcna.Hk",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44eVJIWi1LNmZMWFdoajdVSXVKYjE0QzIwUkRtNDZyMEJnV2VKTlpFcW5XYnNrMkthM3ZURWpRM1dXWEpuVGt4Q0ZfRE5yUjVtdFQ0SGNXN2RRaDI0YlVWdXhmZDJYUQ?oc=5",
-   "date": "2026-09-11 14:33",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xbGxQcThxOU8wQy1jUGJkelZJSUZaQjliU1Q2WVNPQjFYTS0ySm9rVGx1ZE15SXZkMTRXMWlrbzlvOXRYSFZyVHc2ZlZYU3B6WjFJR0RTbW9uNVNGMHBVeXk1M3Q4QQ?oc=5",
+   "date": "2026-09-11 17:23",
    "lang": "zh",
    "brand": "puma",
    "brand_name": "Puma",
+   "region": "europe"
+  },
+  {
+   "title": "Inditex posts first-half sales growth",
+   "source": "World Footwear",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlVmTjFveDNEREdxVDhvbG1xVHBXSjU1NlR3dFN6STROZ1hJdDY0ZENrcmVxUXFuVjVIY3JiUUJtcHh4T0JUaFotTm10NEJiOHRjSWNoSVFkQTh6WlI4T1BWRjVLV3VLMm5ReWExekF1MEtxRnBCQzVCZ3VQSzU0M2RCYXlta3lWcUE?oc=5",
+   "date": "2026-09-11 17:10",
+   "lang": "en",
+   "brand": "inditex",
+   "brand_name": "Inditex / Zara",
    "region": "europe"
   },
   {
@@ -179,7 +209,7 @@
   },
   {
    "title": "安踏收購Puma獲市監總局「綠燈」 無條件批准涉資15億歐元交易",
-   "source": "香港01",
+   "source": "hk01.com",
    "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNYk9yckJTMnRDcGI5VV9BcXRObVRFYVdTVTZDNGljNEx4bjRXNDRaNzh6Q3cyR21yUFcxV2xNLXFDekQtck9hSXBtRUQtb1lDcnVFQ0R4NEk0ZWxSTUp3cWxIVDZLM0MtMVpYZy05TktzMk5JUmZhRWkxN2hMSmNEY3RTWk9CTldCR1hPbTR5d0pzM3J4V2ZfaWFXYmxqMFdGeENialo4WTNKallNYXRnTnROU2lTN1U5UWczZlh3ZlpGdmE2VTY1UHBxZi1zR09GQ1V6bFliVjVIVlBzZHJ0eEhvMmV5Q2xDdkZHZVVjU3B5cExCcXQxLXRiQnFTbWEtUFdBQ3hZNnRWX0FoNFhIZXpYLUt5cnZfS25jRldWSkR5NXNSOXAxb21xQ016UVdqZXpnbHhzQ3hfVjRaRm1haHpKQ3MxN2pqTWtQVVhEazJHTmFCcndkeldrcWNVZFZvUUUtbGg5d0hQdk45elFDUzBLSk1OYzJpMnNaZFptb3kyZ3MyeHpYcUxxZEFVd2RCTGd5SA?oc=5",
    "date": "2026-09-11 11:33",
    "lang": "zh",
@@ -208,16 +238,6 @@
    "region": "americas"
   },
   {
-   "title": "Zara owner Inditex reports nearly 7% H1 profit growth",
-   "source": "Retail Insight Network",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWNtclh6LWQ4Y3FZX3NTOE5vQlJjTWpUN3dpRkNwenJVOS0wZi1DR0FkdTZFTDZCRGNTNUJ5RTJ4LWxfVU1EQW11cjMzR21maDJBVXNXNnpCSWlObkVrQTg1Zkoxc0wtY2dJUVhDTXI2VXZSYTZsb2FNQ2pMQ2pTMjVycFdnaG1r?oc=5",
-   "date": "2026-09-10 18:08",
-   "lang": "en",
-   "brand": "inditex",
-   "brand_name": "Inditex / Zara",
-   "region": "europe"
-  },
-  {
    "title": "Primark to Start Home Delivery as Sales Fall Ahead of Split",
    "source": "The Business of Fashion",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWENoaHdDTHIxQlA4LUNFVThGUG5GRTBfM0FjcjhJMW5feXIzSGV1VFF1V29QWW9vaXVHNUtzMnFhWExTT3JEYVVLLS1TRnNmSktZbjhCT2JhaW54bGhhLUpwVy13NFJiU2FZcTRjTlVQTHpNemZUeHVyNl9MbjIza3RBZ19DdlhFclVULWtkTjRTYVhodFgzbFdaajlHWlY4cjdRSjlkdzY3dw?oc=5",
@@ -239,7 +259,7 @@
   },
   {
    "title": "沃爾瑪、Nike等「解放日」損失龐大…退企業關稅 救不了股價",
-   "source": "worldjournal.com",
+   "source": "世界新聞網",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEeDB5dndRQTNDSno2RUpLLS1fb0NMbUdDUnNrM1MzSzRpWEYxaTc1ejV4elZ3YWtJVlJJOEtUNmlzQy11V1FCQjJ6TjhJc1BLamtUWExUdGRTUFcyM3VSbzV30gFnQVVfeXFMT2h4MExiXzVIU0kzZ2JGcXYtYXZhTlB1YUxSclZTNWtmZk10MXN6VXBwa05CckNlZUQ3VWdEb3dDWmlZU2ktM1ptQTlzcTk2aGZSbjhFSWNjLXFNV3FXd25wWmpKaWNsTQ?oc=5",
    "date": "2026-09-10 14:00",
    "lang": "zh",
@@ -388,6 +408,16 @@
    "region": "americas"
   },
   {
+   "title": "lululemon athletica inc. Announces Second Quarter Fiscal 2026 Results",
+   "source": "Lululemon",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlpBQUhya1dobkVqWDl3cFZlbFZFRFpJWHRkM2tKbTEzdXBLM2ZCUGNyZDZnWGFtN2U0Yld0YkNxeVJrQ01wX1liVkdIbmRPM21vNUlhWC10OFdLZFVYWDVqYjBRdFIxRVFIN0JSVVhWTXRQZlIxTlhIeGJRbHIwampxbGRia3BF?oc=5",
+   "date": "2026-09-03 15:00",
+   "lang": "en",
+   "brand": "lululemon",
+   "brand_name": "Lululemon",
+   "region": "americas"
+  },
+  {
    "title": "天候不佳、UNIQLO日本同店銷售陷萎縮迅銷大跌",
    "source": "MoneyDJ",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPci1nMzhtRE9Ia2ZNWnkwYi1HRGNnaEFaOEx6RmtqSGVsNkhqbEVTdjFubDhpb1gwbXowQmVCNTN4OXE1WGQ0NW1QdXdGZ0JrdkJ0dW02ZExWT2tWY3lId1daVWFMUmN5Q29nTjVabmQ4eVZBdG1nUUozamRBcUdxVjlLZEhVUHNKb0twQnhjQkxQUQ?oc=5",
@@ -399,7 +429,7 @@
   },
   {
    "title": "《DJ在線》Nike力拚走出低潮，台廠訂單止穩、真正復甦看後年",
-   "source": "tw.stock.yahoo.com",
+   "source": "Yahoo股市",
    "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPQUJmTHdzMzFXUTZ1eTk1ZVkzd0ktTEV5TTJDT05MN3hJeFlHNDI3ZVNEeWExaVI5RjFsMjhmbkw5WGJlaG00M1c5Tk84S3B6S01XWmdTLTF0WnFnaGhLQ3ZhZDdacWZHb2hWOGR1NkJBQWtkMjdYVURrbGxqODdGcnN2NDBBMlRMLTRha2ZvOTJFb2VJTW91V2U0SlNSMDA0cmZmQnh6eTdWd0VEUE5pQzg0cmNmaEhiREJTd1pKUlM2UTVaT1FrdmpMZlA4LTgwTXRJMkZQNXdvdEYxdWNSNVNfZEtzNVoydVFhZWdESGM2V3FpWFQ2bmVqOHJKbHUtSEdYa2VQZXZwS0llMjcwNVBNa0FiM3hHQmtIRTFJdnNZMnB1dkE4OVVFaWd5MnA3V2RqeDdlOU5LNDBPYUdGVTg1WEJ3dHl6a001b3JQYWhtZnYxZHVSWnBNSk1WWWxEbEkw?oc=5",
    "date": "2026-08-24 15:00",
    "lang": "zh",
